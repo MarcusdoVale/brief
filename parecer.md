@@ -21,4 +21,4 @@ Quem mandou no dia foi a inflação. O **IPCA-15** (a prévia da inflação do m
 
 **Resumo:** o cenário favorece o comprador — inflação fraca aumentou a aposta de corte da Selic de 14,25% para 14%. Contra jogam o dólar em alta e o risco de o Banco Central não confirmar o corte (há quem ache que ele pode segurar). O foco agora é o Copom, dias 4 e 5 de agosto.
 
-Atualizado às 18:20 — não é recomendação de investimento.
+Atualizado às 19:52 (fechamento) — não é recomendação de investimento.
