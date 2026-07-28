@@ -1,0 +1,47 @@
+name: Atualizar Brief
+
+# Roda na nuvem do GitHub (de graca). Nao depende do seu PC.
+on:
+  schedule:
+    # A cada 30 min, de segunda a sexta, ~horario de mercado (UTC).
+    # 11h-22h UTC = ~8h-19h de Brasilia.
+    - cron: '*/30 11-22 * * 1-5'
+  push:
+    # Republica na hora quando o parecer muda.
+    paths:
+      - 'parecer.md'
+  workflow_dispatch: {}   # botao "Run workflow" manual
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Gerar a pagina (index.html)
+        run: python gerar_site.py
+
+      - name: Publicar as mudancas
+        run: |
+          git config user.name "brief-bot"
+          git config user.email "brief-bot@users.noreply.github.com"
+          git add index.html focus_hist.db
+          if git diff --cached --quiet; then
+            echo "Sem mudancas para publicar."
+          else
+            git commit -m "Atualiza brief ($(date -u '+%Y-%m-%d %H:%M') UTC)"
+            git push
+          fi

@@ -1,0 +1,10 @@
+# Arquivos locais que NAO precisam ir pro site
+__pycache__/
+*.pyc
+focus_debug.log
+brief_*.html
+brief_*.md
+analise_atual.*
+*.token
+github_token.txt
+_test.py
