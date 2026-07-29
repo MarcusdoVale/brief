@@ -1,6 +1,6 @@
-**VEREDITO: comprador leve nas ações brasileiras — força 6 de 10.** O placar vira de vez para cima se o Copom confirmar o corte na semana que vem; vira para baixo se o exterior piorar após o tom mais duro do Fed.
+**VEREDITO: vendedor leve nas ações brasileiras — força 5 de 10.** O placar vira para comprador se Wall Street digerir bem a decisão do Fed e o Copom confirmar o corte na semana que vem; piora se o exterior seguir cauteloso com o tom mais duro do Fed.
 
-Hoje o mercado ficou de olho no exterior. O Fed (banco central dos EUA) manteve os juros americanos entre 3,50% e 3,75% pela quinta vez seguida, como se esperava, mas a decisão não foi unânime: três dirigentes queriam **subir** os juros, um tom mais duro que deixou Wall Street cautelosa e segurou a bolsa aqui. Mesmo assim, o pano de fundo do Brasil continua bom: a prévia da inflação veio muito fraca ontem, o que reduz o custo do crédito à frente e favorece as ações. O dólar caiu para perto de R$ 5,11, sinal de dinheiro entrando no país.
+Hoje quem mandou no mercado foi o exterior. O Fed (banco central dos EUA) manteve os juros americanos entre 3,50% e 3,75%, como se esperava, mas a decisão não foi unânime: **três dirigentes queriam subir** os juros, um tom mais duro que deixou Wall Street cautelosa e derrubou a bolsa aqui. Juros altos nos EUA atraem dinheiro para lá e tiram das bolsas emergentes, então o Ibovespa perdeu os 175 mil pontos e recuou cerca de 1%. No pano de fundo, o Brasil segue bem: a prévia da inflação veio muito fraca ontem, o que reforça a aposta de mais um corte da Selic. O dólar ficou perto de R$ 5,11.
 
 **O que saiu hoje (realizado x esperado)**
 
@@ -13,10 +13,10 @@ Hoje o mercado ficou de olho no exterior. O Fed (banco central dos EUA) manteve 
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rondando 174,7 mil; segurar os 175 mil é o teste. Bancos e Petrobras dão o rumo |
-| Dólar | ~R$ 5,11; queda ajuda a bolsa. Alerta se voltar a subir junto com o exterior |
+| Ibovespa | Rondando 174,7 mil; recuperar os 175 mil é o teste. Bancos e Petrobras dão o rumo |
+| Dólar | ~R$ 5,11; alta acima disso, junto com o exterior, pressiona a bolsa |
 | Copom (04 e 05/08) | Mercado aposta ~75–80% em corte de 0,25 ponto na Selic — combustível para as ações |
 
-**Resumo:** A favor da bolsa: inflação fraca e aposta firme em corte de juros no Brasil, com dólar em queda. Contra: exterior cauteloso após o tom mais duro do Fed e realização de lucros perto da máxima. Próximos passos são a reação de Wall Street à decisão do Fed e a contagem regressiva para o Copom.
+**Resumo:** Contra a bolsa hoje: exterior cauteloso após o tom mais duro do Fed e realização de lucros perto da máxima. A favor: inflação fraca e aposta firme em corte de juros no Brasil, com dólar comportado. Próximos passos são a reação de Wall Street à decisão do Fed e a contagem regressiva para o Copom.
 
-Atualizado às 17:09 — não é recomendação de investimento.
+Atualizado às 18:09 — não é recomendação de investimento.
