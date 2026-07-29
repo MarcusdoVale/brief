@@ -1,20 +1,22 @@
-**VEREDITO: neutro, com viés levemente vendedor no curtíssimo prazo — força de compra 4/10.** A bolsa segurou os 175 mil e o placar se decide agora: o Fed (banco central dos EUA) anuncia os juros às 15h, com entrevista do presidente Kevin Warsh às 15h30. Tom calmo destrava a compra; qualquer susto pressiona.
+**VEREDITO: comprador — força 6 de 10 (nas ações brasileiras).** O fundamento doméstico segue bom (corte da Selic quase certo em 05/08), mas a saída do Fed com tom mais duro pede cautela; o placar muda conforme o mercado global digere a decisão nas próximas horas.
 
-A bolsa recuou de forma moderada (perto de −0,5%, em ~175,7 mil), presa entre um fundamento doméstico bom e ruídos externos. Pesam três fatores: a espera pela decisão do Fed (ninguém quer ficar comprado no escuro), a volta da tensão EUA–Irã (que liga o modo de aversão a risco e sobe o petróleo) e o balanço fraco do Santander Brasil, que caiu ~6% e arrastou os bancos — o setor de maior peso no índice. Do outro lado, a inflação fraca de ontem mantém firme a aposta de corte da Selic em 05/08. O dólar sobe pela segunda vez seguida, perto de R$ 5,12.
+Saiu a decisão de juros dos EUA, que era o que travava o mercado. O Fed (banco central americano) manteve os juros na faixa de 3,50%–3,75%, como esperado, mas com três diretores votando por ALTA — um tom mais duro, que aponta para juros altos por lá por mais tempo e esfria um pouco o humor global. Isso ajuda a explicar o Ibovespa cedendo dos 175 mil pontos hoje, também pressionado pela realização de lucros perto da máxima e por bancos. No Brasil, o pano de fundo continua favorável: o IPCA-15 (prévia da inflação) de ontem veio em apenas 0,06%, bem abaixo do esperado, reforçando o espaço para o Banco Central cortar a Selic.
+
+O que saiu hoje (realizado x esperado)
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 (prévia da inflação, julho) | 0,06% | ~0,18% | 0,41% | Bem abaixo do previsto; abre espaço para corte da Selic (bom para ações) |
-| Balanço Santander Brasil (2º tri) | Lucro R$ 3,01 bi (−17,6% no ano) | acima | — | Ação caiu ~6% e puxou os bancos para baixo |
-| Decisão do Fed (EUA) | sai 15h | manter 3,50–3,75% | — | Manter com tom calmo ajuda; sinal de alta pressiona |
+| Juros do Fed (EUA) | 3,50%–3,75% (manteve) | Manutenção | 3,50%–3,75% | Número sem surpresa, mas 3 votos por alta = tom mais duro, cauteloso para a bolsa |
+| IPCA-15 julho (ontem) | 0,06% | 0,18% | 0,41% | Inflação bem fraca; reforça o corte da Selic e favorece ações |
+
+Onde ficar de olho
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segura 175 mil = comprador respira; perder mantém a pressão. Resistência ~178,5 mil |
-| Dólar | Perto de R$ 5,12, em alta — sinal de aversão a risco; acima de R$ 5,15 pesa |
-| Bancos | Santander no centro; ver se contamina Itaú, BB e Bradesco |
-| Cuidado | Fed 15h + entrevista 15h30 e tensão EUA–Irã podem virar o jogo nos dois sentidos |
+| Ibovespa | Segurar os 175 mil = comprador respira; perder acelera a realização. Bancos e Petrobras dão o tom |
+| Dólar | Perto de R$ 5,11; queda ajuda a bolsa, alta liga o alerta |
+| Setores | Bancos e empresas endividadas ganham com a expectativa de corte de juros |
 
-**Resumo:** favorecem a compra o IPCA-15 fraco e o corte da Selic em 05/08; contra, jogam a espera do Fed, a tensão EUA–Irã, o dólar em alta e os bancos após o Santander. É mais ruído de humor global do que mudança no Brasil — o fundamento doméstico segue firme. O jogo se decide na entrevista do Fed à tarde; depois, o foco volta ao Copom (04 e 05/08).
+**Resumo:** a favor do comprador está o Brasil (Selic caindo na semana que vem — 75% de aposta em corte de 0,25 ponto no Copom de 05/08 — e inflação fraca). A favor do vendedor está o exterior mais cauteloso após o Fed e a realização perto da máxima. O gatilho de curto prazo é como o mercado global reage ao tom mais duro do Fed nas próximas horas; depois, o foco vira o Copom (04 e 05/08).
 
-Atualizado às 15:12 — não é recomendação de investimento.
+Atualizado às 16:07 — não é recomendação de investimento.
