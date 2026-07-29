@@ -281,6 +281,20 @@ def main():
     # Remove menções a "grátis/gratuita" (impressão amadora)
     md = md.replace("de fonte gratuita (stooq)", "(stooq)")
     md = md.replace("gratuita ", "").replace("gratuitas ", "").replace("grátis", "")
+
+    # Polimento de texto: acentuação correta (PT-BR) e linguagem menos tosca
+    polir = {
+        "económica": "econômica",
+        "projecoes": "projeções",
+        "das projeções.": "das projeções.",
+        "barateia o crédito": "reduz o custo do crédito",
+        "barateia crédito": "reduz o custo do crédito",
+        "empurrando dinheiro para as ações": "direcionando o dinheiro para as ações",
+        "empurrando dinheiro para as acoes": "direcionando o dinheiro para as ações",
+    }
+    for a, b in polir.items():
+        md = md.replace(a, b)
+
     html = render_html(md)
 
     with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
