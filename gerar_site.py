@@ -259,6 +259,10 @@ def main():
     except Exception:
         cotacoes = []
     try:
+        mundo = fb.pegar_indices_mundo()
+    except Exception:
+        mundo = []
+    try:
         agenda = fb.pegar_agenda()
     except Exception:
         agenda = []
@@ -277,7 +281,7 @@ def main():
         pass
 
     parecer = fb.ler_parecer()
-    md = fb.montar_brief(focus, agenda, variacao, prev_fmt, sgs, cotacoes, parecer)
+    md = fb.montar_brief(focus, agenda, variacao, prev_fmt, sgs, cotacoes, parecer, mundo)
     # Remove menções a "grátis/gratuita" (impressão amadora)
     md = md.replace("de fonte gratuita (stooq)", "(stooq)")
     md = md.replace("gratuita ", "").replace("gratuitas ", "").replace("grátis", "")

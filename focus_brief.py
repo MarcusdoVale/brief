@@ -72,6 +72,20 @@ STOOQ = [
 ]
 STOOQ_URL = "https://stooq.com/q/l/?s=%s&f=sd2t2ohlc&h&e=csv"
 
+# Índices que mais movem o humor global — Ásia (fecha de madrugada, horário BR)
+# e Europa (abre de manhã). (nome, símbolo stooq, região)
+MUNDO = [
+    ("Nikkei 225 🇯🇵", "^nkx", "Ásia"),
+    ("Hang Seng 🇭🇰", "^hsi", "Ásia"),
+    ("Shanghai 🇨🇳", "^shc", "Ásia"),
+    ("KOSPI 🇰🇷", "^kospi", "Ásia"),
+    ("DAX 🇩🇪", "^dax", "Europa"),
+    ("FTSE 100 🇬🇧", "^ukx", "Europa"),
+    ("CAC 40 🇫🇷", "^cac", "Europa"),
+    ("Euro Stoxx 50 🇪🇺", "^stx", "Europa"),
+    ("IBEX 35 🇪🇸", "^ibex", "Europa"),
+]
+
 DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "focus_hist.db")
 
 INDICADORES = [
@@ -212,6 +226,38 @@ def pegar_cotacoes():
                         "hora": (r.get("Time") or "")[:5]})
         except Exception as e:
             _log("ERRO stooq %s (%s): %r" % (nome, simb, e))
+    return out
+
+
+def pegar_indices_mundo():
+    """Índices de Ásia e Europa via stooq (CSV grátis). Defensivo: se um
+    símbolo falhar ou vier sem dado, é ignorado — nunca quebra o brief."""
+    out = []
+    for nome, simb, regiao in MUNDO:
+        try:
+            txt = _get_bytes(STOOQ_URL % urllib.parse.quote(simb), timeout=20).decode("utf-8")
+            rows = list(csv.DictReader(io.StringIO(txt)))
+            if not rows:
+                continue
+            r = rows[0]
+            close = r.get("Close") or r.get("close")
+            openp = r.get("Open") or r.get("open")
+            if close in (None, "", "N/D"):
+                continue
+            c = float(close)
+            var = ""
+            try:
+                o = float(openp)
+                if o:
+                    pct = (c - o) / o * 100.0
+                    seta = "▲" if pct > 0 else ("▼" if pct < 0 else "▬")
+                    var = ("%s %+.2f%%" % (seta, pct)).replace(".", ",")
+            except (TypeError, ValueError):
+                pass
+            out.append({"nome": nome, "valor": c, "var": var,
+                        "hora": (r.get("Time") or "")[:5], "regiao": regiao})
+        except Exception as e:
+            _log("ERRO stooq mundo %s (%s): %r" % (nome, simb, e))
     return out
 
 
@@ -492,12 +538,12 @@ def ler_parecer():
 
 
 def montar_brief(focus, agenda, variacao=None, prev_fmt=None, sgs=None,
-                 cotacoes=None, parecer=None):
+                 cotacoes=None, parecer=None, mundo=None):
     hoje = dt.date.today().strftime("%d/%m/%Y")
     agora = dt.datetime.now().strftime("%H:%M")
     variacao = variacao or {}
     L = []
-    L.append("# Brief de Mercado — %s\n" % hoje)
+    L.append("# Panorama de Mercado — %s\n" % hoje)
     L.append("_Atualizado às %s. Fontes: Focus/SGS/Copom/Setor Externo (BCB), "
              "agenda IBGE, FOMC (Fed), cotações stooq. Não é recomendação._\n" % agora)
 
@@ -516,6 +562,25 @@ def montar_brief(focus, agenda, variacao=None, prev_fmt=None, sgs=None,
                                            c.get("var") or "-"))
         L.append("\n_Cotações de fonte gratuita (stooq), com atraso; variação medida "
                  "vs. abertura do dia. Referência para leitura, não para execução._\n")
+
+    # ---- Abertura das bolsas: Ásia e Europa ----
+    if mundo:
+        L.append("## 🌏 Abertura das bolsas — Ásia e Europa\n")
+        L.append("_As bolsas que mais movem o humor global. A Ásia já fechou "
+                 "(pregão de madrugada, horário de Brasília); a Europa abre pela "
+                 "manhã. Fonte: stooq, com atraso._\n")
+        for regiao, titulo in (("Ásia", "**Ásia** — fechamento"),
+                               ("Europa", "**Europa** — abertura")):
+            linhas = [m for m in mundo if m.get("regiao") == regiao]
+            if not linhas:
+                continue
+            L.append(titulo + "\n")
+            L.append("| Bolsa | Nível | No dia (vs abertura) |")
+            L.append("|---|---|---|")
+            for m in linhas:
+                L.append("| %s | %s | %s |" % (m["nome"], _fmt_cot(m["valor"]),
+                                               m.get("var") or "-"))
+            L.append("")
 
     # ---- Focus ----
     L.append("## Expectativas de Mercado (Focus)\n")
@@ -645,6 +710,13 @@ def main():
         _log("ERRO cotacoes: %r" % e)
         cotacoes = []
 
+    print("Coletando índices de Ásia/Europa (stooq)...")
+    try:
+        mundo = pegar_indices_mundo()
+    except Exception as e:
+        _log("ERRO indices mundo: %r" % e)
+        mundo = []
+
     print("Coletando agenda económica...")
     agenda = pegar_agenda()
 
@@ -665,7 +737,7 @@ def main():
         _log("ERRO historico: %r" % e)
 
     parecer = ler_parecer()
-    md = montar_brief(focus, agenda, variacao, prev_fmt, sgs, cotacoes, parecer)
+    md = montar_brief(focus, agenda, variacao, prev_fmt, sgs, cotacoes, parecer, mundo)
     stamp = dt.date.today().isoformat()
     # gera apenas os arquivos datados do dia (o HTML se recarrega sozinho a cada 30 min)
     paths = {
