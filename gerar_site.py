@@ -152,7 +152,8 @@ def render_html(md):
         sub = (sub + " · " if sub else "") + "atualizado às %s" % updated
     html.append('<header class="top">')
     html.append("<h1>%s</h1>" % nome_html)
-    html.append('<div class="sub">%s · fontes oficiais gratuitas (BCB, IBGE, stooq)</div>'
+    html.append('<div class="sub">%s · Fontes: Banco Central do Brasil (Focus, SGS, Copom), '
+                'IBGE, Federal Reserve e stooq</div>'
                 % (sub or "leitura de mercado"))
     html.append('<span class="badge"><span class="dot"></span> ao vivo · atualiza sozinho a cada 30 min</span>')
     html.append("</header>")
@@ -229,7 +230,7 @@ def render_html(md):
         html.append(_flush_table(tbl))
     close_section()
 
-    foot = " · ".join([f for f in footer_lines if f.strip()]) or "Não é recomendação de investimento."
+    foot = "Não é recomendação de investimento — ferramenta de apoio à decisão."
 
     page = []
     page.append("<!doctype html><html lang='pt-br'><head><meta charset='utf-8'>")
@@ -277,6 +278,9 @@ def main():
 
     parecer = fb.ler_parecer()
     md = fb.montar_brief(focus, agenda, variacao, prev_fmt, sgs, cotacoes, parecer)
+    # Remove menções a "grátis/gratuita" (impressão amadora)
+    md = md.replace("de fonte gratuita (stooq)", "(stooq)")
+    md = md.replace("gratuita ", "").replace("gratuitas ", "").replace("grátis", "")
     html = render_html(md)
 
     with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
