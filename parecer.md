@@ -1,23 +1,27 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10 (neutro, dedo no gatilho).** O placar do dia se decide na decisão de juros do Fed (o banco central dos EUA), às 15h de Brasília: manter os juros com tom calmo ajuda a bolsa; sinal de juros mais altos lá fora tira força do comprador.
+**VEREDITO: vendedor no curto prazo — o comprador perdeu a força (3 de 10).** A bolsa perdeu o suporte dos 175 mil pontos e caiu forte, puxada pelos bancos e pela volta da tensão entre EUA e Irã. Ainda dá pra virar às 15h, na decisão de juros do Fed (o banco central dos EUA): manter os juros com tom calmo pode devolver parte da queda; qualquer susto derruba mais.
 
-Quem manda no humor hoje é a espera pelo Fed, e por isso a bolsa opera de lado e defensiva, em leve queda perto de 175,3 mil pontos, com o dólar em alta pela segunda sessão, perto de R$ 5,12. A aposta principal é de manutenção da taxa americana (faixa 3,50%–3,75%), a quinta reunião seguida sem mudança, mas a incerteza cresceu e há quem veja risco de alta; soma-se a isso a volta de tensão no Oriente Médio. Em casa o cenário segue bom: o IPCA-15 de julho (a prévia da inflação do mês, saiu em 28/07) veio em apenas 0,06%, cerca de um quarto do previsto, reforçando a aposta de corte da Selic (a taxa básica de juros, hoje em 14,25% ao ano) no Copom de 5 de agosto, com cerca de 75%–80% do mercado apostando em corte de 0,25 ponto.
+O que mudou desde a manhã: a leitura de "comprador" fazia sentido cedo, com a inflação fraca e o corte da Selic quase certo. Mas depois do meio-dia entraram três pancadas novas. Primeira, **reacendeu a guerra EUA–Irã** no Oriente Médio (Teerã voltou a atacar bases americanas), o que ligou o modo "aversão a risco" no mundo e virou o petróleo. Segunda, o **balanço ruim do Santander Brasil** derrubou a ação uns 6% e arrastou todo o setor bancário — que é o de maior peso no Ibovespa, então sozinho já puxa o índice pra baixo. Terceira, a **espera pelo Fed**: ninguém quer ficar comprado no escuro faltando pouco pra decisão. Resultado: o índice perdeu os 175.326 (a mínima de ontem, o nosso nível de alerta) e opera perto de 174,9 mil, com o dólar em alta perto de R$ 5,12.
 
-**O que saiu (realizado x esperado)**
+Importante: **a história de casa não quebrou.** A inflação segue fraca e o corte da Selic no Copom de 5 de agosto continua sendo a aposta principal. A queda de hoje é de choque externo (geopolítica + bancos + espera do Fed), não uma mudança no fundamento brasileiro.
 
-| Indicador | Saiu | Esperado | Anterior | O que significa |
-|---|---|---|---|---|
-| Decisão de juros do Fed (EUA) | sai 15h | manter 3,50%–3,75% | 3,50%–3,75% | Evento do dia; manter com tom calmo ajuda a bolsa; endurecer pressiona o dólar para cima |
-| IPCA-15 jul (prévia da inflação, saiu 28/07) | +0,06% | ~+0,22% | +0,41% (jun) | Bem abaixo do previsto; reforça o corte da Selic — favorece a bolsa |
+**O que pesou hoje**
+
+| Fator | O que significa |
+|---|---|
+| Guerra EUA–Irã reacendeu | Aversão a risco global; petróleo virou pra cima; dinheiro foge da bolsa |
+| Balanço fraco do Santander Brasil | Unit caiu ~6% e arrastou todo o setor bancário, o de maior peso no Ibov |
+| Espera do Fed (15h) | Mercado travado e defensivo antes da decisão de juros dos EUA |
+| IPCA-15 fraco / corte da Selic (05/08) | Fundamento doméstico segue favorável — não foi o que derrubou hoje |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segura os 175 mil; perder esse piso abre espaço para mais queda; retomar 176 mil melhora o humor |
-| Dólar | Perto de R$ 5,12, em alta; furar R$ 5,13 é sinal de aversão a risco |
-| Setores | Bancos e Petrobras dão o tom; cuidado com o petróleo por causa do Oriente Médio |
-| Cuidado | Até as 15h o mercado tende a andar de lado; evite correr atrás de alta antes da decisão |
+| Ibovespa | Perdeu os 175 mil (alerta); seguir abaixo mantém a pressão vendedora; voltar acima alivia |
+| Dólar | Perto de R$ 5,12, em alta — sinal de aversão a risco |
+| Bancos | Santander no centro; ver se contamina Itaú, BB e Bradesco |
+| Cuidado | Fed às 15h + fala do presidente do Fed às 15h30 podem virar o jogo nos dois sentidos |
 
-**Resumo:** a favor da alta jogam a inflação fraca e o corte da Selic quase certo em agosto (de 14,25% para 14%). Contra o comprador, a espera pelo Fed e a tensão geopolítica, que valorizam o dólar. Antes da decisão, mercado travado; a reação vem depois do comunicado e da fala do presidente do Fed, Kevin Warsh, às 15h30. Na sequência, o foco vira o Copom, dias 4 e 5 de agosto.
+**Resumo:** o curto prazo virou pro vendedor — a bolsa perdeu o suporte por causa de choques externos (guerra EUA–Irã, balanço do Santander) somados à espera do Fed. A história doméstica (inflação fraca, corte da Selic em agosto) segue de pé, então é mais susto de humor global que mudança de fundamento. Tudo pode mudar às 15h, com o comunicado e a fala do presidente do Fed às 15h30. Depois disso, o foco volta pro Copom, dias 4 e 5 de agosto.
 
-Atualizado às 13:12 — não é recomendação de investimento.
+Atualizado às 14:16 — não é recomendação de investimento.
