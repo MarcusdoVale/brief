@@ -9,7 +9,15 @@ Roda no seu PC e na nuvem (GitHub Actions).
 """
 import os
 import re
+import time
 import datetime as dt
+
+# Garante horario de Brasilia mesmo rodando na nuvem (servidor em UTC)
+os.environ["TZ"] = "America/Sao_Paulo"
+try:
+    time.tzset()
+except Exception:
+    pass
 
 import focus_brief as fb
 
