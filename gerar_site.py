@@ -155,7 +155,7 @@ def render_html(md):
     html.append('<div class="sub">%s · Fontes: Banco Central do Brasil (Focus, SGS, Copom), '
                 'IBGE, Federal Reserve e stooq</div>'
                 % (sub or "leitura de mercado"))
-    html.append('<span class="badge"><span class="dot"></span> ao vivo · atualiza sozinho a cada 30 min</span>')
+    html.append('<span class="badge"><span class="dot"></span> atualiza a cada evento da agenda econômica</span>')
     html.append("</header>")
 
     section_open = False
