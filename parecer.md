@@ -1,22 +1,23 @@
-**VEREDITO: vendedor leve nas ações brasileiras — força 5 de 10.** O placar vira para comprador se Wall Street digerir bem a decisão do Fed e o Copom confirmar o corte na semana que vem; piora se o exterior seguir cauteloso com o tom mais duro do Fed.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: o Brasil está favorável (inflação muito baixa e corte de juros quase certo dia 05/08), mas o exterior manda no curto prazo e está pesado — se Nova York cair de novo, a bolsa aqui vai junto.
 
-Hoje quem mandou no mercado foi o exterior. O Fed (banco central dos EUA) manteve os juros americanos entre 3,50% e 3,75%, como se esperava, mas a decisão não foi unânime: **três dirigentes queriam subir** os juros, um tom mais duro que deixou Wall Street cautelosa e derrubou a bolsa aqui. Juros altos nos EUA atraem dinheiro para lá e tiram das bolsas emergentes, então o Ibovespa perdeu os 175 mil pontos e recuou cerca de 1%. No pano de fundo, o Brasil segue bem: a prévia da inflação veio muito fraca ontem, o que reforça a aposta de mais um corte da Selic. O dólar ficou perto de R$ 5,11.
+Quem dominou foi o exterior. Ontem (29) o Ibovespa caiu forte (-1,52%, aos 173.885 pontos), acompanhando Nova York, por causa da tensão no Oriente Médio (estreito de Ormuz), da alta do petróleo e da queda das ações de tecnologia e inteligência artificial lá fora. O ponto interno é bom: a prévia da inflação veio muito abaixo do esperado, o que abre espaço para o Banco Central cortar a taxa de juros (bom para as ações, pois reduz o custo do crédito e direciona o dinheiro para a bolsa). O mercado abre às 10h — os números abaixo são o último fechamento.
 
-**O que saiu hoje (realizado x esperado)**
+**O que saiu (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Decisão de juros do Fed (EUA) | manteve 3,50%–3,75% | manteve | 3,50%–3,75% | Sem surpresa, mas 3 votos por alta = tom mais duro, pesa no exterior |
-| IPCA-15 (prévia da inflação, saiu ontem 28/07) | 0,06% | 0,18% | 0,41% | Inflação bem menor que o previsto; abre espaço para corte da Selic |
+| IPCA-15 julho (prévia da inflação, saiu 28/07) | 0,06% | 0,18% | 0,41% | Inflação bem fraca; reforça o corte de juros — bom para a bolsa |
+| Decisão de juros do Fed (EUA), 29/07 | manteve 3,50%–3,75% | manteve | 3,50%–3,75% | Manteve, mas 3 dirigentes queriam ALTA — tom mais duro no exterior |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rondando 174,7 mil; recuperar os 175 mil é o teste. Bancos e Petrobras dão o rumo |
-| Dólar | ~R$ 5,11; alta acima disso, junto com o exterior, pressiona a bolsa |
-| Copom (04 e 05/08) | Mercado aposta ~75–80% em corte de 0,25 ponto na Selic — combustível para as ações |
+| Ibovespa | Segurar acima de 173.900; abaixo disso o humor piora. Resistência perto de 176.500 |
+| Dólar | Fechou a R$ 5,1084 (-0,27%); dólar subindo pressiona a bolsa para baixo |
+| Setores | Petróleo em alta ajuda a Petrobras; tecnologia frágil no exterior |
+| Cuidado | Notícia do Oriente Médio pode virar o dia a qualquer hora |
 
-**Resumo:** Contra a bolsa hoje: exterior cauteloso após o tom mais duro do Fed e realização de lucros perto da máxima. A favor: inflação fraca e aposta firme em corte de juros no Brasil, com dólar comportado. Próximos passos são a reação de Wall Street à decisão do Fed e a contagem regressiva para o Copom.
+**Resumo:** a favor do comprador estão a inflação baixa e a aposta firme de corte da Selic para 14% (75,5% de chance no Copom de 05/08). Contra, está o exterior nervoso: Fed dividido com viés mais duro, petróleo em alta e tensão geopolítica. Enquanto Nova York não firmar, o Brasil bom não aparece no preço. Fique atento à abertura às 10h e ao noticiário externo.
 
-Atualizado às 18:09 — não é recomendação de investimento.
+Atualizado às 08:12 — não é recomendação de investimento.
