@@ -23,6 +23,6 @@ Ou seja: a base da alta (corte da Selic na quarta) ficou até mais sólida com a
 | Setores | Ontem: indústria, energia e bancos na frente; siderurgia na contramão (Usiminas −9,3%, CSN −4,8%) |
 | Cuidado | Dado fiscal ruim tende a bater mais nos juros longos e no câmbio do que na bolsa; olho no real hoje |
 
-**Resumo:** com os números na mesa, o placar fica mais equilibrado. A favor da alta: inflação na indústria em queda, custo do trabalho comportado nos EUA e a aposta firme em corte da Selic (de 14,25% para 14,00%) na quarta. Contra: a dívida pública subiu e o déficit aumentou, reforçando o receio fiscal num ano eleitoral. Por isso baixei a força de 6 para 5 — o risco que eu tinha sinalizado se confirmou, mas a tese principal (corte de juros) ficou até mais sólida. O grande evento segue sendo o Copom, quarta (05/08).
+**Resumo:** com os números na mesa, o placar fica mais equilibrado. A favor da alta: inflação na indústria em queda, custo do trabalho comportado nos EUA e a aposta firme em corte da Selic (de 14,25% para 14,00%) na quarta — o mercado já dá cerca de 75% de chance a esse corte de 0,25 ponto. Contra: a dívida pública subiu e o déficit aumentou, reforçando o receio fiscal num ano eleitoral. Por isso a força fica em 5 — o risco que eu tinha sinalizado se confirmou, mas a tese principal (corte de juros) ficou até mais sólida. Lembrando: o Fed (banco central dos EUA) manteve os juros em 3,50%–3,75% na quarta, o que não atrapalha a aposta local. O grande evento segue sendo o Copom, quarta (05/08).
 
-Atualizado às 09:59 (sexta, 31/07), após os dados da manhã — não é recomendação de investimento.
+Atualizado às 10:15 (sexta, 31/07), após os dados da manhã — não é recomendação de investimento.
