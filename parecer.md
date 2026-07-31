@@ -1,28 +1,25 @@
-**VEREDITO: comprador nas ações brasileiras — força 5 de 10.** Tiro um ponto: os dados fiscais de hoje (o risco que eu tinha marcado) vieram no lado ruim — a dívida do governo subiu. Mas a inflação na indústria caiu e os EUA ajudaram, então a aposta no corte da Selic (quarta, 05/08) segue firme. É um empate técnico entre notícia fiscal ruim e notícia de inflação boa.
+**VEREDITO: comprador nas ações brasileiras — força 5 de 10.** Empate técnico: a inflação fraca e a aposta firme no corte da Selic (quarta, 05/08) puxam para cima; a piora fiscal de hoje e uma falha técnica da B3 seguram o entusiasmo. O placar muda com a reabertura do pregão e o real.
 
-Saiu tudo pela manhã. No lado que decepcionou: a dívida bruta do governo subiu para 81,9% do PIB (era 81,1%) e o rombo nas contas públicas aumentou (−R$ 166 bi, ante −R$ 164 bi). Em ano de eleição, o mercado está sensível a isso — pesa contra o real e contra os juros longos. No lado que animou: os preços na indústria (IPP) caíram 0,77% no mês, uma deflação que reforça a ideia de inflação sob controle e ajuda o Banco Central a cortar juros. E, nos EUA, o custo do trabalho (o dado que poderia atrapalhar) veio comportado, em 0,9% — tira um risco de fora do caminho.
-
-Ou seja: a base da alta (corte da Selic na quarta) ficou até mais sólida com a inflação fraca e o alívio lá fora. O que segura o entusiasmo é a piora fiscal — modesta, e em parte só reflexo do juro alto sobre a dívida, mas confirma o ponto fraco do Brasil.
+Duas coisas mandaram na manhã. Primeiro, uma falha na Câmara da B3 (o setor que processa e liquida as operações) atrasou a abertura por mais de duas horas — ações, mini-índice e mini-dólar ficaram em leilão, com o pregão remarcado para as 12h03 e provavelmente mais curto. Segundo, os dados fiscais decepcionaram: a dívida bruta do governo subiu para 81,9% do PIB e o rombo nas contas públicas aumentou — em ano de eleição isso pesa contra o real e os juros longos. Do lado bom, os preços na indústria (IPP) caíram 0,77% no mês, reforçando a ideia de inflação sob controle, e a aposta em corte de juros segue firme (mercado dá ~75% de chance a −0,25 ponto, de 14,25% para 14,00%). Ontem a bolsa já vinha embalada: +1,88% (177.159 pontos), com dólar a R$ 5,06.
 
 **O que saiu hoje (realizado x anterior)**
 
 | Indicador | Saiu | Anterior | O que significa |
 |---|---|---|---|
-| Dívida bruta / PIB (jun) | 81,9% | 81,1% | Subiu; piora fiscal, ponto fraco do Brasil (ruim) |
-| Saldo nominal do setor público (jun) | −R$ 166 bi | −R$ 164 bi | Rombo maior; parte é juro alto sobre a dívida (ruim) |
-| IPP — preços na indústria, mês (jun) | −0,77% | −0,3% | Deflação no atacado industrial; ajuda a inflação (bom) |
-| IPP anual (jun) | 2,51% | 2,00% | Acumulado ainda baixo, subiu de leve (neutro) |
-| EUA — custo do trabalho, ECI (2º tri) | 0,9% | 0,9% | Em linha, comportado; tira risco de juros lá fora (bom) |
+| Dívida bruta / PIB (jun) | 81,9% | 81,1% | Subiu; piora fiscal (ruim) |
+| Saldo nominal do setor público (jun) | −R$ 166 bi | −R$ 164 bi | Rombo maior, parte é juro sobre a dívida (ruim) |
+| IPP — preços na indústria, mês (jun) | −0,77% | −0,3% | Deflação no atacado; ajuda a inflação (bom) |
+| Abertura da B3 | atrasada p/ 12h03 | 09h45–10h | Falha na Câmara; pregão curto e menos líquido (atenção) |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Base é o fechamento de ontem: 177.159 (+1,88%). Segurar acima de 176 mil mantém o otimismo; alvo 180 mil |
-| Dólar | Fechou a R$ 5,06. A piora fiscal é o que pode pressionar de volta; abaixo de R$ 5,05 mira R$ 5,00 |
-| Setores | Ontem: indústria, energia e bancos na frente; siderurgia na contramão (Usiminas −9,3%, CSN −4,8%) |
-| Cuidado | Dado fiscal ruim tende a bater mais nos juros longos e no câmbio do que na bolsa; olho no real hoje |
+| Ibovespa | Sem cotação oficial até as 12h03. Base é ontem: 177.159. Acima de 176 mil mantém o otimismo; alvo 180 mil |
+| Dólar | R$ 5,06. A piora fiscal pode pressionar de volta; olho se passar de R$ 5,10 |
+| Setores | Bancos e consumo favorecidos pela aposta de corte; mineração/siderurgia mais fracas |
+| Cuidado | Reabertura após leilão longo tende a ter movimentos bruscos e baixa liquidez |
 
-**Resumo:** com os números na mesa, o placar fica mais equilibrado. A favor da alta: inflação na indústria em queda, custo do trabalho comportado nos EUA e a aposta firme em corte da Selic (de 14,25% para 14,00%) na quarta — o mercado já dá cerca de 75% de chance a esse corte de 0,25 ponto. Contra: a dívida pública subiu e o déficit aumentou, reforçando o receio fiscal num ano eleitoral. Por isso a força fica em 5 — o risco que eu tinha sinalizado se confirmou, mas a tese principal (corte de juros) ficou até mais sólida. Lembrando: o Fed (banco central dos EUA) manteve os juros em 3,50%–3,75% na quarta, o que não atrapalha a aposta local. O grande evento segue sendo o Copom, quarta (05/08).
+**Resumo:** a favor da alta — inflação industrial em queda e corte da Selic quase certo na quarta; contra — dívida e déficit maiores num ano eleitoral, mais a instabilidade e o pregão encurtado da B3 hoje. Por isso a força fica em 5. O Fed manteve os juros em 3,50%–3,75% e não atrapalha a tese local. O grande evento segue sendo o Copom, quarta (05/08).
 
-Atualizado às 10:15 (sexta, 31/07), após os dados da manhã — não é recomendação de investimento.
+Atualizado às 11:14 (sexta, 31/07) — não é recomendação de investimento.
