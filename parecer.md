@@ -22,4 +22,4 @@ Duas coisas mandaram no dia. Primeiro, uma falha na Câmara da B3 (o setor que p
 
 **Resumo:** a favor da alta — inflação fraca e corte da Selic quase certo na quarta (mercado dá cerca de 75%–80% de chance a −0,25, de 14,25% para 14,00%); contra — dívida e déficit maiores num ano eleitoral, mais a instabilidade e o pregão encurtado da B3 hoje. O Fed manteve os juros e ficou mais duro, mas não derruba a tese local. O grande evento segue sendo o Copom, quarta (05/08).
 
-Atualizado às 13:09 (sexta, 31/07) — não é recomendação de investimento.
+Atualizado às 14:09 (sexta, 31/07) — não é recomendação de investimento.
