@@ -1,25 +1,25 @@
-**VEREDITO: comprador nas ações brasileiras — força 5 de 10.** Empate técnico: a inflação fraca e a aposta firme no corte da Selic (quarta, 05/08) puxam para cima; a piora fiscal de hoje e o pregão bagunçado pela falha da B3 seguram o entusiasmo. O placar muda com o comportamento do real na tarde e com o tom que o mercado der à reabertura.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** É fim de semana e o mercado está fechado; este é o quadro para a semana que começa. O placar depende do Copom na quarta (05/08): corte confirmado puxa a bolsa para cima; manutenção ou dólar em disparada seguram o entusiasmo.
 
-Duas coisas mandaram no dia. Primeiro, uma falha na Câmara da B3 (o setor que processa e liquida as operações) atrasou a abertura por mais de duas horas — ações, mini-índice e mini-dólar ficaram em leilão, e o pregão só foi retomado por volta das 12h30, o que deixa a sessão mais curta e com liquidez irregular. Segundo, os dados fiscais decepcionaram: a dívida bruta do governo subiu para 81,9% do PIB e o rombo nas contas públicas aumentou — em ano de eleição isso pesa contra o real e os juros longos. Do lado bom, a prévia da inflação (IPCA-15) de julho veio a apenas 0,06%, bem abaixo do esperado, e reforça a aposta de que o banco central corta a Selic (a taxa básica de juros) na quarta. Ontem a bolsa já vinha embalada: +1,88% (177.159 pontos), com dólar a R$ 5,06.
+A bolsa entra na semana com clima positivo. A prévia da inflação (IPCA-15) de julho veio a apenas 0,06%, bem abaixo do esperado, e reforça a aposta de que o Banco Central começa a cortar a Selic (a taxa básica de juros) na quarta. Juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações — por isso a bolsa fechou julho no azul (+3,47% no mês) e o dólar recuou. Pesam contra a piora nas contas públicas em ano eleitoral e um Fed (banco central dos EUA) que manteve os juros com tom mais duro. Os valores abaixo são do fechamento de sexta (31/07).
 
-**O que saiu hoje (realizado x esperado)**
+**O que já saiu (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Dívida bruta / PIB (jun) | 81,9% | sem dado | 81,1% | Subiu; piora fiscal (ruim) |
-| Saldo nominal do setor público (jun) | −R$ 166 bi | sem dado | −R$ 164 bi | Rombo maior, parte é juro sobre a dívida (ruim) |
-| IPCA-15 julho (prévia da inflação, div. 28/07) | 0,06% | 0,18% | 0,41% | Inflação bem fraca; abre espaço para corte de juros (bom) |
-| Fed — juros EUA (29/07) | 3,50%–3,75% (mantido) | Manter | 3,50%–3,75% | Tom mais duro, 3 diretores queriam alta; pressão sobre risco |
+| IPCA-15 julho (prévia da inflação, 28/07) | 0,06% | 0,18% | 0,41% | Inflação bem fraca; abre espaço para corte de juros (bom para a bolsa) |
+| Ibovespa (fech. 31/07) | 177.999 pts (+0,47%) | — | — | Fechou julho em alta, primeiro mês positivo após quatro de queda |
+| Dólar (fech. 31/07) | R$ 5,06 (+0,17%) | — | — | Recuou 1,82% em julho; moeda mais calma |
+| Fed — juros EUA (29/07) | 3,50%–3,75% (mantido) | Manter | 3,50%–3,75% | Tom mais duro; pressão sobre ativos de risco |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Reabriu por volta das 12h30. Base é ontem: 177.159. Acima de 176 mil mantém o otimismo; alvo 180 mil, perde força abaixo de 174 mil |
-| Dólar | R$ 5,06–5,07. A piora fiscal pode pressionar de volta; olho se passar de R$ 5,10 |
-| Setores | Bancos, varejo e consumo favorecidos pela aposta de corte; mineração/siderurgia mais fracas |
-| Cuidado | Sessão encurtada e com liquidez irregular após o leilão longo tende a ter movimentos bruscos |
+| Ibovespa | Suporte perto de 176–177 mil; acima de 178 mil mantém o otimismo, alvo 180 mil |
+| Dólar | R$ 5,06 como referência; atenção se passar de R$ 5,10 (sinal de cautela) |
+| Juros (Selic) | Copom quarta 05/08: cerca de 75%–86% do mercado aposta em corte de 0,25 ponto, para 14% ao ano. Confirmação favorece a bolsa; manutenção decepciona |
+| Setores | Bancos, varejo e consumo favorecidos pela aposta de corte |
 
-**Resumo:** a favor da alta — inflação fraca e corte da Selic quase certo na quarta (mercado dá cerca de 75%–80% de chance a −0,25, de 14,25% para 14,00%); contra — dívida e déficit maiores num ano eleitoral, mais a instabilidade e o pregão encurtado da B3 hoje. O Fed manteve os juros e ficou mais duro, mas não derruba a tese local. O grande evento segue sendo o Copom, quarta (05/08).
+**Resumo:** a favor da alta — inflação fraca e corte da Selic quase certo na quarta. Contra — contas públicas piores num ano eleitoral e humor externo mais cauteloso após o Fed. Na semana também há decisão de juros nos EUA e dados de emprego americanos, que podem mexer com o mercado. O grande evento segue sendo o Copom, quarta (05/08).
 
-Atualizado às 14:09 (sexta, 31/07) — não é recomendação de investimento.
+Atualizado às 04:51 (sábado, 01/08) — não é recomendação de investimento.
