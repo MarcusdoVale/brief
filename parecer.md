@@ -1,27 +1,24 @@
-**VEREDITO: comprador nas ações brasileiras — força 7 de 10.** O placar sobe de vez se o Copom (comitê de juros do Banco Central) confirmar o corte na quarta (05/08) com recado de que o ciclo continua; um "não corte" ou tom mais duro derruba a nota.
+**VEREDITO: levemente comprador nas ações brasileiras — força 5 de 10.** O placar sobe se o Copom (comitê de juros do Banco Central) confirmar o corte na quarta (05/08) com recado de que o ciclo continua; cai se o petróleo despencar mais ou se o dólar furar R$ 5,10.
 
-A semana abre otimista, mas de olho no Copom. A aposta principal é corte de 0,25 ponto na Selic (a taxa básica de juros), de 14,25% para 14% ao ano, com o mercado dando cerca de 75% de chance ao corte. Juro menor reduz o custo do crédito e direciona o dinheiro para as ações. Dois ventos a favor hoje: o Relatório Focus baixou de novo as projeções de inflação e de juros para 2026, e o petróleo despenca (Brent cai quase 6%) após sinais de trégua entre Estados Unidos e Irã — o barril mais barato ajuda a segurar a inflação, embora pressione as ações da Petrobras. Lá fora, o dólar cai ante outras moedas e o clima é tranquilo.
+Quem mandou no dia foi o exterior. Cresceram as apostas de um acordo de paz no Oriente Médio, o que derrubou o preço do petróleo e pressionou Petrobras (PETR4) e Vale (VALE3), as ações de maior peso da Bolsa. Com isso o Ibovespa opera em queda, perto dos 177 mil pontos, enquanto o dólar recua para cerca de R$ 5,06. Nos EUA, a indústria veio muito forte, o que deixa o banco central americano (Fed) sem pressa para cortar juros lá fora — sinal de cautela no cenário externo. O foco da semana é o Copom.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Focus – IPCA 2026 | 5,03% | — | 5,12% | Projeção de inflação cai de novo; abre mais espaço para cortar juros |
-| Focus – Selic 2026 | 13,75% | — | 14,00% | Mercado já vê os juros terminando o ano mais baixos |
-| IPCA-15 julho (prévia, saiu 28/07) | +0,06% | ~0,19% | +0,41% | Inflação bem abaixo do previsto; principal combustível do corte |
-| PMI Indústria Brasil (julho) | 47,5 | ~50 | 50,8 (junho) | Abaixo de 50 = indústria brasileira voltou a encolher, e forte; esfria o crescimento, mas dado fraco dá mais espaço para o corte de juros |
-| PMI Indústria EUA (julho) | 55,6 | ~53 | 53,3 | Bem acima de 50 = indústria americana forte e acelerando; Fed sem pressa para cortar juros lá, dólar tende a firmar — pede alguma cautela no cenário externo |
-| Copom (Selic) | quarta 05/08 | corte p/ 14% | 14,25% | Principal evento da semana; ainda não decidido |
+| PMI Indústria Brasil (S&P Global), jul | 47,8 | ~50 | 50,8 (jun) | Abaixo de 50 = indústria voltou a encolher; esfria o crescimento, mas dado fraco dá mais espaço para corte de juros |
+| PMI Indústria EUA (ISM), jul | 55,6 | 54,0 | 53,3 | Bem acima de 50 e do esperado; indústria americana aquecida deixa o Fed sem pressa para cortar juros e tende a firmar o dólar |
+| Copom (Selic) | quarta 05/08 | corte p/ 14,00% | 14,25% | Principal evento da semana; mercado dá ~75% de chance de corte de 0,25 ponto |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Futuro perto de 179,6 mil (+0,5%); segurar acima de ~178 mil sinaliza força |
-| Dólar | Perto de R$ 5,07; atenção se voltar acima de R$ 5,10 |
-| Petrobras/petróleo | Queda forte do barril pressiona o setor; cuidado nesses papéis |
-| Setores | Juro em queda favorece bancos, varejo, construção e empresas endividadas |
+| Ibovespa | Suporte perto de 176 mil; resistência em 178 mil |
+| Dólar | Cerca de R$ 5,06; furar R$ 5,10 acende alerta |
+| Petrobras/Vale | Petróleo e minério em queda pressionam as gigantes do índice; cuidado nesses papéis |
+| Setores | Juro em queda favorece bancos, varejo e construção |
 
-**Resumo:** a favor do comprador jogam a inflação baixa, o Focus mais benigno, o petróleo em queda e a aposta firme em corte da Selic. Contra: a bolsa já esticada, com parte da boa notícia embutida nos preços, o risco de o Banco Central sinalizar que este pode ser o último corte do ano e, do lado externo, a indústria dos EUA vindo forte (PMI 55,6), que deixa o Fed sem pressa para cortar juros e pode firmar o dólar. Até quarta, tende a andar de lado com viés positivo; o Copom é o gatilho.
+**Resumo:** a favor do comprador jogam a aposta firme em corte da Selic (que reduz o custo do crédito e direciona o dinheiro para as ações) e o dólar mais fraco. Contra, pesam o petróleo em queda sobre Petrobras e Vale e a indústria americana forte (PMI 55,6), que segura o dólar lá fora. Até quarta, tende a andar de lado; a decisão do Copom (05/08) é o gatilho.
 
-Atualizado às 10:18 — não é recomendação de investimento.
+Atualizado às 12:10 — não é recomendação de investimento.
