@@ -1,25 +1,23 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** É fim de semana e o mercado está fechado; este é o quadro para a semana que começa. O placar depende do Copom na quarta (05/08): corte confirmado puxa a bolsa para cima; manutenção ou dólar em disparada seguram o entusiasmo.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira de vez para cima se o Copom (comitê de juros do Banco Central) confirmar o corte na quarta; um "não corte" ou recado mais duro derruba a nota.
 
-A bolsa entra na semana com clima positivo. A prévia da inflação (IPCA-15) de julho veio a apenas 0,06%, bem abaixo do esperado, e reforça a aposta de que o Banco Central começa a cortar a Selic (a taxa básica de juros) na quarta. Juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações — por isso a bolsa fechou julho no azul (+3,47% no mês) e o dólar recuou. Pesam contra a piora nas contas públicas em ano eleitoral e um Fed (banco central dos EUA) que manteve os juros com tom mais duro. Os valores abaixo são do fechamento de sexta (31/07).
+O mercado abre a semana otimista, mas de olho na reunião do Copom (quarta, 05/08). A curva de juros já dá cerca de 90% de chance de corte de 0,25 ponto na Selic (a taxa básica de juros), de 15% para 14% ao ano — juro menor reduz o custo do crédito e direciona o dinheiro para as ações. Esse ânimo cresceu depois que a prévia da inflação (IPCA-15) de julho veio fraca (+0,06% no mês, contra 0,18% esperado). Lá fora, o Fed (banco central dos EUA) manteve os juros na semana passada, com três diretores querendo até subir — o que pede alguma cautela. Na sexta a bolsa fechou no maior nível desde maio e o dólar seguiu em queda; cenário favorável, mas já parcialmente embutido nos preços.
 
-**O que já saiu (realizado x esperado)**
+**O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 julho (prévia da inflação, 28/07) | 0,06% | 0,18% | 0,41% | Inflação bem fraca; abre espaço para corte de juros (bom para a bolsa) |
-| Ibovespa (fech. 31/07) | 177.999 pts (+0,47%) | — | — | Fechou julho em alta, primeiro mês positivo após quatro de queda |
-| Dólar (fech. 31/07) | R$ 5,06 (+0,17%) | — | — | Recuou 1,82% em julho; moeda mais calma |
-| Fed — juros EUA (29/07) | 3,50%–3,75% (mantido) | Manter | 3,50%–3,75% | Tom mais duro; pressão sobre ativos de risco |
+| PMI Indústria (julho) | 50,8 | sem dado | 49,1 | Acima de 50 = indústria voltou a crescer; sinal positivo |
+| Copom (Selic) | quarta 05/08 | corte p/ 14% | 15% | Principal evento da semana; ainda não decidido |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte perto de 176–177 mil; acima de 178 mil mantém o otimismo, alvo 180 mil |
-| Dólar | R$ 5,06 como referência; atenção se passar de R$ 5,10 (sinal de cautela) |
-| Juros (Selic) | Copom quarta 05/08: cerca de 75%–86% do mercado aposta em corte de 0,25 ponto, para 14% ao ano. Confirmação favorece a bolsa; manutenção decepciona |
-| Setores | Bancos, varejo e consumo favorecidos pela aposta de corte |
+| Ibovespa | Fechou 31/07 em 177.999. Suporte ~177.000; resistência 178.700–179.000 |
+| Dólar | Perto de R$ 5,06. Suporte R$ 5,00; atenção acima de R$ 5,10 |
+| Setores | Juro em queda favorece bancos, varejo, construção e empresas endividadas |
+| Cuidado | Realização de lucros antes do Copom; ruído externo vindo do Fed |
 
-**Resumo:** a favor da alta — inflação fraca e corte da Selic quase certo na quarta. Contra — contas públicas piores num ano eleitoral e humor externo mais cauteloso após o Fed. Na semana também há decisão de juros nos EUA e dados de emprego americanos, que podem mexer com o mercado. O grande evento segue sendo o Copom, quarta (05/08).
+**Resumo:** a favor do comprador jogam a aposta firme em corte da Selic, o dólar em queda e a indústria voltando a crescer. Contra, pesam a bolsa já esticada e a chance de o Banco Central sinalizar que este corte pode ser o último do ano. Até quarta, o mercado tende a andar de lado com viés positivo; a decisão do Copom é o gatilho.
 
-Atualizado às 04:51 (sábado, 01/08) — não é recomendação de investimento.
+Atualizado às 08:12 — não é recomendação de investimento.
