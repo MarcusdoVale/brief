@@ -23,4 +23,4 @@ Dia de espera. O mercado praticamente parou aguardando o Copom, que começou hoj
 
 **Resumo:** a favor do comprador jogam a aposta firme no corte da Selic para 14% e o Focus revisando os juros para baixo. Contra, pesam a cautela da véspera, o dólar firme e o emprego ainda forte nos EUA, que segura o Fed. Hoje tende a ser um pregão morno; o jogo se decide amanhã, na decisão e principalmente no texto que a acompanha.
 
-Atualizado às 12:09 — não é recomendação de investimento.
+Atualizado às 13:12 — não é recomendação de investimento.
