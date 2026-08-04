@@ -6,8 +6,8 @@ Dia de espera. O mercado praticamente parou aguardando o Copom, que começou hoj
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Produção industrial Brasil (junho, mês a mês) | -1,8% | -1,0% | -0,9% | Indústria bem mais fraca que o previsto; ruim para o crescimento, mas reforça o espaço para cortar juros |
-| Produção industrial Brasil (junho, sobre 2025) | +1,7% | +3,2% | +0,2% | Cresce menos que o esperado no ano |
+| Produção industrial Brasil (junho, mês a mês) | -1,8% | -0,6% | -0,2% | Indústria bem mais fraca que o previsto, 2ª queda seguida; ruim para o crescimento, mas reforça o espaço para cortar juros |
+| Produção industrial Brasil (junho, sobre 2025) | +1,7% | +3,0% | +0,2% | Cresce menos que o esperado no ano |
 | Vagas de emprego nos EUA (JOLTS, junho) | 7,359 mi | 7,3 mi | 7,537 mi | Acima do esperado, mas abaixo do mês anterior: emprego ainda firme, esfriando devagar — mantém o Fed sem pressa para cortar juros |
 | Encomendas à indústria nos EUA (junho) | -0,3% | +0,4% | -1,3% | Indústria americana fraca no mês |
 | Decisão do Copom (Selic) | amanhã ~18:30 | corte de 0,25 (p/ 14,00%) | 14,25% | Corte reduz o custo do crédito e favorece as ações |
@@ -23,4 +23,4 @@ Dia de espera. O mercado praticamente parou aguardando o Copom, que começou hoj
 
 **Resumo:** a favor do comprador jogam a aposta firme no corte da Selic para 14% e o Focus revisando os juros para baixo. Contra, pesam a cautela da véspera, o dólar firme e o emprego ainda forte nos EUA, que segura o Fed. Hoje tende a ser um pregão morno; o jogo se decide amanhã, na decisão e principalmente no texto que a acompanha.
 
-Atualizado às 13:12 — não é recomendação de investimento.
+Atualizado às 14:09 — não é recomendação de investimento.
