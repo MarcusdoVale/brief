@@ -1,27 +1,26 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar se decide amanhã (05/08), na decisão do Copom (o comitê de juros do Banco Central): confirmado o corte esperado da Selic, o viés fica mais comprador; se o texto sinalizar que este pode ser o último corte do ano, pesa contra.
+**VEREDITO: neutro, levemente comprador nas ações brasileiras — força 5/10.** O placar se decide amanhã à noite (05/08): se o Copom, o comitê de juros do Banco Central, cortar a Selic de 14,25% para 14,00% como o mercado espera, o viés fica comprador; se mantiver os juros ou vier com tom mais duro no comunicado, pesa contra.
 
-O dia foi de otimismo vindo de fora: sinais de trégua no Oriente Médio (negociação sobre o Estreito de Ormuz, rota do petróleo) melhoraram o humor e o Ibovespa subiu cerca de 1,3%, rondando os 180 mil pontos. A alta da Embraer (+3,1%), após o BNDES aprovar financiamento para exportar jatos ao Canadá, ajudou; do outro lado, a Vale caiu (−3,2%) com o minério de ferro em queda, limitando o avanço. O dólar ficou quase de lado, perto de R$ 5,10. De manhã, a produção da indústria brasileira veio bem mais fraca que o esperado — ruim para o crescimento, mas dá mais espaço para o Banco Central continuar cortando juros. Ajuda também o Focus de segunda (03/08): a projeção da Selic para o fim de 2026 caiu de 14% para 13,75%.
+O dia foi de espera. Véspera de decisão de juros e temporada de balanços, então o Ibovespa andou de lado e fechou praticamente estável (−0,06%), aos 177.895 pontos, depois de tentar os 180 mil pela manhã. O dólar subiu 0,87%, a R$ 5,148, na maior pressão do dia. Os balanços mandaram no pregão: Itaú caiu mais de 2% e a Petrobras recuou com o petróleo mais fraco; a Vale também cedeu, acompanhando o minério de ferro. Do lado positivo, Gerdau (+2,6%) e a Embraer subiram. Cerca de 75% do mercado aposta em corte de 0,25 ponto amanhã, o que reduziria o custo do crédito e tende a ajudar a bolsa — mas o texto que acompanha a decisão importa tanto quanto o número.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Ibovespa (no dia) | ~180.300 pts (+1,3%) | — | 178.000 | Bolsa em alta, ajudada pelo exterior |
-| Dólar (à vista) | R$ 5,098 (+0,22%) | — | R$ 5,087 | Moeda quase estável |
-| Produção industrial Brasil (junho, mês) | −1,8% | −0,6% | −0,2% | Indústria fraca, 2ª queda seguida; reforça espaço para cortar juros |
-| Decisão do Copom (Selic) | amanhã ~18:30 | corte de 0,25 (p/ 14,00%) | 14,25% | Corte reduz o custo do crédito e favorece as ações |
+| Ibovespa (fechamento) | 177.895 (−0,06%) | — | 178.000 (estável) | De lado à espera do Copom |
+| Dólar comercial | R$ 5,148 (+0,87%) | — | R$ 5,104 | Dólar mais forte pressiona bolsa e inflação |
+| Decisão do Copom (Selic) | amanhã 05/08, à noite | corte p/ 14,00% | 14,25% | Corte confirmaria o alívio nos juros |
 
-Sem dados novos de inflação hoje. O PMI da indústria (termômetro do setor) saiu ontem (03/08).
+*Sem dado econômico brasileiro relevante divulgado hoje. Sem PMI (saiu dia 03/08).*
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Zona dos 180 mil pontos; segurar acima firma a tendência positiva. Suporte em ~178.500 |
-| Dólar | Faixa 5,05–5,13; acima de R$ 5,13 liga o alerta |
-| Setores | Bancos (balanços, Itaú no radar) e commodities (Vale/Petrobras, sensíveis a minério e petróleo) |
-| Cuidado | Véspera de Copom = movimentos curtos e reversões rápidas |
+| Ibovespa | Suporte em ~176.800 (mínima do dia); resistência em 178.500. O rompimento depende do tom do Copom. |
+| Dólar | Acima de R$ 5,15 acende alerta; volta abaixo de R$ 5,10 alivia. |
+| Setores | Bancos (Itaú) e Petrobras/Vale sob pressão de balanços e commodities; siderurgia (Gerdau) e aéreas firmes. |
+| Cuidado | Véspera de Copom pede cautela: a decisão de amanhã pode virar o dia rapidamente. |
 
-**Resumo:** a favor do comprador jogam o clima externo melhor, a aposta firme no corte da Selic para 14% e o Focus revisando os juros para baixo. Contra, pesam a cautela da véspera, a indústria brasileira fraca e as tarifas dos EUA sobre produtos brasileiros. O jogo se decide amanhã, na decisão e principalmente no texto que a acompanha.
+**Resumo:** favorece a alta um corte de 0,25 ponto com sinalização de mais cortes à frente, direcionando o dinheiro para as ações. Favorece a baixa uma manutenção dos juros, um comunicado mais duro ou o dólar rompendo R$ 5,15. Hoje o mercado ficou parado esperando; o gatilho é a decisão do Copom amanhã à noite.
 
-Atualizado às 17:10 — não é recomendação de investimento.
+Atualizado às 18:12 — não é recomendação de investimento.
