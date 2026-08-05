@@ -1,30 +1,30 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o Copom hoje à noite mantiver a Selic em vez de cortar, ou vier com recado mais duro sobre juros.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O placar muda hoje à noite: se o Copom cortar a Selic e sinalizar mais cortes, sobe para comprador; se travar os juros citando o câmbio, vira vendedor.
 
-Hoje o mercado abriu no positivo (Ibovespa futuro perto de 179.600 pontos, alta de cerca de 0,7%) e o dólar recuava para perto de R$ 5,11. Dois motivos: a expectativa quase certa de que o Banco Central corte a Selic (a taxa básica de juros) hoje à noite, de 14,25% para 14,00% — juro menor reduz o custo do crédito e direciona o dinheiro para as ações — e um dado de emprego fraco nos EUA (o ADP), que reforça a aposta de corte de juros por lá e tira força do dólar (bom para o real e para a bolsa). Como o corte já está no preço, o que vai mexer é o texto que acompanha a decisão: se sinalizar mais cortes à frente, ajuda; se vier cauteloso com a inflação, pesa. A atenção do dia está no Copom, que sai após o fechamento.
+O dia é de espera pela decisão de juros do Copom (Banco Central), que sai à noite. Por isso a bolsa fica de lado e o dólar sobe um pouco, num movimento de cautela antes do resultado. Lá fora, os dados de emprego dos EUA vieram fracos (o setor privado criou bem menos vagas que o esperado), o que reforça a aposta de que o Fed, o banco central americano, vai cortar juros — cenário que costuma ajudar o real e a bolsa nos próximos dias, mas que hoje ainda não segurou o dólar.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| ADP – emprego privado EUA (jul, 09h15) | +44 mil | ~75 mil | +98 mil | Bem fraco: reforça aposta de corte de juros nos EUA e enfraquece o dólar (ajuda o real) |
-| ISM de Serviços EUA (jul, 11h) | saindo ~11h | ~53,6 | 51,2 | Acima de 50 = setor cresce; se vier forte, o Fed fica sem pressa e firma o dólar (cautela) |
-| Decisão da Selic (Copom) | à noite | corte p/ 14,00% | 14,25% | Corte já esperado (~75-90% no preço); o tom do comunicado é o que decide |
+| ADP EUA – emprego privado (jul, 09h15) | +44 mil | ~68 mil | +98 mil | Bem fraco; dá espaço para o Fed cortar juros (ajuda o real), mas hoje não segurou o dólar |
+| ISM de Serviços EUA (jul, 11h) | 54,1 | 54,5 | 54,0 | Acima de 50 (setor ainda cresce), mas abaixo do esperado e com emprego caindo; economia americana desacelerando |
+| Decisão da Selic (Copom) | às ~18h30 | corte p/ 14,00% (de 14,25%) | 14,25% | Corte já esperado e no preço; reduz o custo do crédito e ajuda as ações. O tom do comunicado é o que decide |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 11h00 | ISM de Serviços EUA | Dado externo mais importante do dia; mostra o grosso da economia americana e move dólar e bolsa |
-| ~18h30 | Decisão da Selic (Copom) | O evento do dia; define o rumo dos juros no Brasil. A reação forte vem após o fechamento e respinga amanhã |
+| ~18h30 | Decisão da Selic (Copom) | O evento do dia; define o rumo dos juros. O comunicado sobre os próximos cortes é o que mais move o mercado. Reação forte respinga amanhã |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Região de 179-180 mil pontos, perto das máximas do ano; força vem de bancos e do otimismo com corte de juros |
-| Dólar | Perto de R$ 5,11-5,12; ADP fraco pressiona para baixo, mas um ISM forte às 11h pode reverter |
-| Cuidado | Decisão só à noite — evite montar posição grande apostando no resultado perto do fechamento |
+| Ibovespa | Rondando 177,9 mil pontos, de lado até a decisão. Suporte perto de 176 mil; resistência em 179 mil |
+| Dólar | R$ 5,13, em leve alta (+0,8%). Um corte com tom mais brando pode levar a moeda de volta para baixo de R$ 5,10 |
+| Setores | Bancos, construtoras e varejo (mais sensíveis a juros) reagem forte ao comunicado do Copom |
+| Cuidado | A decisão só sai após o pregão; evite montar posição grande apostando no resultado perto do fechamento |
 
-**Resumo:** favorece a compra a combinação de corte de juros quase certo à noite e dólar em queda com o emprego fraco nos EUA. Vira contra se o ISM das 11h vier muito forte (firma o dólar) ou se o Copom surpreender mantendo a taxa ou sinalizando juros altos por mais tempo. Como a decisão sai após o pregão, o dia tende a ser de posição comprada com cautela, e a reação mais forte respinga amanhã.
+**Resumo:** favorece o comprador um corte de juros confirmado com sinal de que virão mais cortes, somado ao emprego fraco nos EUA que ajuda o real. Favorece o vendedor um Banco Central mais cauteloso, que pare os cortes citando o dólar alto e os riscos externos. Como a decisão sai após o fechamento, o dia tende a ser de posição comprada com cautela e a reação mais forte fica para amanhã.
 
-Atualizado às 11:12 — não é recomendação de investimento.
+Atualizado às 12:11 — não é recomendação de investimento.
