@@ -1,38 +1,32 @@
-**VEREDITO: comprador fraco a neutro nas ações brasileiras — força 5/10.** O placar muda hoje à noite: sai a decisão do Copom (o comitê que define os juros) por volta das 18h30; até lá o mercado tende a ficar de lado, esperando.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o Copom hoje à noite mantiver a Selic em vez de cortar, ou vier com recado mais duro sobre juros.
 
-Hoje é dia de decisão de juros. A aposta firme é de corte de 0,25 ponto, levando a Selic (a taxa básica de juros) de 14,25% para 14,00% — seria o quarto corte seguido. Como esse corte já está no preço, o que vai mexer com a bolsa é o **texto que acompanha a decisão**: se sinalizar mais cortes à frente, abre espaço para a bolsa subir (juro menor reduz o custo do crédito e direciona o dinheiro para as ações); se vier um tom mais duro, com cautela sobre a inflação, pesa. A bolsa abriu perto das máximas do ano (~178 mil pontos). No exterior, dia de agenda cheia nos EUA: às 09h15 sai o ADP (prévia do emprego privado, antecipa o payroll de sexta) e, às 11h, o ISM de Serviços — este é o que move mercado, porque mostra o ritmo da maior parte da economia americana. Serviço forte deixa o Fed (o banco central dos EUA, que manteve os juros em 3,50%–3,75%) sem pressa para cortar e tende a firmar o dólar.
+Hoje o mercado abriu no positivo (Ibovespa futuro perto de 179.600 pontos, alta de cerca de 0,7%) e o dólar recuava para perto de R$ 5,12. Dois motivos: a expectativa quase certa de que o Banco Central corte a Selic (a taxa básica de juros) hoje à noite, de 14,25% para 14,00% — o quarto corte seguido — e um dado de emprego fraco nos EUA, que reforça a aposta de corte de juros por lá e tira força do dólar (bom para o real e para a bolsa). Como o corte já está no preço, o que vai mexer com a bolsa é o texto que acompanha a decisão: se sinalizar mais cortes à frente, ajuda; se vier mais cauteloso com a inflação, pesa. A atenção do dia todo está no Copom, que sai após o fechamento.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PMI de Serviços Brasil (10h) | sai ~10h | 50,8 | 51,3 | Acima de 50 ainda é expansão, mas desacelerando; maior setor da economia |
-| PMI Composto Brasil (10h) | sai ~10h | 49,8 | 50,7 | Abaixo de 50 = economia praticamente parada; reforça argumento para cortar juros |
-| ADP — Emprego privado EUA | sai ~09h15 | +90 mil | +98 mil | Prévia do payroll de sexta; fraco reforça aposta de corte de juros nos EUA |
-| PMI Serviços EUA final (10h45) | sai ~10h45 | 53,6 | 51,2 | Economia americana firme; na mesma linha do ISM, tende a firmar o dólar |
-| ISM de Serviços EUA | sai ~11h | 54,5 | 54,0 | Acima de 50 = setor crescendo; forte firma o dólar e deixa o Fed sem pressa |
-| Decisão da Selic (Copom) | sai ~18h30 | 14,00% | 14,25% | Corte já esperado; o tom do comunicado é o que move o mercado |
-
-*PMI industrial já saiu (dia 03/08). Sem outro dado brasileiro relevante além dos PMIs de serviços.*
+| ADP – emprego privado EUA (jul, 09h15) | +44 mil | ~68-75 mil | +98 mil | Bem fraco: reforça aposta de corte de juros nos EUA e enfraquece o dólar (ajuda o real) |
+| PMI Serviços Brasil (jul, 10h) | sai ~10h | sem dado | 51,2 | Acima de 50 ainda é expansão; fraco esfria o crescimento mas dá espaço para corte de juros |
+| PMI Serviços EUA S&P final (10h45) | sai ~10h45 | 53,6 | 51,2 | Economia americana firme; na mesma linha do ISM, tende a firmar o dólar |
+| ISM de Serviços EUA (jul, 11h) | sai ~11h | 54,5 | 54,0 | Acima de 50 = setor crescendo; se vier forte, o Fed fica sem pressa e firma o dólar (cautela) |
+| Decisão da Selic (Copom) | sai à noite | corte para 14,00% | 14,25% | 56 de 60 casas esperam corte; corte confirmado é bom para a bolsa, o tom é o que decide |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h15 | ADP — emprego privado EUA | Antecipa o payroll de sexta; mexe com dólar e juros americanos |
-| 10h | PMIs de Serviços do Brasil | Termômetro da atividade; influencia a aposta de corte de juros |
-| 11h | ISM de Serviços EUA | Dado externo mais importante do dia; move dólar e bolsa lá fora |
-| 17h05 | Discurso da diretora do Fed (Cook) | Fala de dirigente pode mexer no dólar antes do fechamento |
-| 18h30 | Decisão da Selic (Copom) | O evento do dia; reação forte vem após o fechamento e respinga amanhã |
+| 11h00 | ISM de Serviços EUA | Dado externo mais importante do dia; mostra o grosso da economia americana e move dólar e bolsa |
+| ~18h30 | Decisão da Selic (Copom) | O evento do dia; define o rumo dos juros no Brasil. A reação forte vem após o fechamento e respinga amanhã |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Abriu ~178.009; faixa do dia 176.783–178.557. Acima de 178.557 abre espaço para novas máximas; 176.783 é o suporte imediato |
-| Dólar | Perto de R$ 5,13. Corte com tom suave tende a aliviar; tom duro segura o dólar firme |
-| Cuidado | Decisão só à noite — evite montar posição grande apostando no resultado |
+| Ibovespa | Região de 179-180 mil pontos, perto das máximas do ano; força vem de bancos e do otimismo com corte de juros |
+| Dólar | Perto de R$ 5,12; ADP fraco pressiona para baixo, mas um ISM forte às 11h pode reverter |
+| Cuidado | Decisão só à noite — evite montar posição grande apostando no resultado perto do fechamento |
 
-**Resumo:** favorece a alta um comunicado do Copom sinalizando mais cortes e um ISM de Serviços fraco lá fora (que ajuda o real). Favorece a queda um tom cauteloso do Copom, um ISM forte que firma o dólar e o payroll dos EUA na sexta (7). Dia de indefinição até a decisão; a reação mais forte vem depois do fechamento e respinga amanhã.
+**Resumo:** favorece a compra a combinação de corte de juros quase certo à noite e dólar em queda com o emprego fraco nos EUA. Vira contra se o ISM das 11h vier muito forte (firma o dólar) ou se o Copom surpreender mantendo a taxa ou sinalizando juros altos por mais tempo. Como a decisão sai após o pregão, o dia tende a ser de posição comprada com cautela, e a reação mais forte respinga amanhã.
 
-Atualizado às 09:25 — não é recomendação de investimento.
+Atualizado às 10:17 — não é recomendação de investimento.
