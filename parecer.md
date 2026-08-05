@@ -1,26 +1,23 @@
-**VEREDITO: neutro, levemente comprador nas ações brasileiras — força 5/10.** O placar se decide amanhã à noite (05/08): se o Copom, o comitê de juros do Banco Central, cortar a Selic de 14,25% para 14,00% como o mercado espera, o viés fica comprador; se mantiver os juros ou vier com tom mais duro no comunicado, pesa contra.
+**VEREDITO: comprador fraco a neutro nas ações brasileiras — força 5/10.** O placar muda hoje à noite: sai a decisão do Copom (o comitê que define os juros) por volta das 18h30; até lá o mercado tende a ficar de lado, esperando.
 
-O dia foi de espera. Véspera de decisão de juros e temporada de balanços, então o Ibovespa andou de lado e fechou praticamente estável (−0,06%), aos 177.895 pontos, depois de tentar os 180 mil pela manhã. O dólar subiu 0,87%, a R$ 5,148, na maior pressão do dia. Os balanços mandaram no pregão: Itaú caiu mais de 2% e a Petrobras recuou com o petróleo mais fraco; a Vale também cedeu, acompanhando o minério de ferro. Do lado positivo, Gerdau (+2,6%) e a Embraer subiram. Cerca de 75% do mercado aposta em corte de 0,25 ponto amanhã, o que reduziria o custo do crédito e tende a ajudar a bolsa — mas o texto que acompanha a decisão importa tanto quanto o número.
+Hoje é dia de decisão de juros. A aposta firme é de corte de 0,25 ponto, levando a Selic (a taxa básica de juros) de 14,25% para 14,00% — seria o quarto corte seguido. Como esse corte já está no preço, o que vai mexer com a bolsa é o **texto que acompanha a decisão**: se sinalizar mais cortes à frente, abre espaço para a bolsa subir (juro menor reduz o custo do crédito e direciona o dinheiro para as ações); se vier um tom mais duro, com cautela sobre a inflação, pesa. No exterior, o clima é positivo, com otimismo nas conversas entre Estados Unidos e Irã derrubando o petróleo e animando Nova York.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Ibovespa (fechamento) | 177.895 (−0,06%) | — | 178.000 (estável) | De lado à espera do Copom |
-| Dólar comercial | R$ 5,148 (+0,87%) | — | R$ 5,104 | Dólar mais forte pressiona bolsa e inflação |
-| Decisão do Copom (Selic) | amanhã 05/08, à noite | corte p/ 14,00% | 14,25% | Corte confirmaria o alívio nos juros |
+| Decisão da Selic (Copom) | sai ~18h30 | 14,00% | 14,25% | Corte já esperado; o tom do comunicado é o que move o mercado |
 
-*Sem dado econômico brasileiro relevante divulgado hoje. Sem PMI (saiu dia 03/08).*
+*Sem dado econômico brasileiro relevante divulgado pela manhã. Sem PMI (saiu dia 03/08).*
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte em ~176.800 (mínima do dia); resistência em 178.500. O rompimento depende do tom do Copom. |
-| Dólar | Acima de R$ 5,15 acende alerta; volta abaixo de R$ 5,10 alivia. |
-| Setores | Bancos (Itaú) e Petrobras/Vale sob pressão de balanços e commodities; siderurgia (Gerdau) e aéreas firmes. |
-| Cuidado | Véspera de Copom pede cautela: a decisão de amanhã pode virar o dia rapidamente. |
+| Ibovespa | Fechou em 177.895 (−0,06%). Mini (WINQ26): suporte 178.170/178.000; resistência 178.530/179.010 |
+| Dólar | R$ 5,148 (+0,87%). Corte com tom suave tende a aliviar; tom duro segura o dólar firme |
+| Cuidado | Decisão só à noite — evite montar posição grande apostando no resultado |
 
-**Resumo:** favorece a alta um corte de 0,25 ponto com sinalização de mais cortes à frente, direcionando o dinheiro para as ações. Favorece a baixa uma manutenção dos juros, um comunicado mais duro ou o dólar rompendo R$ 5,15. Hoje o mercado ficou parado esperando; o gatilho é a decisão do Copom amanhã à noite.
+**Resumo:** favorece a alta um comunicado sinalizando mais cortes e o bom humor lá fora. Favorece a queda um tom cauteloso do Copom e o dólar ainda pressionado. Dia de indefinição até a decisão; a reação mais forte vem depois do fechamento e respinga amanhã.
 
-Atualizado às 18:12 — não é recomendação de investimento.
+Atualizado às 08:12 — não é recomendação de investimento.
