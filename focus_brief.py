@@ -58,6 +58,7 @@ SGS_SERIES = [
     ("IPCA acum. 12m (%)", 13522),
     ("Dólar venda (R$)", 1),
     ("IGP-M no mês (%)", 189),
+    ("Balança comercial (saldo mês, US$ mi)", 22707),
 ]
 SGS_URL = "https://api.bcb.gov.br/dados/serie/bcdata.sgs.%d/dados/ultimos/1?formato=json"
 
@@ -172,7 +173,13 @@ def pegar_focus():
         ind = r.get("Indicador", "").strip()
         if ind not in INDICADORES:
             continue
-        if r.get("IndicadorDetalhe"):
+        det = (r.get("IndicadorDetalhe") or "").strip()
+        if ind == "Balança comercial":
+            # este indicador vem detalhado (Exportações/Importações/Saldo);
+            # queremos o Saldo (superávit/déficit projetado do ano).
+            if det.lower() != "saldo":
+                continue
+        elif det:
             continue
         chave = (ind, r.get("DataReferencia"))
         if chave not in melhor or r["Data"] > melhor[chave]["Data"]:
@@ -308,6 +315,20 @@ def _releases_bcb(hoje, ate):
     return ev
 
 
+def _releases_comex(hoje, ate):
+    """Balança comercial semanal (MDIC/Secex) — em geral às segundas, ~15h."""
+    ev = []
+    d = hoje
+    while d <= ate:
+        if d.weekday() == 0:  # segunda-feira
+            ev.append({"date": d,
+                       "quando": d.strftime("%d/%m/%Y") + " 15:00 (previsto)",
+                       "evento": "🇧🇷 Balança Comercial (semanal) — MDIC/Secex",
+                       "fonte": "MDIC"})
+        d += dt.timedelta(days=1)
+    return ev
+
+
 def pegar_agenda(dias=AGENDA_DIAS):
     hoje = dt.date.today()
     ate = hoje + dt.timedelta(days=dias)
@@ -336,6 +357,12 @@ def pegar_agenda(dias=AGENDA_DIAS):
         eventos.extend(_releases_bcb(hoje, ate))
     except Exception as e:
         _log("ERRO releases BCB: %r" % e)
+
+    # MDIC/Secex — Balança comercial semanal
+    try:
+        eventos.extend(_releases_comex(hoje, ate))
+    except Exception as e:
+        _log("ERRO releases comex: %r" % e)
 
     for ds in COPOM_2026:
         try:
@@ -423,6 +450,19 @@ def _focus_ano_corrente(indicador, focus):
 
 def _leitura_realizado(nome, valor, focus):
     """LEITURA AUTOMATICA de um dado divulgado vs a projecao do Focus."""
+    if nome.startswith("Balança comercial"):
+        # saldo mensal (US$ milhoes) — leitura de fluxo, nao compara com o
+        # projetado anual do Focus (escalas diferentes).
+        try:
+            v = float(str(valor).replace(",", "."))
+        except (TypeError, ValueError):
+            return "-"
+        bi = ("%.2f" % (abs(v) / 1000.0)).replace(".", ",")
+        if v >= 0:
+            return ("superávit de US$ %s bi no mês → entrada de dólar, "
+                    "favorável ao real" % bi)
+        return ("déficit de US$ %s bi no mês → saída de dólar, "
+                "pressiona o real" % bi)
     ind = REAL_TO_FOCUS.get(nome)
     if not ind:
         return "-"
@@ -468,6 +508,9 @@ def _expectativa_focus(titulo, focus):
     if "igp" in t:
         v = _focus_ano_corrente("IGP-M", focus)
         return ("IGP-M ano: %s%%" % fmt(v)) if v is not None else "-"
+    if "balança comercial" in t or "balanca comercial" in t:
+        v = _focus_ano_corrente("Balança comercial", focus)
+        return ("Saldo ano (Focus): US$ %s bi" % fmt(v)) if v is not None else "-"
     if "conta" in t or "setor externo" in t or "corrente" in t:
         v = _focus_ano_corrente("Conta corrente", focus)
         return ("Conta corr. ano: US$ %s bi" % fmt(v)) if v is not None else "-"
@@ -486,6 +529,9 @@ def _o_que_observar(titulo):
         return "Acima → atividade forte; abaixo → viés de corte de juros."
     if "desemprego" in t or "pnad" in t or "emprego" in t or "ocupaç" in t or "ocupac" in t:
         return "Mercado de trabalho: forte pressiona juros; fraco alivia."
+    if "balança comercial" in t or "balanca comercial" in t:
+        return ("Saldo comercial: superávit maior = mais dólar entrando, "
+                "favorável ao real; menor ou déficit pressiona.")
     if "conta" in t or "setor externo" in t or "corrente" in t:
         return "Contas externas: déficit maior pressiona o real; IDP firme dá suporte."
     if ("industr" in t or "varejo" in t or "comérc" in t or "comerc" in t
