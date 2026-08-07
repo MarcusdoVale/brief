@@ -1,33 +1,30 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira para cima se o relatório de emprego dos EUA (payroll, amanhã) vier fraco; vira para baixo se vier forte e firmar o dólar.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: o rumo da Vale/commodities e de Wall Street à tarde; se as mineradoras firmarem, o viés melhora.
 
-Ontem o Copom (Banco Central) cortou a Selic de 14,25% para 14,00% ao ano, o quarto corte seguido e exatamente como o mercado esperava. Juro menor reduz o custo do crédito e direciona parte do dinheiro para as ações, o que é positivo para a bolsa. O comunicado pediu "serenidade e cautela", mas reconheceu que a economia desacelera aos poucos e que a inflação melhorou, deixando os próximos passos em aberto — ou seja, mantém viva a chance de mais cortes adiante. Hoje quem manda no índice é a Petrobras (PETR4) e o humor lá fora; o Ibovespa opera perto do topo (~177,7 mil), praticamente de lado, à espera do payroll.
+O dia é de dois lados. Aqui dentro, o cenário ajuda: o Copom cortou a Selic para 14% ao ano na quarta (quarta redução seguida) e o **payroll dos EUA** (relatório de emprego americano) veio muito fraco — o país **perdeu 23 mil vagas em julho**, quando se esperava criação de cerca de 80 mil, com revisões negativas nos meses anteriores. Emprego fraco reforça a aposta de que o Fed (banco central americano) vai cortar juros, o que enfraquece o dólar e ajuda o real. Mesmo assim, o Ibovespa cai puxado pela Vale e pelos grandes bancos: dado americano fraco também acende o alerta de economia global mais lenta, o que pesa nas empresas de commodities.
 
-**O que saiu (realizado x esperado)**
+**O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Selic (Copom, ontem) | 14,00% | 14,00% | 14,25% | Corte confirmado; deixa espaço para mais alívio |
-| PMI Serviços Brasil – S&P Global (jul, ontem) | 49,7 | sem dado | 51,3 | Abaixo de 50: 1ª contração em 9 meses; atividade esfriando |
-| PMI Composto Brasil (jul, ontem) | 48,8 | sem dado | 50,7 | Indústria e serviços encolhendo; 3º tri começa fraco |
-| Auxílio-desemprego semanal EUA (09h30) | aguardar | ~230 mil | ~237 mil | Alto = emprego frio, ajuda a aposta de corte do Fed |
-| Emprego EUA (payroll) — SÓ amanhã 09h30 | — | +80 a +100 mil; desemprego 4,2% | +57 mil | O grande dado da semana; move dólar e bolsa |
+| Payroll EUA — vagas (julho) | -23 mil | +80 a 95 mil | +20 mil (revisado) | Emprego fraco: reforça corte de juros do Fed, ajuda o real |
+| Desemprego EUA (julho) | 4,1% | 4,2% | 4,2% | Caiu, mas por menos gente procurando trabalho |
+| Selic (Copom, 05/08) | 14,00% | 14,00% | 14,25% | Corte de 0,25; ciclo segue gradual e dependente de dados |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Hoje 09h30 | Auxílio-desemprego semanal EUA | Termômetro do emprego americano (impacto médio) |
-| Sex 07/08, 09h30 | Payroll EUA (emprego de julho) | Forte firma o dólar (cautela); fraco ajuda o real e a bolsa |
+| 09h30 (já saiu) | Payroll, desemprego e salário médio dos EUA (julho) | Principal dado do dia; move dólar e bolsas |
+| Ao longo do dia | Discursos de dirigentes do Fed | Podem mexer na aposta de corte de juros |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | ~177,7 mil; suporte ~176 mil, resistência ~180 mil |
-| Dólar | R$ 5,10 a R$ 5,15; Selic ainda alta favorece o real |
-| Petrobras (PETR4) | Puxa o índice hoje; siga o petróleo |
-| Cuidado | Baixa convicção — evite posição grande na direção antes do payroll |
+| Ibovespa | ~175,5 mil, em queda (~-1,2%); apoio perto de 174 mil, resistência em 177 mil |
+| Dólar | Em torno de R$ 5,11, real levemente mais forte com o payroll fraco; abaixo de R$ 5,10 favorece a bolsa |
+| Setores | Vale e bancos puxando para baixo; Petrobras resiste com bom resultado. Juro em queda ajuda bancos e consumo |
 
-**Resumo:** favorecem o comprador o corte da Selic já confirmado, o tom mais leve do comunicado e um eventual emprego fraco nos EUA amanhã, que reforçaria a aposta de queda de juros lá fora e ajudaria o real. Jogam contra a proximidade do topo, os PMIs do Brasil em contração e um payroll americano forte, que deixaria o Fed sem pressa para cortar juros e firmaria o dólar. Hoje tende a ser dia de faixa estreita — bom para operar os níveis, ruim para tendência. O jogo se decide amanhã cedo.
+**Resumo:** Favorece a alta: Selic caindo e payroll fraco (mais espaço para corte do Fed, real firme). Favorece a baixa: economia americana desacelerando pesa em commodities e na Vale. À frente, o mercado observa Wall Street à tarde e falas do Fed. Placar equilibrado, com leve viés de compra se as mineradoras estabilizarem.
 
-Atualizado às 10:13 — não é recomendação de investimento.
+Atualizado às 11:09 — não é recomendação de investimento.
