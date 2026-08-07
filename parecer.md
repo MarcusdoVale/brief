@@ -26,6 +26,6 @@ Referência da semana: **o Copom cortou a Selic para 14,00%** na quarta (5/8), a
 | Dólar | Em torno de R$ 5,11, real mais firme com o payroll fraco; abaixo de R$ 5,10 favorece a bolsa |
 | Setores | Petrobras e bancos puxam o índice para baixo; petróleo em alta por Ormuz é o principal risco |
 
-**Resumo:** Favorece a alta o quadro externo — emprego fraco nos EUA abre mais espaço para o Fed cortar juros e mantém o real firme — e a Selic em queda. Favorece a baixa o pregão local pesado, com bancos e Petrobras respondendo por boa parte do índice, além do risco de o petróleo subir com a tensão em Ormuz. Sem mais dado de peso hoje, o mercado segue digerindo o emprego americano; sexta à tarde tende a ter menos gatilhos novos e mais realização de posições. Dia de operar com atenção à volatilidade e sem exagero.
+**Resumo:** Favorece a alta o quadro externo — emprego fraco nos EUA abre mais espaço para o Fed cortar juros e mantém o real firme — e a Selic em queda. Favorece a baixa o pregão local pesado, com bancos e Petrobras respondendo por boa parte do índice, além do risco de o petróleo subir com a tensão em Ormuz. Perto do fechamento, o índice segue no vermelho (Ibovespa 175.546, −1,23%) e o dólar recua para R$ 5,11. Sem mais dado de peso hoje, resta digerir o emprego americano; sexta à tarde tende a ter menos gatilhos novos e mais realização de posições. Dia de operar com atenção à volatilidade e sem exagero.
 
-Atualizado às 15:09 — não é recomendação de investimento.
+Atualizado às 16:12 — não é recomendação de investimento.
