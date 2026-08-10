@@ -1,29 +1,29 @@
-**VEREDITO: levemente comprador nas ações brasileiras — força 5/10.** O placar vira para cima se a Ata do Copom (amanhã) confirmar mais cortes de juros; vira para baixo se o CPI dos EUA (quarta) vier alto.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O que muda o placar: o IPCA de julho e a ata do Copom (terça) e a inflação dos EUA (quarta) — bons números tiram a pressão e podem virar o jogo para o lado comprador.
 
-Dia mais fraco na bolsa. O Ibovespa recua e se afasta dos 172 mil pontos, com o dólar em torno de R$ 5,09–5,10 (em alta), acompanhando a queda em Nova York. O mercado está cauteloso e esperando a inflação dos EUA (CPI, o índice de preços ao consumidor) na quarta. Por baixo, o pano de fundo segue positivo: o Copom cortou a Selic para 14% na semana passada e o Boletim Focus reduziu as projeções de inflação e de crescimento (PIB) para 2026 — o que reduz o custo do crédito e tende a direcionar dinheiro para as ações.
+Dia de cautela e volume fraco. A bolsa opera em leve queda perto dos 172,2 mil pontos, segurada pela alta de Vale (VALE3) e Petrobras (PETR4), enquanto o dólar renova máximas e sobe para cerca de R$ 5,12 (+0,66%). O mercado está defensivo, na espera dos dados da semana e sob influência da queda em Nova York. Pela manhã saiu o Boletim Focus (pesquisa semanal do Banco Central com ~100 instituições): projeções levemente melhores, mas sem força para animar.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Agenda do Brasil (segunda) | — | — | — | Dia sem indicador de peso; foco no que vem amanhã |
-| IPCA cheio de julho | sai amanhã 11/08, ~09h | ~0,16% | 0,16% (jun) | Inflação oficial do mês; abaixo do esperado ajuda a bolsa |
-| Ata do Copom | sai amanhã 11/08, manhã | — | — | Detalha se o BC pretende cortar mais os juros |
-| CPI dos EUA (julho) | quarta 12/08, 09h30 | ~+0,2% no mês / ~3,5% em 12 meses | — | Inflação americana; se vier alta, firma o dólar |
+| Focus — IPCA 2026 (inflação) | 5,02% | — | 5,03% | 6ª queda seguida; alívio pequeno na inflação |
+| Focus — PIB 2026 (crescimento) | 1,98% | — | 1,99% | economia esfriando de leve |
+| Focus — Selic 2026 (juros) | 13,75% | — | 13,75% | mercado mantém a aposta de juros no fim do ano |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| — | Sem eventos de alto impacto hoje | Os gatilhos são amanhã (Ata + IPCA) e quarta (CPI EUA) |
+| — | Sem eventos de alto impacto hoje | Agenda cheia começa terça (IPCA + ata do Copom) e quarta (inflação dos EUA, o CPI) |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte perto de 170 mil; resistência nos 172 mil. Petrobras e Vale seguram as perdas |
-| Dólar | R$ 5,10 é o teto do dia; cede se o CPI dos EUA vier fraco |
+| Ibovespa | 172 mil como piso do dia; perder isso abre espaço para mais queda |
+| Dólar | acima de R$ 5,10 mantém a pressão; alívio só abaixo disso |
+| Setores | Vale e Petrobras seguram o índice; bancos e varejo mais fracos |
 
-**Resumo:** favorece a alta o ciclo de corte de juros e as projeções do Focus melhorando; favorece a queda a cautela externa e o dólar firme antes do CPI. Dia de esperar: os movimentos maiores vêm amanhã (Ata do Copom e IPCA) e na quarta (inflação dos EUA).
+**Resumo:** Favorece o vendedor o dólar em máxima e a queda lá fora. Favorece o comprador um IPCA fraco amanhã e uma ata do Copom que confirme cortes de juros à frente. Sem gatilho hoje — o jogo se decide terça e quarta.
 
-Atualizado às 15:08 — não é recomendação de investimento.
+Atualizado às 16:08 — não é recomendação de investimento.
