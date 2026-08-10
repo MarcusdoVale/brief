@@ -1,29 +1,27 @@
-**VEREDITO: mercado fechado hoje (domingo) — placar neutro, força 5 de 10 para a abertura de segunda.** O que muda o placar: a rodada de inflação de terça (IPCA no Brasil e CPI nos EUA).
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O placar vira se o IPCA de julho (terça) ou a inflação dos EUA (CPI, na quarta) vierem acima do esperado: aí o dólar sobe e a bolsa perde fôlego.
 
-Hoje é domingo e a B3 não abre, então não há pregão. A semana começa com o mercado ainda digerindo uma sexta pesada. Na sexta (07/08) o **Ibovespa caiu 1,76%**, fechando perto de **172.455 pontos** — a pior semana desde maio —, puxado por Vale e por ruídos no exterior. O **dólar** recuou um pouco, para a região de **R$ 5,09**. No pano de fundo, o Copom (comitê que define os juros) cortou a **Selic (juro básico) de 14,25% para 14,00%** na quarta (05/08), mas com **tom mais duro**, sinalizando pausa — ou seja, não promete uma sequência de cortes. Isso limita o otimismo com a bolsa no curto prazo.
+Depois de quatro quedas seguidas, o Ibovespa tenta se recuperar hoje e abriu perto de **175.500 pontos**, ante o fechamento anterior de 172.513 (-1,72%). O dólar cai pelo terceiro dia seguido, rodando por volta de **R$ 5,08**. O tom é de arrumar a casa antes dos dados da semana: o mercado ainda digere o exterior (tensão geopolítica no Estreito de Ormuz, que mexe com o preço do petróleo) e espera a inflação dos EUA na quarta. Ajuda o clima o **Boletim Focus** de hoje, que baixou a projeção de inflação de 2026 para 5,03% (era 5,12%). A taxa básica de juros (Selic) está em 14,00% depois do corte da quarta passada, e o Focus vê ela terminando 2026 em 13,75% — inflação cedendo abre espaço para novos cortes mais à frente, o que é bom para a bolsa.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| — (domingo, sem pregão) | — | — | — | Sem divulgações. Próximos dados de peso na terça |
+| Focus – IPCA 2026 | 5,03% | — | 5,12% | Inflação projetada caindo; alívio para os juros |
+| Focus – Selic fim 2026 | 13,75% | — | 13,75% | Projeção de juro estável (taxa atual: 14,00%) |
+| Focus – dólar fim 2026 | R$ 5,20 | — | R$ 5,20 | Expectativa de câmbio estável |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
-| Horário (Brasília) | Evento | Por quê |
-|---|---|---|
-| — | Sem eventos de alto impacto hoje | Domingo, mercado fechado |
-| Ter 11/08, 09h00 | IPCA de julho (Brasil) | Prévia oficial da inflação; esperado ~0,30% (ant. 0,16%). Fraco reforça espaço para juros; forte pressiona |
-| Ter 12/08, 09h30 | CPI de julho (EUA) | Inflação americana (jun. 3,5%). Dado forte deixa o Fed sem pressa para cortar juros e firma o dólar (cautela) |
+Sem eventos de alto impacto hoje (segunda traz só o Boletim Focus, de baixo impacto). Foco da semana: terça (11) ata do Copom e IPCA de julho (~09h00); quarta (12) inflação ao consumidor dos EUA, o CPI (~09h30) — o grande evento.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | 172 mil como zona de suporte; abaixo disso, humor segue vendedor. Vale e commodities no radar |
-| Dólar | Região de R$ 5,09; alta do dólar tende a pressionar a bolsa |
-| Setores | Bancos e consumo sensíveis à leitura do IPCA de terça |
+| Ibovespa | Suporte perto de 172.100 (fundo recente); resistência em 176.100. Fôlego real só se romper e sustentar acima |
+| Dólar | R$ 5,08 no radar; a queda perde força se voltar acima de R$ 5,12 |
+| Setores | Petróleo/Petrobras sensível ao Estreito de Ormuz; bancos dão sustentação |
 
-**Resumo:** fim de semana sem pregão, então segunda tende a abrir de olho no exterior e na preparação para terça. Favorece o comprador: dólar mais fraco e a Selic já em queda. Favorece o vendedor: o tom mais duro do Copom, o Ibovespa vindo da pior semana desde maio e a dupla de inflação (Brasil e EUA) na terça, que pode trazer volatilidade. Cenário de cautela até os números saírem.
+**Resumo:** favorecem a compra a inflação em queda no Focus, o dólar recuando e o repique após quatro quedas. Contra jogam a cautela antes da ata do Copom e do IPCA (terça) e do CPI dos EUA (quarta), além do risco geopolítico no petróleo. Dia mais de reposicionamento do que de tendência forte; a direção da semana se define nos dados de terça e quarta.
 
-Atualizado às 07:18 — não é recomendação de investimento.
+Atualizado às 09:06 — não é recomendação de investimento.
