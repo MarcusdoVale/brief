@@ -8,7 +8,7 @@ Segunda-feira de agenda fraca e mercado de espera. O Ibovespa oscila na casa dos
 |---|---|---|---|---|
 | Focus – IPCA 2026 | 5,03% | — | 5,12% | Inflação projetada caindo; alívio para os juros |
 | Focus – Selic fim 2026 | 13,75% | — | 13,75% | Projeção de juro estável (taxa atual: 14,00%) |
-| IPCA de julho (inflação oficial) | sai terça (~09h) | 0,30% | 0,24% (jun) | Prévia (IPCA-15) veio fraca, 0,06%; número baixo reforça espaço para corte |
+| IPCA de julho (inflação oficial) | sai terça (~09h) | +0,16% (4,64% em 12 meses) | 0,24% (jun) | Prévia (IPCA-15) veio fraca, 0,06%; número baixo reforça espaço para corte |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
@@ -24,4 +24,4 @@ Sem eventos de alto impacto hoje (segunda traz só o Boletim Focus, de baixo imp
 
 **Resumo:** favorecem a compra a inflação em queda no Focus e o cenário de novos cortes de juros. Pesam contra a espera pela ata do Copom e pelo IPCA (terça) e, sobretudo, pelo CPI dos EUA (quarta), que pode mexer com o Fed e o câmbio. Dia mais de operar no detalhe do que de tendência clara; a direção da semana se define nos dados de terça e quarta.
 
-Atualizado às 11:08 — não é recomendação de investimento.
+Atualizado às 12:08 — não é recomendação de investimento.
