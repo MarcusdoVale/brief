@@ -1,30 +1,29 @@
-**VEREDITO: neutro com viés vendedor (nas ações brasileiras) — força 5 de 10.** O placar vira para o vendedor se a ata do Copom (terça) ou a inflação dos EUA (CPI, quarta) vierem duras; vira para o comprador se o IPCA de julho surpreender para baixo.
+**VEREDITO: levemente comprador nas ações brasileiras — força 5/10.** O placar vira para cima se a Ata do Copom (amanhã) confirmar mais cortes de juros; vira para baixo se o CPI dos EUA (quarta) vier alto.
 
-Segunda-feira de agenda fraca e mercado de espera, mais para baixo. O Ibovespa abriu em alta mas virou para queda, na casa dos **172 mil pontos**, seguindo a pressão das bolsas americanas lá fora. O dólar sobe um pouco, para cerca de **R$ 5,10**, e os juros futuros avançam — o que pesa nas ações. Vale e Petrobras dão sustentação ao índice, mas os grandes bancos operam mistos. No pano de fundo, o Copom cortou a Selic (a taxa básica de juros) para **14,00%** na semana passada, no quarto corte seguido, e o mercado já aposta em mais um corte até dezembro; inflação cedendo abre espaço para novos cortes, o que reduz o custo do crédito e direciona o dinheiro para as ações (bom para a bolsa). Do lado da cautela: dólar firme e a espera pelos dados de inflação da semana, com destaque para os EUA.
+Dia mais fraco na bolsa. O Ibovespa recua e se afasta dos 172 mil pontos, com o dólar em torno de R$ 5,09–5,10 (em alta), acompanhando a queda em Nova York. O mercado está cauteloso e esperando a inflação dos EUA (CPI, o índice de preços ao consumidor) na quarta. Por baixo, o pano de fundo segue positivo: o Copom cortou a Selic para 14% na semana passada e o Boletim Focus reduziu as projeções de inflação e de crescimento (PIB) para 2026 — o que reduz o custo do crédito e tende a direcionar dinheiro para as ações.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA de julho (inflação oficial, IBGE) | ainda não saiu (previsto ~11/08, 09h00) | sem dado | 0,16% (junho) | A prévia (IPCA-15) foi baixa, 0,06%; se confirmar, reforça o espaço para novos cortes de juros |
-| Selic (Copom, decisão de 05/08) | 14,00% | 14,00% | 14,25% | 4º corte seguido; mercado aposta em mais um corte, para 13,75% até dezembro |
+| Agenda do Brasil (segunda) | — | — | — | Dia sem indicador de peso; foco no que vem amanhã |
+| IPCA cheio de julho | sai amanhã 11/08, ~09h | ~0,16% | 0,16% (jun) | Inflação oficial do mês; abaixo do esperado ajuda a bolsa |
+| Ata do Copom | sai amanhã 11/08, manhã | — | — | Detalha se o BC pretende cortar mais os juros |
+| CPI dos EUA (julho) | quarta 12/08, 09h30 | ~+0,2% no mês / ~3,5% em 12 meses | — | Inflação americana; se vier alta, firma o dólar |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| — | Sem eventos de alto impacto hoje (segunda) | Agenda fraca; a semana esquenta a partir de terça |
-| Terça (11), manhã | Ata do Copom + IPCA de julho (~09h00) | Detalham o pensamento do BC e a inflação; mexem nos juros futuros |
-| Quarta (12), 09h30 | Inflação ao consumidor dos EUA (CPI de julho) | Dado forte deixa o Fed sem pressa para cortar juros e firma o dólar (cautela) |
+| — | Sem eventos de alto impacto hoje | Os gatilhos são amanhã (Ata + IPCA) e quarta (CPI EUA) |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | 172 mil como apoio de curto prazo; abaixo, abre espaço para mais queda |
-| Dólar | R$ 5,10 no radar; acima disso com força, liga o alerta de cautela |
-| Setores | Vale e Petrobras seguram o índice; bancos mistos, sem direção clara |
+| Ibovespa | Suporte perto de 170 mil; resistência nos 172 mil. Petrobras e Vale seguram as perdas |
+| Dólar | R$ 5,10 é o teto do dia; cede se o CPI dos EUA vier fraco |
 
-**Resumo:** pesam contra a bolsa a falta de gatilho positivo, os juros futuros em alta e a pressão de fora (bolsas americanas em queda, dólar subindo). Favorecem a compra a inflação brasileira comportada e o cenário de novos cortes de juros. Dia mais de operar no detalhe do que de tendência clara; a direção da semana se define na ata e no IPCA de terça e no CPI dos EUA na quarta.
+**Resumo:** favorece a alta o ciclo de corte de juros e as projeções do Focus melhorando; favorece a queda a cautela externa e o dólar firme antes do CPI. Dia de esperar: os movimentos maiores vêm amanhã (Ata do Copom e IPCA) e na quarta (inflação dos EUA).
 
-Atualizado às 14:09 — não é recomendação de investimento.
+Atualizado às 15:08 — não é recomendação de investimento.
