@@ -1,32 +1,31 @@
-**VEREDITO: neutro com leve viés vendedor nas ações brasileiras — força 4 de 10.** O placar vira para o lado comprador se a inflação dos EUA (amanhã) vier fraca; vira mais vendedor se vier forte.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 6/10.** O placar vira para o lado comprador se o CPI dos EUA (a inflação americana) sair fraco amanhã cedo e a bolsa segurar os 170 mil pontos.
 
-O dia é de cautela. A prévia dos juros passou (o Copom cortou a Selic para 14,00% ao ano), mas a ata divulgada hoje cedo pediu calma para os próximos passos. Somou-se a isso o IPCA de julho um pouco acima do esperado e o dólar em alta, o que segura o ânimo. A bolsa oscila perto da estabilidade, com Petrobras sustentando o índice e os grandes bancos (Itaú e Bradesco) pressionando para baixo. O mercado está de olho na inflação dos EUA, que sai amanhã e é o grande evento da semana.
+O dia foi de cautela e realização de lucros. A bolsa caminha para o quinto pregão seguido de queda, pressionada pelas ações de maior peso e pelo nervosismo com o quadro fiscal. Pela manhã saíram a ata do Copom (o relatório que explica a decisão de juros) e o IPCA de julho: a inflação veio um pouco acima do esperado e a ata deixou os próximos passos em aberto, o que dividiu o mercado. Resultado: dólar subindo e Ibovespa no vermelho.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA julho (mês) | 0,07% | 0,03% | 0,16% | Inflação baixa, mas um pouco acima do previsto |
-| IPCA (12 meses) | 4,44% | 4,40% | 4,64% | Continua cedendo; ainda acima do centro da meta |
-| Ata do Copom (08h) | Cautela | — | — | BC não promete novos cortes; pesa contra a bolsa |
-| CPI EUA (julho) | amanhã 09h30 | sem dado | — | Inflação americana; define o humor do Fed |
+| IPCA julho (mês) | +0,07% | +0,03% | +0,16% | Inflação um pouco acima do previsto; reduz o espaço para cortes rápidos de juros |
+| IPCA 12 meses | 4,44% | 4,40% | 4,64% | Segue cedendo, mas ainda acima do centro da meta |
+| Ata do Copom | Neutra | — | — | Selic em 14,00%; futuro dos cortes em aberto por causa do risco fiscal |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 08h00 (já saiu) | Ata do Copom | Sinaliza o ritmo dos próximos cortes da Selic |
+| Amanhã 09:30 | CPI dos EUA (inflação americana, julho) | Move muito o dólar e a bolsa; dado forte deixa o Fed sem pressa para cortar juros e firma o dólar |
 
-Amanhã, 09h30: CPI dos EUA — principal gatilho de volatilidade da semana.
+Hoje os eventos de peso já saíram pela manhã; a tarde tende a ser mais técnica.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Zona dos 172 mil; perder os 170 mil liga o alerta |
-| Dólar | Ao redor de R$ 5,11, em alta; acima de R$ 5,15 pesa na bolsa |
-| Setores | Petrobras/commodities dando suporte; bancos no lado negativo |
+| Ibovespa | Suporte nos 170 mil; perder esse nível abre espaço para mais queda. Resistência perto de 172 mil |
+| Dólar | Rondando R$ 5,14, em alta; acima de R$ 5,15 reforça a cautela |
+| Setores | Cuidado com as blue chips (ações de maior peso), que puxaram a queda |
 
-**Resumo:** Favorece a compra se o CPI dos EUA amanhã vier fraco (abre espaço para o Fed cortar juros e ajuda o real). Favorece a venda se a inflação americana surpreender para cima e o dólar romper R$ 5,15. Por hoje, mercado de espera: sem gatilho novo, tende a ficar de lado até o dado de amanhã.
+**Resumo:** Favorece o vendedor a sequência de quedas, o dólar em alta, o IPCA um pouco salgado e a incerteza fiscal. Favorece o comprador um CPI americano fraco amanhã e a defesa dos 170 mil pontos. O gatilho da vez é a inflação dos EUA amanhã cedo.
 
-Atualizado às 15:12 — não é recomendação de investimento.
+Atualizado às 16:12 — não é recomendação de investimento.
