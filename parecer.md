@@ -1,30 +1,31 @@
-**VEREDITO: vendedor fraco nas ações brasileiras — força 4 de 10.** O placar vira para o comprador se a Ata do Copom soar menos dura e o petróleo recuar; piora se o CPI dos EUA (amanhã) vier acima do esperado.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar melhora porque a inflação veio fraca e o Banco Central já está cortando juros; o que pode virar o jogo é o dado de inflação dos EUA amanhã cedo.
 
-Hoje o mercado está de lado, em clima de cautela e no 5º dia seguido de queda. Manda no jogo a Ata do Copom (o documento em que o Banco Central detalha por que decidiu os juros), que sai por volta das 11:00 com tom mais duro: o Copom sinaliza manter a Selic alta por mais tempo para segurar a inflação, o que pesa sobre a bolsa. Por fora, o preço do petróleo em alta reacende o receio de inflação um dia antes do dado de preços nos EUA. A Petrobras sobe junto com o petróleo e segura o índice; os bancos caem.
+O dia é de digestão. O Ibovespa opera perto da máxima histórica (~172 mil pontos) mas de lado, com investidores trocando bancos (Itaú e Bradesco em leve queda) por Petrobras (forte alta com o petróleo). O pano de fundo é bom para a bolsa: a inflação segue perdendo força e o Banco Central acabou de reduzir a taxa básica de juros (Selic) para 14% ao ano, o que reduz o custo do crédito e tende a direcionar dinheiro para as ações. O freio de hoje veio da cautela antes da inflação americana de amanhã e de uma ata do Copom com tom mais prudente.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Ata do Copom (11:00) | Tom mais duro | — | — | Reforça juros altos por mais tempo; ruim para a bolsa no curto prazo |
-| Selic (decisão 05/08) | 14,00% | 14,00% | 14,25% | 4º corte seguido, mas comunicado restritivo |
-| CPI EUA (inflação, julho) | Amanhã 09:30 | 3,4% ao ano / núcleo 2,5% | — | Se vier alto, o Fed adia corte e firma o dólar (cautela) |
+| IPCA de julho (inflação oficial do mês) | divulgado hoje 09h; prévia (IPCA-15) veio a 0,06% | ~0,15% no mês / 4,40% em 12 meses | 0,16% (junho) | Inflação bem abaixo do esperado abre mais espaço para novos cortes de juros — bom para a bolsa |
+| Ata do Copom (registro da reunião de juros) | divulgada hoje 08h | — | — | Confirma corte para 14%, mas com tom mais duro e cauteloso: sinaliza pressa moderada nos próximos cortes |
+| Vendas de casas usadas (EUA) | 11h | sem dado | — | Indicador de menor peso; pouco efeito no mercado |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 11:00 | Ata do Copom | Detalha o rumo da Selic; move juros, dólar e bolsa |
-| Amanhã 09:30 | CPI dos EUA (inflação) | Principal dado externo da semana; mexe com dólar e Bolsa |
+| 08h (já saiu) | Ata do Copom | Mostra o quanto o BC ainda pode cortar juros |
+| 09h (já saiu) | IPCA de julho | Confirma o ritmo da inflação |
+| Amanhã 09h30 | Inflação ao consumidor dos EUA (CPI) de julho | Se vier forte, o banco central americano fica sem pressa para cortar juros e o dólar sobe (cautela); se vier fraca, ajuda o real e a bolsa |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Ao redor de 172 mil pontos; perder esse piso amplia a sequência de quedas |
-| Dólar | Perto de R$ 5,10; petróleo em alta e CPI forte podem pressionar para cima |
-| Setores | Petróleo (PETR4) apoiado pela alta do barril; bancos (ITUB4, BBDC4) fracos |
+| Ibovespa | Perto da máxima (~172 mil). Acima de 172,5 mil anima; perder 170 mil pede cautela |
+| Dólar | ~R$ 5,11, em leve alta. Cuidado com repique se a inflação dos EUA vier forte amanhã |
+| Setores | Petróleo (Petrobras) puxando; bancos de lado. Fique atento à troca de setor |
 
-**Resumo:** Favorece o vendedor a Ata mais dura, o petróleo caro e a espera pelo CPI dos EUA. Favorece o comprador a força da Petrobras e a bolsa já bem descontada após cinco quedas. O gatilho de virada é amanhã: CPI dos EUA controlado alivia o dólar e ajuda a bolsa; acima do esperado reforça a cautela.
+**Resumo:** Favorece a alta a inflação fraca somada aos cortes de juros em curso, cenário clássico de bolsa em máxima. Favorece a cautela o tom mais duro da ata e, principalmente, a inflação americana de amanhã — o grande gatilho de volatilidade da semana. Hoje o mercado tende a andar de lado esperando esse número.
 
-Atualizado às 11:12 — não é recomendação de investimento.
+Atualizado às 12:14 — não é recomendação de investimento.
