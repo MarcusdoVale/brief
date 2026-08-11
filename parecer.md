@@ -1,31 +1,34 @@
-**VEREDITO: comprador moderado nas ações brasileiras — força 6/10.** O placar vira para cima se o IPCA confirmar inflação fraca; vira para baixo se o dólar furar R$ 5,12 ou o CPI dos EUA (amanhã) vier forte.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** A inflação muito baixa ajuda a bolsa, mas o mercado segura a mão à espera da inflação dos EUA (CPI) amanhã e do dólar mais alto.
 
-Manhã de dados no Brasil. Saiu a ata do Copom (o documento que explica a decisão de juros) reforçando o corte da Selic para 14,00% ao ano, com tom de cautela por causa do cenário externo — petróleo subindo (tensão entre Irã e EUA) e dúvida sobre os juros nos EUA. Também saiu o IPCA de julho (a inflação oficial do mês), que o mercado esperava bem fraco. Inflação baixa é boa notícia para a bolsa porque abre espaço para mais cortes de juros, o que reduz o custo do crédito e direciona o dinheiro para as ações. O contrapeso é o dólar firme (R$ 5,11) e o barril de petróleo em alta, que pesam sobre o clima e pedem cautela.
+O dia é de digerir dois eventos do Brasil: a ata do Copom (08h) e o IPCA de julho (09h). A ata confirmou o corte da Selic para 14% ao ano, mas não deu pista clara sobre os próximos passos — o Banco Central segue cauteloso e citou o cenário externo ainda incerto. Já o IPCA veio bem fraco, o que abre espaço para mais cortes de juros à frente (bom para as ações). Mesmo assim, o Ibovespa acumula a 5ª queda seguida, pressionado pelos bancos, enquanto a Petrobras sobe forte com o petróleo. O dólar mais caro (real perdendo força) pesa no humor.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA julho (inflação oficial) | ~consenso (saiu 09h) | +0,03% | +0,16% (jun) | Inflação fraca; ajuda a bolsa e o corte de juros |
-| Ata do Copom | Divulgada 08h | — | — | Confirma Selic 14,00% e alerta para risco externo |
-| Vendas de casas usadas (EUA) | 11h | sem dado | — | Baixo impacto; ignorar |
+| Ata do Copom (08h) | Selic 14%, sem sinal claro | — | corte 0,25pp | BC cauteloso; olho no exterior |
+| IPCA julho (09h) | ~0,03% (aguardar confirmação IBGE) | 0,03% | 0,24% (jun) | Inflação fraca: mais espaço p/ corte de juros |
+| IPCA-15 julho (prévia) | 0,06% | 0,22% | 0,41% | Confirmou desaceleração da inflação |
+| CPI EUA (julho) | sai amanhã (12), 09h30 | sem dado | — | Inflação americana: move dólar e juros |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 08h | Ata do Copom | Direção dos juros no Brasil |
-| 09h | IPCA de julho | Move Ibovespa e dólar |
-| Amanhã 09h30 | CPI (inflação dos EUA) | Define aposta de juros lá fora e o dólar |
+| 08h | Ata do Copom | Já saiu; define aposta de juros no Brasil |
+| 09h | IPCA de julho | Já saiu; principal termômetro da inflação |
+| 11h | Vendas de casas usadas (EUA) | Impacto menor |
+
+Obs.: o grande evento da semana é o CPI dos EUA amanhã (12), 09h30.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Apoio ~171 mil; resistência ~173 mil (fechou 172.179) |
-| Dólar | R$ 5,11; acima de R$ 5,12 liga o alerta de cautela |
-| Setores | Vale e petroleiras sustentam o índice com petróleo em alta |
+| Ibovespa | ~172.180 pts; 5ª queda seguida, bancos pesando |
+| Dólar | ~R$ 5,11, em alta; real mais fraco pede cautela |
+| Setores | Petrobras/petróleo firmes (+3,3%); bancos (Itaú, Bradesco) em baixa |
 
-**Resumo:** favorece o comprador a inflação fraca no Brasil e a expectativa de mais cortes de juros. Favorece cautela o dólar firme, o petróleo subindo por tensão geopolítica e o CPI dos EUA amanhã, que pode balançar o dólar. Dia de viés positivo, mas sem exagero: um dado ruim de fora reverte rápido.
+**Resumo:** favorece a compra a inflação muito baixa, que reforça a aposta em novos cortes de juros. Joga contra o dólar em alta, a cautela do Copom e a espera pela inflação dos EUA amanhã, que pode mexer bastante com o dólar e a bolsa. Dia de contexto morno até o CPI americano.
 
-Atualizado às 09:12 — não é recomendação de investimento.
+Atualizado às 10:12 — não é recomendação de investimento.
