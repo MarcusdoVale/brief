@@ -1,30 +1,29 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O placar vira para comprador se a inflação dos EUA (quarta) vier abaixo do esperado e o dólar recuar.
+**VEREDITO: vendedor leve nas ações brasileiras — força 4 de 10.** O placar vira para comprador se o IPCA de julho, às 09h, confirmar inflação fraca.
 
-O dia foi de cautela e espera. A semana concentra dados de inflação no Brasil e nos EUA, e os investidores preferiram esperar antes de assumir risco. O dólar subiu para R$ 5,118 (+0,66%) e a Bolsa ficou de lado, perto de 172,2 mil pontos, segurada pelas altas de Vale (VALE3) e Petrobras (PETR4) — as commodities evitaram uma queda maior. No pano de fundo, o Copom cortou a Selic para 14,00% ao ano na semana passada (o quarto corte seguido) e o Boletim Focus de hoje reduziu as projeções de inflação e de PIB para 2026, com o mercado já embutindo mais um corte de 0,25 ponto até dezembro. Isso é bom para as ações no médio prazo, mas hoje pesou mais a cautela de curto prazo antes da inflação americana.
+A bolsa abre no sexto pregão sob pressão. O Ibovespa vem de cinco quedas seguidas (fechou perto de 172.180 pontos, -0,19%, e já está 13,3% abaixo da máxima do ano), com os bancos puxando para baixo e o petróleo dando algum suporte. O dólar voltou a subir, para cerca de R$ 5,11 (+0,56%), depois de três quedas. O clima é de cautela: a ata do Copom saiu às 08h com tom mais reservado — o Banco Central cortou a Selic para 14,00% ao ano, mas evitou prometer o próximo passo e disse que os riscos de inflação seguem inclinados para cima. Isso segura o entusiasmo de quem apostava em cortes rápidos de juros.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Boletim Focus (semanal) | Cortou projeções de inflação e PIB 2026 | — | — | Reforça a aposta de mais cortes de juros; apoio para a Bolsa adiante |
-| IPCA de julho (IBGE) | ainda não saiu | sem dado | 0,16% (jun) | Prévia oficial da inflação; sai nesta semana |
-| CPI dos EUA (julho) | quarta 12/08, 09:30 BRT | ~3,5% ao ano | 3,5% | Inflação americana; se vier abaixo, ajuda o real e a Bolsa |
+| Ata do Copom (08h) | Cautela, sem sinalizar próximo passo | — | — | Tom mais duro segura a bolsa |
+| IPCA de julho (09h) | ainda não saiu | +0,03% no mês / 4,40% em 12m | +0,16% no mês | Prévia veio fraca (+0,06%); confirmar alívio ajuda a bolsa |
+| Vendas de casas usadas EUA (11h) | ainda não saiu | sem dado | — | Baixo impacto |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Hoje | Sem eventos de alto impacto | Dia de espera antes da inflação da semana |
-| Quarta, 09:30 | CPI (inflação) dos EUA — julho | Move dólar e Bolsa; dado forte deixa o Fed sem pressa para cortar juros (dólar firme) |
+| 09h00 | IPCA de julho (Brasil) | Termômetro da inflação; mexe com aposta de corte da Selic |
+| 09h30 (amanhã, 12/08) | Inflação ao consumidor dos EUA (CPI) | Dado externo mais importante da semana; guia o dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | 172 mil como apoio imediato; acima disso, tentativa de recuperação. Depende de Vale e Petrobras |
-| Dólar | R$ 5,118, em alta; R$ 5,10 vira referência de curto prazo. Cautela antes do CPI dos EUA |
-| Setores | Commodities (Vale, Petrobras) sustentando; bancos e varejo sensíveis à inflação da semana |
+| Ibovespa | 172 mil é o piso da sequência de quedas; abaixo disso, vendedores no controle. Bancos no radar |
+| Dólar | R$ 5,10–5,12; acima de 5,12 pressiona a bolsa |
 
-**Resumo.** Favorece o comprador: Selic em queda, Focus mais leve e commodities firmes. Favorece o vendedor: dólar em alta e cautela antes da inflação dos EUA na quarta. O gatilho da semana é o CPI americano: número abaixo do esperado alivia o dólar e ajuda a Bolsa; número forte firma o dólar e pesa. Até lá, tende a predominar a cautela.
+**Resumo.** Momento favorece o vendedor: cinco quedas, dólar em alta e ata cautelosa. Vira para comprador se o IPCA das 09h vier fraco como a prévia sugere, aliviando a inflação e reforçando a aposta de novos cortes de juros. Amanhã, o CPI dos EUA domina o cenário externo.
 
-Atualizado às 18:08 — não é recomendação de investimento.
+Atualizado às 08:14 — não é recomendação de investimento.
