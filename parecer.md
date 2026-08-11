@@ -1,30 +1,31 @@
-**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar piora porque a inflação de julho veio um pouco acima do esperado e a ata do Copom saiu com tom mais duro; o que pode virar o jogo é a inflação dos EUA amanhã cedo.
+**VEREDITO: vendedor nas ações brasileiras — força 6.** O placar vira para comprador se o dado de inflação dos EUA (amanhã) vier fraco e a bolsa recuperar os 172 mil pontos.
 
-O dia é de digestão. O Ibovespa opera perto da estabilidade, ao redor de 172 mil pontos, com os grandes bancos (Itaú e Bradesco em leve queda) pesando e a Petrobras subindo forte com o petróleo. O dólar sobe um pouco, para cerca de R$ 5,11. O pano de fundo ainda é bom para a bolsa — a inflação segue baixa e o Banco Central já cortou a Selic (a taxa básica de juros) para 14% ao ano, o que reduz o custo do crédito e tende a direcionar dinheiro para as ações. Mas o freio de hoje veio da inflação um pouco mais alta que o previsto e de uma ata mais cautelosa, que sinaliza menos pressa para cortar juros daqui para frente.
+A manhã foi de cautela. A ata do Copom (8h) e o IPCA de julho (9h) dominaram os negócios. O IPCA, a inflação oficial, subiu 0,07% no mês — um pouco acima do esperado — e desacelerou no acumulado de 12 meses, para 4,44%. O ponto de alerta é a inflação de serviços, que segue resistente e coloca em dúvida novos cortes de juros. Com o dólar em alta e o exterior tenso à espera da inflação americana amanhã, o Ibovespa chegou a cair quase 2% no pior momento, mas reduziu perdas.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA de julho (inflação oficial do mês) | 0,07% no mês / 4,44% em 12 meses | 0,03% no mês / 4,40% em 12 meses | 0,24% (junho) | Veio um pouco acima do previsto; inflação segue baixa, mas reduz o ânimo por cortes mais rápidos de juros |
-| Ata do Copom (registro da reunião de juros) | divulgada hoje 08h | — | — | Confirma corte para 14%, mas com tom mais duro: fala em incerteza e cautela, e vai decidir os próximos passos reunião a reunião |
+| IPCA (julho) | 0,07% | 0,03% | 0,16% | Inflação desacelera, mas veio acima do previsto |
+| IPCA 12 meses | 4,44% | — | 4,64% | Abaixo do teto da meta (4,5%); ajuda o cenário de corte |
+| Ata do Copom | divulgada 8h | — | — | Selic cortada para 14,00%; mercado lê espaço para novo corte em setembro |
+| CPI EUA (julho) | amanhã 09h30 BRT | +0,2% mês / 3,4% ano | 3,5% ano | Inflação americana; se vier forte, o Fed fica sem pressa para cortar juros e o dólar sobe |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 08h (já saiu) | Ata do Copom | Mostra o quanto o BC ainda pode cortar juros |
-| 09h (já saiu) | IPCA de julho | Confirma o ritmo da inflação |
-| Amanhã 09h30 | Inflação ao consumidor dos EUA (CPI) de julho | Se vier forte, o banco central americano fica sem pressa para cortar juros e o dólar sobe (cautela); se vier fraca, ajuda o real e a bolsa |
+| Já saiu (8h/9h) | Ata do Copom e IPCA | Definiram o humor do dia no Brasil |
+| Amanhã 09h30 | CPI (inflação) dos EUA | Petróleo subiu ~21% em julho; dado quente pressiona juros e dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Ao redor de 172 mil. Acima de 173 mil anima; perder 170 mil pede cautela |
-| Dólar | ~R$ 5,11, em leve alta. Cuidado com repique se a inflação dos EUA vier forte amanhã |
-| Setores | Petróleo (Petrobras) puxando; bancos pesando. Fique atento à troca de setor |
+| Ibovespa | Suporte perto de 168,8 mil (fundo do dia); resistência nos 172 mil |
+| Dólar | Rodando a R$ 5,11 (+0,56%); alta reforça a cautela |
+| Setores | Juros altos pesam sobre construção e varejo; fique atento a bancos |
 
-**Resumo:** Favorece a cautela hoje a combinação de inflação um pouco acima do esperado e ata mais dura, com o dólar em alta. A favor da bolsa segue o ciclo de cortes de juros em curso e o índice perto da máxima. O grande gatilho é a inflação americana de amanhã — até lá o mercado tende a andar de lado.
+**Resumo.** Favorece o vendedor: dólar em alta, serviços pressionando a inflação e espera cautelosa pela inflação dos EUA amanhã. Favorece o comprador: IPCA abaixo do teto da meta e aposta viva de corte da Selic em setembro. O gatilho seguinte é o CPI americano de amanhã cedo.
 
-Atualizado às 13:10 — não é recomendação de investimento.
+Atualizado às 14:12 — não é recomendação de investimento.
