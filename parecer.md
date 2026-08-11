@@ -1,14 +1,13 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar melhora porque a inflação veio fraca e o Banco Central já está cortando juros; o que pode virar o jogo é o dado de inflação dos EUA amanhã cedo.
+**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar piora porque a inflação de julho veio um pouco acima do esperado e a ata do Copom saiu com tom mais duro; o que pode virar o jogo é a inflação dos EUA amanhã cedo.
 
-O dia é de digestão. O Ibovespa opera perto da máxima histórica (~172 mil pontos) mas de lado, com investidores trocando bancos (Itaú e Bradesco em leve queda) por Petrobras (forte alta com o petróleo). O pano de fundo é bom para a bolsa: a inflação segue perdendo força e o Banco Central acabou de reduzir a taxa básica de juros (Selic) para 14% ao ano, o que reduz o custo do crédito e tende a direcionar dinheiro para as ações. O freio de hoje veio da cautela antes da inflação americana de amanhã e de uma ata do Copom com tom mais prudente.
+O dia é de digestão. O Ibovespa opera perto da estabilidade, ao redor de 172 mil pontos, com os grandes bancos (Itaú e Bradesco em leve queda) pesando e a Petrobras subindo forte com o petróleo. O dólar sobe um pouco, para cerca de R$ 5,11. O pano de fundo ainda é bom para a bolsa — a inflação segue baixa e o Banco Central já cortou a Selic (a taxa básica de juros) para 14% ao ano, o que reduz o custo do crédito e tende a direcionar dinheiro para as ações. Mas o freio de hoje veio da inflação um pouco mais alta que o previsto e de uma ata mais cautelosa, que sinaliza menos pressa para cortar juros daqui para frente.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA de julho (inflação oficial do mês) | divulgado hoje 09h; prévia (IPCA-15) veio a 0,06% | ~0,15% no mês / 4,40% em 12 meses | 0,16% (junho) | Inflação bem abaixo do esperado abre mais espaço para novos cortes de juros — bom para a bolsa |
-| Ata do Copom (registro da reunião de juros) | divulgada hoje 08h | — | — | Confirma corte para 14%, mas com tom mais duro e cauteloso: sinaliza pressa moderada nos próximos cortes |
-| Vendas de casas usadas (EUA) | 11h | sem dado | — | Indicador de menor peso; pouco efeito no mercado |
+| IPCA de julho (inflação oficial do mês) | 0,07% no mês / 4,44% em 12 meses | 0,03% no mês / 4,40% em 12 meses | 0,24% (junho) | Veio um pouco acima do previsto; inflação segue baixa, mas reduz o ânimo por cortes mais rápidos de juros |
+| Ata do Copom (registro da reunião de juros) | divulgada hoje 08h | — | — | Confirma corte para 14%, mas com tom mais duro: fala em incerteza e cautela, e vai decidir os próximos passos reunião a reunião |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
@@ -22,10 +21,10 @@ O dia é de digestão. O Ibovespa opera perto da máxima histórica (~172 mil po
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Perto da máxima (~172 mil). Acima de 172,5 mil anima; perder 170 mil pede cautela |
+| Ibovespa | Ao redor de 172 mil. Acima de 173 mil anima; perder 170 mil pede cautela |
 | Dólar | ~R$ 5,11, em leve alta. Cuidado com repique se a inflação dos EUA vier forte amanhã |
-| Setores | Petróleo (Petrobras) puxando; bancos de lado. Fique atento à troca de setor |
+| Setores | Petróleo (Petrobras) puxando; bancos pesando. Fique atento à troca de setor |
 
-**Resumo:** Favorece a alta a inflação fraca somada aos cortes de juros em curso, cenário clássico de bolsa em máxima. Favorece a cautela o tom mais duro da ata e, principalmente, a inflação americana de amanhã — o grande gatilho de volatilidade da semana. Hoje o mercado tende a andar de lado esperando esse número.
+**Resumo:** Favorece a cautela hoje a combinação de inflação um pouco acima do esperado e ata mais dura, com o dólar em alta. A favor da bolsa segue o ciclo de cortes de juros em curso e o índice perto da máxima. O grande gatilho é a inflação americana de amanhã — até lá o mercado tende a andar de lado.
 
-Atualizado às 12:14 — não é recomendação de investimento.
+Atualizado às 13:10 — não é recomendação de investimento.
