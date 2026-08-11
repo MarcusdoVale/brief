@@ -1,30 +1,33 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O placar vira para comprador se o CPI dos EUA (inflação americana) sair fraco amanhã de manhã.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 4/10.** O placar muda amanhã cedo com a inflação dos EUA (CPI, 09h30 BRT).
 
-Dia de poucos exageros. A inflação de julho (IPCA) veio um pouco acima do esperado e os bancos puxaram o índice para baixo, mas o dólar recuou e segurou o clima. O Ibovespa fechou praticamente de lado, com investidores em compasso de espera para a inflação dos EUA de amanhã, que ajuda a definir o ritmo de corte de juros do Federal Reserve (o banco central americano).
+O dia foi de cautela. O IPCA de julho (a inflação oficial do Brasil) veio a 0,07%, um pouco acima do esperado (0,03%), com a conta de luz pressionando. Em 12 meses, a inflação está em 4,44%, colada no teto da meta (4,50%). Isso, somado ao dólar em alta, deixou a bolsa sem força. A ata do Copom (o documento que explica a decisão de juros) saiu de manhã, após o corte da Selic para 14,00% ao ano.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA de julho (inflação oficial) | 0,07% | 0,03% | 0,16% (junho) | Um pouco acima do previsto; em 12 meses subiu a 4,44%. Reduz um pouco o espaço para novos cortes de juros. |
-| Ata do Copom | Divulgada 08h | — | — | Detalha o corte da Selic para 14,00% ao ano (reunião de 5/8). Tom cauteloso. |
-| Vendas de casas usadas (EUA) | 11h | — | — | Indicador de menor peso. |
+| IPCA de julho (mês) | 0,07% | 0,03% | 0,16% | Inflação um pouco acima do previsto; luz pesou |
+| IPCA em 12 meses | 4,44% | — | 5,35%* | Perto do teto da meta (4,50%); ainda dentro |
+| Ata do Copom | Divulgada 08h | — | — | Detalha o corte da Selic para 14,00% |
+
+*referência aproximada de meses anteriores
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 08h (já saiu) | Ata do Copom | Sinaliza o ritmo dos próximos cortes da Selic. |
-| 09h (já saiu) | IPCA de julho | Inflação oficial do Brasil. |
-| Amanhã, 09h30 | CPI dos EUA (inflação americana) | Consenso: 3,4% no ano, núcleo 2,5%. Move o dólar e a bolsa. |
+| 09h30 (amanhã, 12/08) | CPI dos EUA (inflação ao consumidor), consenso ~3,5% em 12 meses | Move o dólar e a bolsa mundial; define a expectativa de corte de juros do Fed |
+
+Hoje, sem eventos de alto impacto restantes — a agenda pesada é amanhã.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Fechou perto de 172.180 pontos. Atenção aos bancos, que pesaram hoje; petroleiras foram destaque de alta. |
-| Dólar | Cerca de R$ 5,09, em queda. CPI dos EUA amanhã é o gatilho para a próxima direção. |
+| Ibovespa | Fechou perto de 172.200 pts (-0,19%); região de 172 mil como suporte |
+| Dólar | Subiu ~1%, para cerca de R$ 5,16; atenção se romper R$ 5,17 |
+| Setores | Elétricas e bancos no foco; cautela antes do dado dos EUA |
 
-**Resumo:** Favorece o comprador o dólar em queda e a expectativa de mais cortes da Selic. Favorece o vendedor a inflação um pouco acima do previsto e o peso dos bancos. O jogo se decide amanhã: CPI americano fraco reforça a aposta de corte de juros nos EUA e ajuda a bolsa; forte firma o dólar e pede cautela.
+**Resumo:** cenário favorece o vendedor no curto prazo — inflação um pouco mais quente e dólar em alta tiram fôlego da bolsa. Para virar comprador, seria preciso um CPI americano fraco amanhã, que reforça a aposta de corte de juros lá fora e ajuda o real. Até lá, o mercado tende a ficar de lado, esperando o número.
 
-Atualizado às 17:12 — não é recomendação de investimento.
+Atualizado às 18:09 — não é recomendação de investimento.
