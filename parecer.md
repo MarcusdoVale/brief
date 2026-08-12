@@ -1,26 +1,31 @@
-**VEREDITO: vendedor fraco nas ações brasileiras — força 4 de 10.** O placar muda se o dólar romper R$ 5,20 (piora) ou se voltar para baixo de R$ 5,10 (alivia).
+**VEREDITO: levemente comprador nas ações brasileiras — força 5 de 10.** O placar melhora se o dólar recuar de R$ 5,16 e piora se o ruído político (risco de eleição) voltar a pressionar.
 
-Hoje quem manda no mercado é o Brasil, não os dados econômicos. A bolsa tenta se estabilizar de lado depois de cair forte ontem (-2,5%, o pior nível desde janeiro), com saída de dinheiro estrangeiro por causa do medo com as contas públicas (risco fiscal) e da incerteza sobre o próximo governo. O dólar segue perto de R$ 5,16, um patamar alto que pesa. No exterior o clima ajuda um pouco: a inflação ao consumidor dos EUA (o CPI de julho, divulgado ontem) veio fraca, +0,1% no mês e 3,4% em 12 meses, o que reforça a aposta de que o banco central americano (Fed) pode cortar juros — bom para bolsas emergentes como a nossa.
+Hoje o mercado teve duas forças opostas. Do lado de fora veio alívio: a inflação ao consumidor dos EUA (CPI) veio comportada e reforça a ideia de que o Federal Reserve (o banco central americano) não precisa endurecer os juros, o que costuma ajudar a bolsa. Do lado de dentro, o Brasil segue defensivo — o dólar continua alto por causa da preocupação política, e o dia tem vencimento de opções e futuros na B3, que aumenta a oscilação. O resultado é um Ibovespa andando de lado na faixa dos 168 mil pontos.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPC-S 1ª prévia agosto (Brasil) | -0,05% | sem dado | +0,06% | Inflação semanal negativa; reforça espaço para juros menores |
-| CPI EUA julho (ontem) | +0,1% mês / 3,4% ano | sem dado | — | Inflação americana fraca; ajuda aposta de corte de juros do Fed |
+| CPI EUA (mês) | +0,1% | +0,1% | +0,4% | Inflação americana em linha, sem susto |
+| CPI EUA (ano) | 3,4% | 3,4% | 3,5% | Desacelera; abre espaço para corte de juros nos EUA (bom para bolsa) |
+| Núcleo CPI EUA (ano) | 2,5% | 2,5% | 2,6% | Menor nível desde janeiro; reforça o alívio |
+| Serviços Brasil (IBGE, jun) | divulgado hoje | — | — | Mede a atividade do setor de serviços |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
-Sem eventos de alto impacto hoje. O CPI dos EUA saiu ontem; a próxima referência do Brasil é o IPCA-15 (prévia da inflação oficial), previsto para o fim do mês.
+| Horário (Brasília) | Evento | Por quê |
+|---|---|---|
+| 09:30 (já saiu) | CPI dos EUA | Principal dado de inflação americana; move dólar e bolsa |
+| ~16h–18h | Vencimento de opções e futuros na B3 | Ajustes de posição aumentam a oscilação no fim do pregão |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segurar os 167 mil é chave; abaixo disso abre espaço para nova queda. Resistência perto de 168,3 mil |
-| Dólar | R$ 5,16 agora; R$ 5,20 acende alerta, R$ 5,10 seria alívio |
-| Setores | Vale e Petrobras tentam reagir, mas o petróleo em baixa limita a Petrobras |
+| Ibovespa | Faixa dos 167–168 mil; perder 167 mil liga o alerta, romper 168,3 mil abre espaço para subir |
+| Dólar | R$ 5,16 no radar; queda ajuda a bolsa, alta acima de R$ 5,18 pesa |
+| Vale (VALE3) | Em alta hoje, sustentando o índice |
 
-**Resumo:** Contra a bolsa pesam o risco fiscal, a saída de estrangeiros e o dólar alto. A favor está o cenário externo mais calmo, com inflação fraca nos EUA e a Selic já em corte (14%). Sem dado importante hoje, o mercado deve seguir o humor com o Brasil e o dólar. Fique atento a qualquer notícia política ou fiscal, que é o que move o pregão agora.
+**Resumo.** A favor do comprador: CPI americano comportado e Selic já em corte (14% ao ano, com o mercado esperando 13,75% até o fim do ano). Contra: dólar alto, ruído político interno e a oscilação típica de dia de vencimento. Próximo gatilho externo são as falas de dirigentes do Fed; internamente, seguir o câmbio.
 
-Atualizado às 15:12 — não é recomendação de investimento.
+Atualizado às 16:09 — não é recomendação de investimento.
