@@ -81,7 +81,24 @@ footer{color:var(--muted);font-size:12px;text-align:center;margin:20px 6px 12px}
  header.top h1{font-size:21px}
  .card{padding:14px 15px}
  table{font-size:13px}
+ .jmetrics{grid-template-columns:repeat(2,1fr)}
+ .jgrid{grid-template-columns:1fr}
 }
+/* ---- motor de juros ---- */
+.jmetrics{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:4px 0 12px}
+.jm{background:#151517;border:1px solid var(--line);border-radius:10px;padding:9px 10px}
+.jm .l{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.jm .v{font-size:17px;font-weight:700;color:#fff;margin-top:2px}
+.jgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:8px 0 4px}
+.jcell{background:#151517;border:1px solid var(--line);border-radius:12px;padding:12px 13px}
+.jcell .jh{font-family:"Poppins","Inter",sans-serif;font-weight:600;color:#fff;
+ font-size:13.5px;margin-bottom:7px}
+.jcell p{margin:7px 0 0;font-size:12.5px;color:#cfcfd4}
+.jchip{display:inline-block;padding:3px 10px;border-radius:999px;font-size:12px;
+ font-weight:700;letter-spacing:.02em}
+.jchip.buy{background:rgba(40,199,111,.14);color:#3ee08a;border:1px solid rgba(40,199,111,.4)}
+.jchip.sell{background:rgba(255,91,91,.14);color:#ff7b7b;border:1px solid rgba(255,91,91,.4)}
+.jchip.neu{background:rgba(242,194,0,.12);color:var(--gold);border:1px solid rgba(242,194,0,.4)}
 """
 
 
@@ -117,7 +134,211 @@ def _flush_table(buf):
     return "".join(out)
 
 
-def render_html(md):
+# ----------------------------------------------------------------------------
+# MOTOR DE JUROS — viés automático pela regra da taxa neutra (sempre ao vivo)
+# ----------------------------------------------------------------------------
+NEUTRA_BC = 8.0     # juro real neutro (~5%) + meta de inflação (3%)
+NEUTRA_MKT = 11.0   # visão de mercado, ajustada pelo risco fiscal (faixa 10,5-11,5)
+
+
+def _num(v):
+    try:
+        return float(str(v).replace("%", "").replace(",", ".").strip())
+    except Exception:
+        return None
+
+
+def _sgs_val(sgs, nome):
+    for it in (sgs or []):
+        if it.get("nome") == nome:
+            return _num(it.get("valor"))
+    return None
+
+
+def _selic_focus_por_ano(focus):
+    out = {}
+    for chave, r in (focus or {}).items():
+        try:
+            ind, ref = chave
+        except Exception:
+            continue
+        if ind != "Selic" or not ref:
+            continue
+        m = re.search(r"(\d{4})", str(ref))
+        v = _num(r.get("Mediana"))
+        if m and v is not None:
+            out[int(m.group(1))] = v
+    return out
+
+
+def _dolar_vivo(cotacoes, sgs):
+    for it in (cotacoes or []):
+        if "lar" in (it.get("nome", "").lower()):   # "Dólar (USD/BRL)"
+            try:
+                return float(it.get("valor")), it.get("var", "")
+            except Exception:
+                pass
+    v = _sgs_val(sgs, "Dólar venda (R$)")
+    return (v, "") if v is not None else (None, "")
+
+
+def _chip(txt, tipo):
+    return '<span class="jchip %s">%s</span>' % (tipo, txt)
+
+
+def bloco_juros(focus, sgs, cotacoes):
+    """Calcula o viés por ativo pela regra da taxa neutra sobre dados ao vivo."""
+    selic = _sgs_val(sgs, "Selic meta (% a.a.)")
+    ipca12 = _sgs_val(sgs, "IPCA acum. 12m (%)")
+    dol, _dvar = _dolar_vivo(cotacoes, sgs)
+    selic_ano = _selic_focus_por_ano(focus)
+
+    # direção do ciclo pela trajetória projetada (Focus) — anos ordenados
+    ciclo, ciclo_ico = "estável", "▬"
+    if len(selic_ano) >= 2:
+        anos = sorted(selic_ano)
+        prim, ult = selic_ano[anos[0]], selic_ano[anos[-1]]
+        if ult < prim - 0.25:
+            ciclo, ciclo_ico = "cortando", "▼"
+        elif ult > prim + 0.25:
+            ciclo, ciclo_ico = "subindo", "▲"
+
+    if selic is None:
+        return ('<div class="card"><h2>Motor de juros — viés automático</h2>'
+                '<p class="note">Aguardando os dados do Banco Central para calcular o '
+                'viés. Recarregue em instantes.</p></div>')
+
+    juro_real = (selic - ipca12) if ipca12 is not None else None
+    regime = ("restritivo" if selic > NEUTRA_MKT
+              else "neutro" if selic >= NEUTRA_BC else "expansionista")
+    gap = selic - NEUTRA_MKT
+
+    # ---- Dólar ----
+    if selic > NEUTRA_MKT:
+        if ciclo == "cortando" and gap <= 1.5:
+            d_chip, d_tipo = "NEUTRO", "neu"
+            d_txt = ("juro alto ainda segura o dólar, mas já perto da neutra e caindo "
+                     "— o suporte do real diminui; viés migrando de vendido para neutro.")
+        else:
+            d_chip, d_tipo = "VENDIDO", "sell"
+            d_txt = "Selic acima da neutra atrai capital e segura o dólar — vender nos repiques."
+            if ciclo == "cortando":
+                d_txt += " Perdendo força com o ciclo de corte."
+    elif selic < NEUTRA_BC:
+        d_chip, d_tipo = "COMPRADO", "buy"
+        d_txt = "juro abaixo da neutra: capital sai e compra dólar — comprar nas quedas."
+    else:
+        d_chip, d_tipo = "NEUTRO", "neu"
+        d_txt = "Selic dentro da faixa neutra: sem prêmio claro — operar o range."
+
+    # ---- Índice ----
+    if ciclo == "cortando":
+        i_chip, i_tipo = "COMPRADO", "buy"
+        i_txt = "juro caindo tende a favorecer a bolsa; pese o risco global."
+    elif ciclo == "subindo":
+        i_chip, i_tipo = "VENDIDO", "sell"
+        i_txt = "juro subindo pesa sobre múltiplos e desconto de fluxo."
+    else:
+        i_chip, i_tipo = "NEUTRO", "neu"
+        i_txt = "sem tendência clara de juros: operar por níveis."
+
+    # ---- DI (juros) ----
+    if ciclo == "cortando":
+        di_chip, di_tipo = "TAXA ↓", "buy"
+        di_txt = "ciclo de corte puxa a curva para baixo. Choque fiscal/risco inverte (taxa ↑)."
+    elif ciclo == "subindo":
+        di_chip, di_tipo = "TAXA ↑", "sell"
+        di_txt = "ciclo/risco empurra a curva para cima — a favor da alta da taxa."
+    else:
+        di_chip, di_tipo = "LATERAL", "neu"
+        di_txt = "curva sem direção: segue o próximo Copom e choques de risco."
+
+    def f2(v):
+        return ("%.2f" % v).replace(".", ",") if v is not None else "–"
+
+    metrics = (
+        '<div class="jmetrics">'
+        '<div class="jm"><div class="l">Selic</div><div class="v">%s%%</div></div>'
+        '<div class="jm"><div class="l">Juro real</div><div class="v">%s</div></div>'
+        '<div class="jm"><div class="l">Neutra ref.</div><div class="v">~8–11%%</div></div>'
+        '<div class="jm"><div class="l">Ciclo</div><div class="v">%s %s</div></div>'
+        '<div class="jm"><div class="l">USD/BRL</div><div class="v">%s</div></div>'
+        '</div>'
+    ) % (f2(selic),
+         ("~%s%%" % f2(juro_real)) if juro_real is not None else "–",
+         ciclo_ico, ciclo,
+         ("R$ %s" % f2(dol)) if dol is not None else "–")
+
+    grid = (
+        '<div class="jgrid">'
+        '<div class="jcell"><div class="jh">Dólar</div>%s<p>%s</p></div>'
+        '<div class="jcell"><div class="jh">Índice</div>%s<p>%s</p></div>'
+        '<div class="jcell"><div class="jh">DI (juros)</div>%s<p>%s</p></div>'
+        '</div>'
+    ) % (_chip(d_chip, d_tipo), d_txt,
+         _chip(i_chip, i_tipo), i_txt,
+         _chip(di_chip, di_tipo), di_txt)
+
+    regime_txt = {
+        "restritivo": ("Política <b>restritiva</b>: Selic acima da neutra — juro real alto "
+                       "atrai capital e tende a segurar o câmbio."),
+        "neutro": "Selic próxima da faixa neutra — política perto do equilíbrio.",
+        "expansionista": ("Política <b>expansionista</b>: Selic abaixo da neutra — favorece "
+                          "saída de capital e alta do dólar."),
+    }[regime]
+
+    out = ['<div class="card">',
+           '<h2>Motor de juros — viés automático</h2>',
+           metrics,
+           '<p>%s</p>' % regime_txt,
+           grid,
+           '<p class="note">Calculado pela regra da taxa neutra sobre os dados ao vivo '
+           '(Selic, ciclo projetado no Focus e câmbio). Leitura de cenário — não é '
+           'recomendação de investimento.</p>',
+           '</div>']
+    return "\n".join(out)
+
+
+METODO_LOGICA = """
+<div class="card">
+<h2>Como eu leio o mercado pelos juros</h2>
+<p><b>A régua é a taxa neutra</b> = juro real neutro (~5%) + meta de inflação (3%) ≈ ~8%
+nominal; ajustada pelo risco fiscal, trabalho ~11%. É o que diz se a política está apertada
+ou frouxa — e define o viés antes de olhar gráfico.</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Cenário de juros</th><th>Dólar</th><th>Por quê</th></tr></thead>
+<tbody>
+<tr><td>Selic <b>acima</b> da neutra (restritivo)</td><td><span class="jchip sell">vendido</span></td><td>atrai capital estrangeiro; segura o câmbio</td></tr>
+<tr><td>Selic <b>abaixo</b> da neutra (expansão)</td><td><span class="jchip buy">comprado</span></td><td>capital sai e compra dólar</td></tr>
+<tr><td><b>Choque de risco</b> (fiscal/externo)</td><td><span class="jchip neu">DI: taxa ↑</span></td><td>o juro futuro é a 1ª porta de estrangeiros/institucionais</td></tr>
+</tbody>
+</table></div>
+<h3 class="sub">Direção e diferencial</h3>
+<p>Além do nível, vale a <b>direção</b> (cortando/subindo) e o <b>diferencial vs Fed</b>:
+enquanto a Selic fica bem acima do juro americano, o Brasil atrai recurso e segura o câmbio.
+Em ciclo de corte, o juro converge para a neutra e fica "menos restritivo" — o suporte do
+real diminui e o viés migra para neutro/comprado.</p>
+<h3 class="sub">O DI como termômetro do dólar</h3>
+<p>Não preciso operar juro: no regime de risco, <b>DI e dólar andam juntos</b> — taxa sobe,
+dólar sobe; taxa cai, dólar cai. Dois cuidados: confirme o gráfico em <b>taxa (% a.a.)</b>,
+não em PU (inverte); e veja o <b>porquê</b> — se o juro sobe por risco anda com o dólar, se
+sobe por carry (Selic atraindo capital) pode inverter. Uso o DI como <b>confirmação</b>:
+dólar subindo com DI subindo = convicção; DI parado = divergência, repique sem fôlego.</p>
+<h3 class="sub">O instrumento: DI futuro</h3>
+<p>É o juro futuro de 1 dia; a cotação é a taxa projetada (código DI1 + mês + ano, ex.:
+DI1F29 = jan/2029; contrato de R$ 100 mil no vencimento, preço = PU). Trabalho o <b>miolo da
+curva (~2–3 anos)</b>: a ponta curta é "morta" e a longa seca liquidez — o miolo precifica o
+resto do ciclo e o risco fiscal, com boa liquidez. É o jeito mais direcional e barato de
+traduzir a leitura de juros.</p>
+<h3 class="sub">Meu fluxo</h3>
+<p>1) leio o ciclo de juros (Selic vs neutra + Copom) &rarr; viés · 2) marco o range do ativo
+· 3) escolho o instrumento (Dólar, Índice ou DI) · 4) espero o preço no extremo do range
+alinhado ao viés · 5) executo com alarmes nas bordas.</p>
+</div>
+"""
+
+
+def render_html(md, focus=None, sgs=None, cotacoes=None):
     lines = md.split("\n")
 
     title = "Panorama de Mercado"
@@ -230,6 +451,10 @@ def render_html(md):
         html.append(_flush_table(tbl))
     close_section()
 
+    # Fusão: motor de juros (viés ao vivo) + a lógica fixa do método
+    html.append(bloco_juros(focus, sgs, cotacoes))
+    html.append(METODO_LOGICA)
+
     foot = "Não é recomendação de investimento — ferramenta de apoio à decisão."
 
     page = []
@@ -299,7 +524,7 @@ def main():
     for a, b in polir.items():
         md = md.replace(a, b)
 
-    html = render_html(md)
+    html = render_html(md, focus, sgs, cotacoes)
 
     with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
         f.write(html)

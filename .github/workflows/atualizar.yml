@@ -10,6 +10,8 @@ on:
     # Republica na hora quando o parecer muda.
     paths:
       - 'parecer.md'
+      - 'gerar_site.py'
+      - 'focus_brief.py'
   workflow_dispatch: {}   # botao "Run workflow" manual
 
 permissions:
