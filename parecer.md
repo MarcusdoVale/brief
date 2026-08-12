@@ -1,28 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar muda se o dólar romper R$ 5,20 (vira cautela) ou recuar de R$ 5,15 (reforça a compra).
+**VEREDITO: VENDEDOR nas ações brasileiras — força 6/10.** O placar vira para comprador se o dólar recuar de R$ 5,17 e a bolsa segurar os 168 mil pontos com fôlego de recuperação.
 
-A inflação dos EUA (CPI, o principal índice de preços ao consumidor por lá) saiu comportada e reforçou a aposta de que o Fed, o banco central americano, tem espaço para cortar juros à frente — o que é bom para a bolsa e ajuda o real. Só que, aqui dentro, o "risco Brasil" (nervosismo com contas públicas e política) ainda pesa: o Ibovespa vinha de seis quedas seguidas, e o dólar segue firme. Resultado: a bolsa tenta esboçar recuperação, mas anda de lado, entre o alívio externo e a cautela local.
+O que mandou hoje foi o cenário interno: a Bolsa cai pelo 6º/7º pregão seguido, no pior nível desde janeiro, com o mercado preocupado com o quadro fiscal e eleitoral (o chamado "risco Brasil"). O dólar aproveitou esse clima de cautela e subiu para cerca de R$ 5,17. Do lado de fora veio um alívio: a inflação ao consumidor dos EUA (CPI) de julho veio fraca, o que reduz a pressão para juros altos por lá e ajudaria o real — mas não foi suficiente para virar o humor doméstico.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| CPI EUA (mês, jul) | 0,1% | 0,1% | — | Em linha; inflação segue cedendo |
-| CPI EUA (ano) | 3,4% | 3,4% | 3,5% | Desacelerou; abre espaço para o Fed cortar juros |
-| Núcleo do CPI (ano) | 2,5% | — | 2,6% | Melhora na parte "dura" da inflação |
+| CPI EUA (julho, mês) | +0,1% | +0,1% | queda | Inflação americana comportada |
+| CPI EUA (12 meses) | 3,4% | 3,4% | — | Abre um pouco de espaço para o Fed cortar juros (ajuda o real) |
+| Núcleo CPI EUA (ano) | 2,5% | sem dado | — | Recuou; tira parte da pressão por juros altos |
+| Serviços Brasil (junho) | divulgado 09h | sem dado | — | Mede a maior parte da economia |
+| Ata do Copom | — | — | — | Tom mais duro: BC alerta para inflação e deixa dúvida sobre novos cortes da Selic |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:30 (já saiu) | CPI dos EUA (jul) | Move dólar e juros; define se o Fed ganha tempo para cortar |
+| 09h30 (já saiu) | CPI dos EUA | Move dólar e juros globais; hoje veio benigno |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | ~168 mil pts; suporte na região de 167 mil, resistência acima de 168,3 mil |
-| Dólar | R$ 5,17; atenção a R$ 5,15 (alívio) e R$ 5,20 (pressão) |
+| Ibovespa | Suporte nos 168 mil; perder esse nível abre espaço para mais queda. Só melhora se recuperar com força |
+| Dólar | Resistência perto de R$ 5,18-5,20; recuo abaixo de R$ 5,15 alivia a bolsa |
+| Setores | Cuidado com bancos e estatais, mais sensíveis ao risco fiscal/eleitoral |
 
-**Resumo:** favorece o comprador o CPI comportado, que sustenta a aposta de corte de juros lá fora. Contra, o "risco Brasil" e o dólar firme, que travam a bolsa. Com a Selic já em 14,00% e o mercado dividido sobre novos cortes, o gatilho de curto prazo é o comportamento do dólar.
+**Resumo:** Contra a bolsa pesam a sequência de quedas, o dólar firme e a ata do Copom mais dura. A favor de um repique estão o CPI americano fraco e o mercado já muito esticado para baixo (candidato a alívio técnico). Sem gatilho novo, a tendência de curto prazo segue de baixa; um dólar em queda seria o primeiro sinal de virada.
 
-Atualizado às 17:09 — não é recomendação de investimento.
+Atualizado às 18:11 — não é recomendação de investimento.
