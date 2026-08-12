@@ -1,31 +1,28 @@
-**VEREDITO: levemente comprador nas ações brasileiras — força 5 de 10.** O placar melhora se o dólar recuar de R$ 5,16 e piora se o ruído político (risco de eleição) voltar a pressionar.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar muda se o dólar romper R$ 5,20 (vira cautela) ou recuar de R$ 5,15 (reforça a compra).
 
-Hoje o mercado teve duas forças opostas. Do lado de fora veio alívio: a inflação ao consumidor dos EUA (CPI) veio comportada e reforça a ideia de que o Federal Reserve (o banco central americano) não precisa endurecer os juros, o que costuma ajudar a bolsa. Do lado de dentro, o Brasil segue defensivo — o dólar continua alto por causa da preocupação política, e o dia tem vencimento de opções e futuros na B3, que aumenta a oscilação. O resultado é um Ibovespa andando de lado na faixa dos 168 mil pontos.
+A inflação dos EUA (CPI, o principal índice de preços ao consumidor por lá) saiu comportada e reforçou a aposta de que o Fed, o banco central americano, tem espaço para cortar juros à frente — o que é bom para a bolsa e ajuda o real. Só que, aqui dentro, o "risco Brasil" (nervosismo com contas públicas e política) ainda pesa: o Ibovespa vinha de seis quedas seguidas, e o dólar segue firme. Resultado: a bolsa tenta esboçar recuperação, mas anda de lado, entre o alívio externo e a cautela local.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| CPI EUA (mês) | +0,1% | +0,1% | +0,4% | Inflação americana em linha, sem susto |
-| CPI EUA (ano) | 3,4% | 3,4% | 3,5% | Desacelera; abre espaço para corte de juros nos EUA (bom para bolsa) |
-| Núcleo CPI EUA (ano) | 2,5% | 2,5% | 2,6% | Menor nível desde janeiro; reforça o alívio |
-| Serviços Brasil (IBGE, jun) | divulgado hoje | — | — | Mede a atividade do setor de serviços |
+| CPI EUA (mês, jul) | 0,1% | 0,1% | — | Em linha; inflação segue cedendo |
+| CPI EUA (ano) | 3,4% | 3,4% | 3,5% | Desacelerou; abre espaço para o Fed cortar juros |
+| Núcleo do CPI (ano) | 2,5% | — | 2,6% | Melhora na parte "dura" da inflação |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:30 (já saiu) | CPI dos EUA | Principal dado de inflação americana; move dólar e bolsa |
-| ~16h–18h | Vencimento de opções e futuros na B3 | Ajustes de posição aumentam a oscilação no fim do pregão |
+| 09:30 (já saiu) | CPI dos EUA (jul) | Move dólar e juros; define se o Fed ganha tempo para cortar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Faixa dos 167–168 mil; perder 167 mil liga o alerta, romper 168,3 mil abre espaço para subir |
-| Dólar | R$ 5,16 no radar; queda ajuda a bolsa, alta acima de R$ 5,18 pesa |
-| Vale (VALE3) | Em alta hoje, sustentando o índice |
+| Ibovespa | ~168 mil pts; suporte na região de 167 mil, resistência acima de 168,3 mil |
+| Dólar | R$ 5,17; atenção a R$ 5,15 (alívio) e R$ 5,20 (pressão) |
 
-**Resumo.** A favor do comprador: CPI americano comportado e Selic já em corte (14% ao ano, com o mercado esperando 13,75% até o fim do ano). Contra: dólar alto, ruído político interno e a oscilação típica de dia de vencimento. Próximo gatilho externo são as falas de dirigentes do Fed; internamente, seguir o câmbio.
+**Resumo:** favorece o comprador o CPI comportado, que sustenta a aposta de corte de juros lá fora. Contra, o "risco Brasil" e o dólar firme, que travam a bolsa. Com a Selic já em 14,00% e o mercado dividido sobre novos cortes, o gatilho de curto prazo é o comportamento do dólar.
 
-Atualizado às 16:09 — não é recomendação de investimento.
+Atualizado às 17:09 — não é recomendação de investimento.
