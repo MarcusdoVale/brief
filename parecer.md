@@ -1,29 +1,26 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 6 de 10.** O placar melhora se o dólar perder R$ 5,14 e o exterior confirmar alívio pós-inflação; piora se o "risco Brasil" pré-eleição voltar a pesar.
+**VEREDITO: vendedor fraco nas ações brasileiras — força 4 de 10.** O placar muda se o dólar romper R$ 5,20 (piora) ou se voltar para baixo de R$ 5,10 (alivia).
 
-A bolsa passou a manhã tentando reagir, mas segue pressionada: são seis quedas seguidas e o menor nível desde janeiro. Dois pesos hoje: o **CPI dos EUA** (índice de preços ao consumidor, a inflação americana) veio de julho **em linha com o esperado**, o que tira parte do medo de curto prazo; e a cautela interna, com investidores de olho na eleição e em sinais de desaceleração da economia (a Pesquisa Mensal de Serviços do IBGE veio fraca). Hoje também é dia de vencimento de opções, o que costuma aumentar a oscilação intradiária.
+Hoje quem manda no mercado é o Brasil, não os dados econômicos. A bolsa tenta se estabilizar de lado depois de cair forte ontem (-2,5%, o pior nível desde janeiro), com saída de dinheiro estrangeiro por causa do medo com as contas públicas (risco fiscal) e da incerteza sobre o próximo governo. O dólar segue perto de R$ 5,16, um patamar alto que pesa. No exterior o clima ajuda um pouco: a inflação ao consumidor dos EUA (o CPI de julho, divulgado ontem) veio fraca, +0,1% no mês e 3,4% em 12 meses, o que reforça a aposta de que o banco central americano (Fed) pode cortar juros — bom para bolsas emergentes como a nossa.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| CPI EUA (mês, jul) | +0,1% | +0,1% | +0,1% | Inflação americana comportada; sem susto novo |
-| CPI EUA (ano) | 3,4% | 3,4% | 3,4% | Em linha; não muda o jogo do Fed |
-| Núcleo CPI EUA (ano) | 2,5% | 2,5% | 2,4% | Ainda acima da meta; Fed sem pressa para cortar |
+| IPC-S 1ª prévia agosto (Brasil) | -0,05% | sem dado | +0,06% | Inflação semanal negativa; reforça espaço para juros menores |
+| CPI EUA julho (ontem) | +0,1% mês / 3,4% ano | sem dado | — | Inflação americana fraca; ajuda aposta de corte de juros do Fed |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
-| Horário (Brasília) | Evento | Por quê |
-|---|---|---|
-| 09h30 (já saiu) | CPI EUA (julho) | Principal gatilho do dia; veio em linha |
+Sem eventos de alto impacto hoje. O CPI dos EUA saiu ontem; a próxima referência do Brasil é o IPCA-15 (prévia da inflação oficial), previsto para o fim do mês.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Apoio ~167 mil; resistência 170 mil. Cuidado com a 6ª queda e o vencimento de opções |
-| Dólar | Faixa R$ 5,14–5,17; acima de R$ 5,17 liga o alerta |
-| Setores | Vale (minério) segurou; bancos e varejo mistos |
+| Ibovespa | Segurar os 167 mil é chave; abaixo disso abre espaço para nova queda. Resistência perto de 168,3 mil |
+| Dólar | R$ 5,16 agora; R$ 5,20 acende alerta, R$ 5,10 seria alívio |
+| Setores | Vale e Petrobras tentam reagir, mas o petróleo em baixa limita a Petrobras |
 
-**Resumo:** favorece a compra a inflação dos EUA comportada e a aposta de novo corte da Selic (para 13,75% em setembro), que reduz o custo do crédito e ajuda as ações. Favorece a venda o cenário externo com o Fed sem pressa para cortar juros (dólar firme) e a cautela pré-eleição. Sem dado brasileiro de grande peso no restante do dia; o mercado deve digerir o CPI e o vencimento de opções.
+**Resumo:** Contra a bolsa pesam o risco fiscal, a saída de estrangeiros e o dólar alto. A favor está o cenário externo mais calmo, com inflação fraca nos EUA e a Selic já em corte (14%). Sem dado importante hoje, o mercado deve seguir o humor com o Brasil e o dólar. Fique atento a qualquer notícia política ou fiscal, que é o que move o pregão agora.
 
-Atualizado às 14:09 — não é recomendação de investimento.
+Atualizado às 15:12 — não é recomendação de investimento.
