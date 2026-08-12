@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Método Kim Paiffer — Juros como base para operar Dólar, Índice e DI</title>
+<style>
+  :root{
+    --bg:#0f1720; --panel:#16212e; --panel2:#1b2836; --ink:#e8eef5; --muted:#9db0c3;
+    --line:#26364a; --accent:#3b82f6; --green:#22c55e; --red:#ef4444; --amber:#f59e0b;
+    --chip:#0e1a27;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.6;font-size:16px}
+  .wrap{max-width:920px;margin:0 auto;padding:32px 20px 80px}
+  header.top{border-bottom:1px solid var(--line);padding-bottom:22px;margin-bottom:8px}
+  h1{font-size:30px;line-height:1.25;margin:0 0 8px;font-weight:800;letter-spacing:-.02em}
+  h1 span{color:var(--accent)}
+  .sub{color:var(--muted);font-size:14px}
+  h2{font-size:21px;margin:38px 0 12px;font-weight:700;letter-spacing:-.01em;
+    display:flex;align-items:center;gap:10px}
+  h2 .n{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;
+    border-radius:8px;background:var(--accent);color:#fff;font-size:14px;font-weight:800;flex:none}
+  h3{font-size:16px;margin:22px 0 6px;color:#cfe0f1;font-weight:700}
+  p{margin:8px 0}
+  .lead{font-size:17px;color:#dbe6f2}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin:14px 0}
+  .card.tip{border-left:3px solid var(--accent)}
+  .card.warn{border-left:3px solid var(--amber)}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:640px){.grid2{grid-template-columns:1fr}}
+  ul{margin:8px 0;padding-left:20px}
+  li{margin:6px 0}
+  b,strong{color:#fff}
+  table{width:100%;border-collapse:collapse;margin:12px 0;font-size:14.5px;
+    background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+  th,td{padding:10px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
+  th{background:#12324f;color:#eaf2fb;font-weight:700;font-size:13px;text-transform:uppercase;letter-spacing:.03em}
+  tr:last-child td{border-bottom:none}
+  tbody tr:nth-child(even){background:var(--panel2)}
+  .chip{display:inline-block;padding:2px 9px;border-radius:999px;font-size:12px;font-weight:700}
+  .buy{background:rgba(34,197,94,.15);color:#4ade80;border:1px solid rgba(34,197,94,.35)}
+  .sell{background:rgba(239,68,68,.15);color:#f87171;border:1px solid rgba(239,68,68,.35)}
+  .neu{background:rgba(148,163,184,.15);color:#cbd5e1;border:1px solid rgba(148,163,184,.35)}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:14px 0}
+  @media(max-width:640px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .kpi{background:var(--chip);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .kpi .l{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .kpi .v{font-size:22px;font-weight:800;margin-top:4px}
+  .flow{display:grid;gap:10px;margin:12px 0}
+  .step{display:flex;gap:12px;align-items:flex-start;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:12px 14px}
+  .step .b{flex:none;width:26px;height:26px;border-radius:50%;background:var(--accent);color:#fff;
+    font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center}
+  code,pre{font-family:"SF Mono",ui-monospace,Menlo,Consolas,monospace}
+  pre{background:#0a121b;border:1px solid var(--line);border-radius:12px;padding:16px;overflow:auto;
+    font-size:12.5px;line-height:1.5;color:#cfe0f1;white-space:pre-wrap}
+  .foot{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);color:var(--muted);font-size:13px}
+  .tag{display:inline-block;font-size:11px;color:var(--muted);border:1px solid var(--line);
+    border-radius:6px;padding:1px 7px;margin-left:6px;vertical-align:middle}
+  .arrow{color:var(--accent);font-weight:800}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <h1>Juros como base para operar <span>Dólar, Índice e DI</span></h1>
+  <div class="sub">Resumo de estudo · método de Joaquim "Kim" Paiffer · consolidado de dois vídeos + leitura aplicada (ago/2026)</div>
+</header>
+
+<p class="lead">A ideia central em uma frase: <b>primeiro você lê o ciclo de juros</b> (Selic vs taxa neutra) para definir o viés e o ponto de entrada; <b>depois você executa</b> no instrumento certo — Dólar, Índice ou o próprio DI futuro, que é o mais direcional. O DI serve ainda como <b>termômetro</b> para ler o dólar.</p>
+
+<div class="card tip">
+  <b>Os dois vídeos que originaram este resumo</b>
+  <ul>
+    <li><b>Vídeo 1</b> — "Estratégia para encontrar os melhores pontos de entrada no dólar utilizando juros futuros" (Os Traders Podcast).</li>
+    <li><b>Vídeo 2</b> — "Como operar DI futuros" (workshop Atom Educacional).</li>
+  </ul>
+</div>
+
+<h2><span class="n">1</span> A leitura macro — o gatilho</h2>
+<p>Antes de olhar gráfico, fluxo ou PTAX, a análise começa no <b>ciclo de juros</b>. É ele que define comprado ou vendido e onde entrar.</p>
+
+<h3>Taxa neutra — a referência de tudo</h3>
+<p>Taxa neutra = taxa dos EUA (Fed) + prêmio pelo risco fiscal do Brasil. Tecnicamente: <b>juro real neutro</b> (BC estima ~5%) + <b>meta de inflação</b> (3%) ≈ <b>neutra nominal ~8%</b>. A visão de mercado, ajustada pelo fiscal, chega a ~11% — a mesma faixa (10,5–11,5%) que o Kim usava.</p>
+
+<h3>O gatilho principal: Selic acima ou abaixo da neutra</h3>
+<div class="grid2">
+  <div class="card"><b>Selic ACIMA da neutra</b> — política <b>restritiva</b>. Atrai capital estrangeiro (paga mais que o Fed, com prêmio de risco) <span class="arrow">→</span> atrai dólar <span class="arrow">→</span> dólar tende a cair <span class="arrow">→</span> <span class="chip sell">viés vendido</span></div>
+  <div class="card"><b>Selic ABAIXO da neutra</b> — política <b>expansionista</b>. Capital sai e compra dólar <span class="arrow">→</span> dólar tende a subir <span class="arrow">→</span> <span class="chip buy">viés comprado</span></div>
+</div>
+
+<h3>Direção do ciclo, diferencial e histórico</h3>
+<p>Além do nível, importa a <b>direção</b> (cortando/subindo) e o <b>diferencial vs Fed</b>. Enquanto a Selic fica acima do juro americano, o Brasil atrai recurso e segura o câmbio. Na pandemia (2020–21), a Selic foi para bem abaixo da neutra, o país virou economia de juro barato e o câmbio explodiu; depois, com o juro subindo, o dólar se estabilizou.</p>
+
+<h3>Do gatilho ao ponto de entrada</h3>
+<ul>
+  <li><b>Range + timing:</b> definido o cenário de juros, marca-se a faixa em que o ativo opera. Topo do range + juro restritivo → vender; base do range + juro migrando de muito para menos restritivo → comprar.</li>
+  <li><b>Carry trade nos futuros:</b> o dólar futuro corrige pelo FRA (juro dolarizado) e o índice futuro pelo CDI — se o índice cai, o futuro tende a corrigir para cima pelo CDI, e o à vista acompanha.</li>
+  <li><b>A técnica é o "poderzinho":</b> como no Mortal Kombat, o setup só funciona na hora certa (definida pelo cenário de juros e pelo range). No lugar errado, a estratégia "parece ruim".</li>
+</ul>
+
+<h3>Quadro de decisão</h3>
+<table>
+  <thead><tr><th>Cenário de juros</th><th>O que fazer no dólar</th><th>Por quê</th></tr></thead>
+  <tbody>
+    <tr><td>Selic <b>acima</b> da taxa neutra (restritivo)</td><td><span class="chip sell">vendido</span> — vender no topo do range</td><td>Atrai capital estrangeiro; dólar tende a cair</td></tr>
+    <tr><td>Selic <b>abaixo</b> da taxa neutra (expansão)</td><td><span class="chip buy">comprado</span> — comprar na base do range</td><td>Capital sai; dólar tende a subir</td></tr>
+    <tr><td><b>Choque de risco</b> (fiscal, externo)</td><td>Comprar DI (juro sobe) e favorece o dólar</td><td>Juro futuro é a "primeira porta" de estrangeiros/institucionais</td></tr>
+  </tbody>
+</table>
+
+<h2><span class="n">2</span> O instrumento — o DI futuro</h2>
+<p>O DI futuro é onde a leitura de juros se executa de forma mais direta. É o <b>juro futuro de 1 dia</b>; a cotação é a taxa que o mercado projeta (não garante a Selic no vencimento).</p>
+
+<div class="grid2">
+  <div class="card">
+    <h3 style="margin-top:0">O básico do contrato</h3>
+    <ul>
+      <li><b>Código:</b> DI1 + letra do mês + ano. Ex.: <b>DI1F29</b> = janeiro/2029 (F = janeiro).</li>
+      <li><b>Valor:</b> cada contrato vale R$ 100.000 no vencimento; o preço de hoje é o valor presente (PU). Ex.: ~1 ponto com 5 contratos ≈ R$ 160.</li>
+      <li><b>Margem:</b> não há minicontrato; ~R$ 25–50 mil por lote de 5 contratos.</li>
+      <li><b>Liquidez:</b> os janeiros (F) são os mais negociados; DI1FUT é o contínuo (só para gráfico/curva).</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3 style="margin-top:0">Por que ele é útil</h3>
+    <ul>
+      <li><b>O que move:</b> COPOM (Selic, atas) e fluxo — primárias; dados econômicos e juros externos — secundárias.</li>
+      <li><b>Mais direcional:</b> a direção é visível ao longo do tempo, com menos ruído que o dólar e muita liquidez.</li>
+      <li><b>Custo menor</b> que o dólar (em reais) → melhora o líquido.</li>
+      <li><b>Estratégias:</b> zonas de proteção, rompimento e direcional pelo COPOM.</li>
+    </ul>
+  </div>
+</div>
+
+<h2><span class="n">3</span> Conceitos-chave do DI</h2>
+<p>Antes de usar o DI para ler o dólar, vale fixar o que a taxa e a curva realmente significam.</p>
+<div class="grid2">
+  <div class="card">
+    <h3 style="margin-top:0">DI = "Selic futura"</h3>
+    <p>A taxa do DI é a <b>média de juros que o mercado projeta</b> até o vencimento. Tecnicamente é o CDI (que anda ~0,10 p.p. abaixo da Selic). Cada vencimento = expectativa até aquela data; a <b>curva inteira</b> = a trajetória esperada da Selic.</p>
+  </div>
+  <div class="card">
+    <h3 style="margin-top:0">Por que usar ~3 anos à frente</h3>
+    <p>A ponta curta é "morta" (Selic já definida, quase não oscila). O <b>miolo (~2–3 anos)</b> precifica o que ainda é dúvida — resto do ciclo e risco fiscal — e concentra <b>liquidez</b>. Muito longo (5–10 anos) seca a liquidez. O ~3 anos é o equilíbrio: líquido e sensível.</p>
+  </div>
+</div>
+
+<h2><span class="n">4</span> O DI como base para ler o Dólar</h2>
+<p>Você <b>não precisa operar o juro</b> — usa-o como termômetro. Na maior parte do tempo (regime de risco), <b>DI e dólar andam juntos</b>:</p>
+<div class="card"><b>DI (taxa) sobe → dólar sobe &nbsp;·&nbsp; DI (taxa) cai → dólar cai.</b> Os dois são barômetro de risco do Brasil: estresse fiscal/externo empurra juro futuro e câmbio juntos; calmaria alivia os dois.</div>
+
+<div class="card warn">
+  <b>Dois cuidados</b>
+  <ul>
+    <li><b>Taxa, não PU.</b> Confirme que o gráfico do DI está em <b>taxa (% a.a.)</b>. Se estiver em PU (preço), inverte: PU sobe = taxa cai = dólar tende a cair.</li>
+    <li><b>Depende do porquê.</b> Se o juro sobe por <b>risco</b> → anda junto com o dólar (caso comum). Se sobe por <b>política/carry</b> (Selic mais alta atraindo capital) → pode inverter: juro sobe e dólar cai.</li>
+  </ul>
+</div>
+<p><b>Uso prático:</b> o DI é <b>confirmação</b>. Dólar subindo <i>com</i> o DI subindo = movimento com convicção. Dólar subindo <i>mas</i> DI parado/caindo = <b>divergência</b> → o repique pode não ter fôlego.</p>
+
+<h2><span class="n">5</span> Leitura de hoje <span class="tag">ago/2026</span></h2>
+<div class="kpis">
+  <div class="kpi"><div class="l">Selic</div><div class="v">14,00%</div><div class="sub" style="font-size:12px">cortando (4º corte)</div></div>
+  <div class="kpi"><div class="l">Fed</div><div class="v">3,50–3,75%</div><div class="sub" style="font-size:12px">mid ~3,6%</div></div>
+  <div class="kpi"><div class="l">Taxa neutra</div><div class="v">~8–11%</div><div class="sub" style="font-size:12px">BC ~8% · mercado ~11%</div></div>
+  <div class="kpi"><div class="l">Dólar</div><div class="v">~R$ 5,1</div><div class="sub" style="font-size:12px">DI1F29 ~14,2%</div></div>
+</div>
+<p>A Selic (14%) está <b>bem acima da neutra</b> → política ainda <b>restritiva</b>, com um dos maiores juros reais do mundo (~9,4%) e diferencial enorme vs Fed. Isso <b>atrai capital e segura o dólar</b> (viés estrutural de vender nos repiques). Porém estamos em <b>ciclo de corte</b>: o juro converge para a neutra, ficando "menos restritivo" → o suporte do real diminui e o viés migra para <b>neutro/comprado</b>. Detalhe atual: o DI longo (F29) <b>subiu</b> logo após o corte — o mercado pede mais prêmio na ponta longa (risco fiscal), o que é altista para o dólar.</p>
+
+<h2><span class="n">6</span> Fluxo prático do dia</h2>
+<div class="flow">
+  <div class="step"><div class="b">1</div><div><b>Ler o ciclo de juros:</b> onde a Selic está vs neutra e o que o COPOM sinaliza (Curva de Juros + DI1 no Profit). Define o viés.</div></div>
+  <div class="step"><div class="b">2</div><div><b>Definir o range:</b> a faixa de preço em que dólar/índice/DI está operando.</div></div>
+  <div class="step"><div class="b">3</div><div><b>Escolher o instrumento:</b> dólar, índice ou DI (o DI para algo mais direcional e barato).</div></div>
+  <div class="step"><div class="b">4</div><div><b>Esperar o setup na hora certa:</b> o "poderzinho" só nos extremos do range alinhados ao viés de juros.</div></div>
+  <div class="step"><div class="b">5</div><div><b>Executar:</b> pela boleta, com alarmes nas bordas do range.</div></div>
+</div>
+
+<h2><span class="n">7</span> Prompt do "viés do dia"</h2>
+<p>Instrução pronta para colar em outro projeto — ele busca os números na web a cada execução e devolve o viés curto por ativo:</p>
+<pre>PAPEL
+Você é meu assistente de "viés do dia" para day trade em Dólar futuro (DOL/WDO),
+Índice futuro (IND/WIN) e DI futuro (juros). Leia o cenário macro de juros e
+devolva um viés curto e direto para cada ativo.
+
+DADOS (busque na web ANTES de responder — nunca use números de memória)
+- Selic atual + último comunicado/ata do Copom (nível E direção do ciclo).
+- Fed funds target range atual.
+- Taxa neutra: juro real neutro do BC (~5%) + meta de inflação (3%) ≈ ~8% nominal;
+  cite também a visão de mercado mais alta (~11%, ajustada pelo risco fiscal).
+- Cotação USD/BRL.
+- Inclinação/expectativa da curva de juros (Focus e curva DI).
+
+MÉTODO
+1. Referência = taxa neutra. Selic ACIMA = restritivo → dólar contido → viés vendido.
+   Selic ABAIXO = expansão → viés comprado.
+2. Olhe a DIREÇÃO do ciclo e o DIFERENCIAL vs Fed: juro caindo em direção à neutra
+   fica "menos restritivo" → suporte do real diminui → viés migra para neutro/comprado.
+3. Índice: juro caindo tende a favorecer a bolsa (comprado); pese o risco global.
+4. DI: mais direcional — segue o Copom; choques de risco elevam o juro → comprar DI.
+
+SAÍDA (curta)
+- 1 linha: data + Selic | Fed | neutra estimada | USD/BRL.
+- Viés por ativo (Dólar / Índice / DI): COMPRADO / VENDIDO / NEUTRO + 1 frase.
+- 1 linha "atenção hoje" (Copom, ata, CPI/payroll, dados fiscais).
+- Encerrar: "Leitura de cenário, não é recomendação de investimento."</pre>
+
+<div class="foot">
+  Material de estudo — síntese fiel do conteúdo dos vídeos e da conversa. Números de mercado são de ago/2026 e mudam.
+  <b>Não é recomendação de investimento.</b>
+</div>
+
+</div>
+</body>
+</html>
