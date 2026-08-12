@@ -1,29 +1,31 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 4/10.** O placar vira para comprador se o Ibovespa segurar a região de 167 mil pontos e o dólar recuar de R$ 5,17; vira mais vendedor se perder esse suporte.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: a inflação dos EUA veio comportada e reforça a aposta de corte de juros lá fora (bom para a bolsa), mas a cautela com o Brasil (eleição próxima e juros altos por aqui) segura o ânimo.
 
-O que mandou hoje foi a mistura de fora com dentro. Lá fora, saiu a inflação ao consumidor dos EUA (CPI) de julho, que veio em linha com o esperado e reforça a aposta de que o Fed (banco central americano) começa a cortar juros em setembro — isso ajuda moedas como o real. Mas dentro do Brasil a preocupação com as contas públicas (o lado fiscal) continua pesando: a bolsa emenda a 6ª queda seguida e o dólar sobe. O clima ainda é de cautela, mesmo com o alívio da inflação americana.
+Hoje o mercado digeriu o principal dado da semana: a inflação ao consumidor dos EUA (CPI, o índice de preços que o Banco Central americano acompanha). Veio em linha com o esperado e desacelerou no acumulado do ano — isso mantém viva a chance de o Fed cortar juros em setembro, o que costuma ajudar bolsas emergentes. Mesmo assim, o Ibovespa opera de lado (perto de 167,8 mil pontos) depois de seis quedas seguidas, e o dólar sobe a R$ 5,17. Os juros futuros por aqui recuam, sinal de que cresce a aposta de corte da Selic pelo Copom.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| CPI EUA (julho, no mês) | +0,1% | +0,1% | −0,4% | Em linha; inflação comportada abre espaço para o Fed cortar juros — ajuda o real |
-| CPI EUA (12 meses) | 3,4% | 3,4% | 3,5% | Desacelerou; reforça a aposta de corte em setembro |
-| Núcleo do CPI (12 meses) | 2,5% | 2,5% | 2,6% | Tirando comida e energia, também cedeu |
+| CPI EUA (mês, jul) | +0,1% | +0,1% | +0,3% | Inflação americana comportada; abre espaço para o Fed cortar juros |
+| CPI EUA (12 meses) | 3,4% | 3,4% | 3,5% | Segue em queda lenta, mas ainda acima da meta |
+| Núcleo do CPI EUA (mês) | +0,2% | +0,2% | +0,2% | Miolo da inflação estável, sem susto |
+| IPCA Brasil (jul, saiu ontem) | +0,07% | +0,03% | +0,16% | Inflação daqui bem baixa; ajuda o corte da Selic |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:30 (já saiu) | CPI dos EUA (julho) | Move dólar e juros americanos; hoje o efeito principal já passou |
+| 09:30 (já saiu) | CPI dos EUA | Principal gatilho do dia; define aposta de corte do Fed em setembro |
+| Ao longo do dia | Falas de dirigentes do Fed | Podem mexer no dólar e na curva de juros |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte na região de 167 mil; abaixo disso o humor piora. Alívio só com retomada acima de 170 mil |
-| Dólar | R$ 5,17 no radar; queda abaixo de R$ 5,12 alivia a bolsa |
-| Setores | Vale (VALE3) sobe com minério; Petrobras (PETR4) cede. Bancos e varejo mistos |
+| Ibovespa | 167 mil como piso recente (mínima desde janeiro); acima de 170 mil alivia. Vinha de 6 quedas — cuidado com repique técnico |
+| Dólar | R$ 5,17; R$ 5,20 é resistência. CPI benigno tende a enfraquecer o dólar lá fora e ajudar o real |
+| Setores | Bancos e consumo respiram com juros futuros em queda; exportadoras acompanham o dólar |
 
-**Resumo:** favorece o comprador o CPI comportado nos EUA e a bolsa muito esticada para baixo (6 quedas seguidas costumam atrair repique técnico). Favorece o vendedor o medo fiscal doméstico e o dólar firme. O próximo gatilho local é a decisão da Selic em setembro, onde o mercado ainda aposta em corte de 0,25 ponto. Enquanto o fiscal não acalma, a tendência é de mercado nervoso.
+**Resumo:** A favor do comprador: inflação baixa aqui e lá fora reforça o corte de juros nos dois lados, o que direciona dinheiro para as ações. Contra: eleição no radar e o exterior ainda cauteloso mantêm o dólar firme e a bolsa sem fôlego após seis quedas. Amanhã sai o PPI dos EUA (inflação dos produtores), outro termômetro para o Fed.
 
-Atualizado às 12:09 — não é recomendação de investimento.
+Atualizado às 13:12 — não é recomendação de investimento.
