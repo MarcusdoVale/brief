@@ -1,6 +1,6 @@
 <!doctype html><html lang='pt-br'><head><meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<title>Panorama de Mercado — 11/08/2026</title>
+<title>Panorama de Mercado — 12/08/2026</title>
 <meta http-equiv='refresh' content='1800'>
 <link rel='preconnect' href='https://fonts.googleapis.com'>
 <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin>
@@ -63,12 +63,29 @@ footer{color:var(--muted);font-size:12px;text-align:center;margin:20px 6px 12px}
  header.top h1{font-size:21px}
  .card{padding:14px 15px}
  table{font-size:13px}
+ .jmetrics{grid-template-columns:repeat(2,1fr)}
+ .jgrid{grid-template-columns:1fr}
 }
+/* ---- motor de juros ---- */
+.jmetrics{display:grid;grid-template-columns:repeat(5,1fr);gap:8px;margin:4px 0 12px}
+.jm{background:#151517;border:1px solid var(--line);border-radius:10px;padding:9px 10px}
+.jm .l{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.jm .v{font-size:17px;font-weight:700;color:#fff;margin-top:2px}
+.jgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:8px 0 4px}
+.jcell{background:#151517;border:1px solid var(--line);border-radius:12px;padding:12px 13px}
+.jcell .jh{font-family:"Poppins","Inter",sans-serif;font-weight:600;color:#fff;
+ font-size:13.5px;margin-bottom:7px}
+.jcell p{margin:7px 0 0;font-size:12.5px;color:#cfcfd4}
+.jchip{display:inline-block;padding:3px 10px;border-radius:999px;font-size:12px;
+ font-weight:700;letter-spacing:.02em}
+.jchip.buy{background:rgba(40,199,111,.14);color:#3ee08a;border:1px solid rgba(40,199,111,.4)}
+.jchip.sell{background:rgba(255,91,91,.14);color:#ff7b7b;border:1px solid rgba(255,91,91,.4)}
+.jchip.neu{background:rgba(242,194,0,.12);color:var(--gold);border:1px solid rgba(242,194,0,.4)}
 </style>
 </head><body><div class='wrap'>
 <header class="top">
 <h1>Panorama de <b>Mercado</b></h1>
-<div class="sub">11/08/2026 · atualizado às 19:41 · Fontes: Banco Central do Brasil (Focus, SGS, Copom), IBGE, Federal Reserve e stooq</div>
+<div class="sub">12/08/2026 · atualizado às 07:03 · Fontes: Banco Central do Brasil (Focus, SGS, Copom), IBGE, Federal Reserve e stooq</div>
 <span class="badge"><span class="dot"></span> atualiza a cada evento da agenda econômica</span>
 </header>
 <div class="card parecer">
@@ -88,8 +105,8 @@ footer{color:var(--muted);font-size:12px;text-align:center;margin:20px 6px 12px}
 </div>
 <div class="card">
 <h2>Expectativas de Mercado (Focus)</h2>
-<div class="table-wrap"><table><thead><tr><th>Indicador</th><th>2026</th><th>2027</th><th>2028</th><th>2029</th><th>2030</th><th>Δ 2026 (vs 10/08)</th></tr></thead><tbody><tr><td>IPCA</td><td>5,02</td><td>4,22</td><td>3,80</td><td>3,50</td><td>3,50</td><td>▬</td></tr><tr><td>PIB Total</td><td>1,98</td><td>1,52</td><td>2,00</td><td>2,00</td><td>2,00</td><td>▬</td></tr><tr><td>Câmbio</td><td>5,20</td><td>5,28</td><td>5,30</td><td>5,37</td><td>5,40</td><td>▬</td></tr><tr><td>Selic</td><td>13,75</td><td>12,00</td><td>10,50</td><td>10,00</td><td>10,00</td><td>▬</td></tr><tr><td>IGP-M</td><td>4,47</td><td>4,14</td><td>3,93</td><td>3,85</td><td>3,80</td><td>▬</td></tr><tr><td>IPCA Administrados</td><td>4,91</td><td>3,90</td><td>3,54</td><td>3,50</td><td>3,50</td><td>▬</td></tr><tr><td>Conta corrente</td><td>-60,00</td><td>-59,70</td><td>-62,80</td><td>-62,00</td><td>-62,00</td><td>▬</td></tr><tr><td>Balança comercial</td><td>76,90</td><td>78,00</td><td>77,00</td><td>77,10</td><td>77,83</td><td>▬</td></tr></tbody></table></div>
-<p class="note">Valores = mediana das projeções. Coluna Δ = variação da projeção do ano corrente desde a coleta de 10/08 (▲ subiu, ▼ caiu).</p>
+<div class="table-wrap"><table><thead><tr><th>Indicador</th><th>2026</th><th>2027</th><th>2028</th><th>2029</th><th>2030</th><th>Δ 2026 (vs 11/08)</th></tr></thead><tbody><tr><td>IPCA</td><td>5,02</td><td>4,22</td><td>3,80</td><td>3,50</td><td>3,50</td><td>▬</td></tr><tr><td>PIB Total</td><td>1,98</td><td>1,52</td><td>2,00</td><td>2,00</td><td>2,00</td><td>▬</td></tr><tr><td>Câmbio</td><td>5,20</td><td>5,28</td><td>5,30</td><td>5,37</td><td>5,40</td><td>▬</td></tr><tr><td>Selic</td><td>13,75</td><td>12,00</td><td>10,50</td><td>10,00</td><td>10,00</td><td>▬</td></tr><tr><td>IGP-M</td><td>4,47</td><td>4,14</td><td>3,93</td><td>3,85</td><td>3,80</td><td>▬</td></tr><tr><td>IPCA Administrados</td><td>4,91</td><td>3,90</td><td>3,54</td><td>3,50</td><td>3,50</td><td>▬</td></tr><tr><td>Conta corrente</td><td>-60,00</td><td>-59,70</td><td>-62,80</td><td>-62,00</td><td>-62,00</td><td>▬</td></tr><tr><td>Balança comercial</td><td>76,90</td><td>78,00</td><td>77,00</td><td>77,10</td><td>77,83</td><td>▬</td></tr></tbody></table></div>
+<p class="note">Valores = mediana das projeções. Coluna Δ = variação da projeção do ano corrente desde a coleta de 11/08 (▲ subiu, ▼ caiu).</p>
 </div>
 <div class="card">
 <h2>Realizado recente (divulgado) — leitura automática vs Focus</h2>
@@ -98,8 +115,52 @@ footer{color:var(--muted);font-size:12px;text-align:center;margin:20px 6px 12px}
 </div>
 <div class="card">
 <h2>Agenda econômica (próximos 21 dias)</h2>
-<div class="table-wrap"><table><thead><tr><th>Quando</th><th>Evento</th><th>Expectativa (Focus)</th><th>O que observar</th></tr></thead><tbody><tr><td>11/08/2026 12:00</td><td>Pesquisa Industrial Mensal: Produção Física - Regional</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>11/08/2026 12:00</td><td>Índice Nacional de Preços ao Consumidor</td><td>IPCA ano: 5,02%</td><td>Acima do esperado → pressão de alta em juros/dólar; abaixo → alívio.</td></tr><tr><td>11/08/2026 12:00</td><td>Índice Nacional de Preços ao Consumidor Amplo</td><td>IPCA ano: 5,02%</td><td>Acima do esperado → pressão de alta em juros/dólar; abaixo → alívio.</td></tr><tr><td>11/08/2026 12:00</td><td>Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil</td><td>-</td><td>Divulgação oficial — comparar com o esperado.</td></tr><tr><td>12/08/2026 12:00</td><td>Pesquisa Mensal de Serviços</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>13/08/2026 12:00</td><td>Pesquisa Mensal de Comércio</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>13/08/2026 12:00</td><td>Levantamento Sistemático da Produção Agrícola</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>17/08/2026 15:00 (previsto)</td><td>🇧🇷 Balança Comercial (semanal) — MDIC/Secex</td><td>Saldo ano (Focus): US$ 76,90 bi</td><td>Saldo comercial: superávit maior = mais dólar entrando, favorável ao real; menor ou déficit pressiona.</td></tr><tr><td>19/08/2026 12:00</td><td>Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>24/08/2026 15:00 (previsto)</td><td>🇧🇷 Balança Comercial (semanal) — MDIC/Secex</td><td>Saldo ano (Focus): US$ 76,90 bi</td><td>Saldo comercial: superávit maior = mais dólar entrando, favorável ao real; menor ou déficit pressiona.</td></tr><tr><td>26/08/2026 12:00</td><td>Índice Nacional de Preços ao Consumidor Amplo 15</td><td>IPCA ano: 5,02%</td><td>Acima do esperado → pressão de alta em juros/dólar; abaixo → alívio.</td></tr><tr><td>26/08/2026 08:30 (previsto)</td><td>🇧🇷 Setor Externo — Transações Correntes e IDP (BCB)</td><td>Conta corr. ano: US$ -60,00 bi</td><td>Contas externas: déficit maior pressiona o real; IDP firme dá suporte.</td></tr><tr><td>28/08/2026 12:00</td><td>Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação</td><td>-</td><td>Divulgação oficial — comparar com o esperado.</td></tr><tr><td>31/08/2026 15:00 (previsto)</td><td>🇧🇷 Balança Comercial (semanal) — MDIC/Secex</td><td>Saldo ano (Focus): US$ 76,90 bi</td><td>Saldo comercial: superávit maior = mais dólar entrando, favorável ao real; menor ou déficit pressiona.</td></tr><tr><td>01/09/2026 12:00</td><td>Sistema de Contas Nacionais Trimestrais</td><td>Conta corr. ano: US$ -60,00 bi</td><td>Contas externas: déficit maior pressiona o real; IDP firme dá suporte.</td></tr></tbody></table></div>
+<div class="table-wrap"><table><thead><tr><th>Quando</th><th>Evento</th><th>Expectativa (Focus)</th><th>O que observar</th></tr></thead><tbody><tr><td>12/08/2026 12:00</td><td>Pesquisa Mensal de Serviços</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>13/08/2026 12:00</td><td>Pesquisa Mensal de Comércio</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>13/08/2026 12:00</td><td>Levantamento Sistemático da Produção Agrícola</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>17/08/2026 15:00 (previsto)</td><td>🇧🇷 Balança Comercial (semanal) — MDIC/Secex</td><td>Saldo ano (Focus): US$ 76,90 bi</td><td>Saldo comercial: superávit maior = mais dólar entrando, favorável ao real; menor ou déficit pressiona.</td></tr><tr><td>19/08/2026 12:00</td><td>Pesquisas Trimestrais do Abate de Animais, do Leite, do Couro e da Produção de Ovos de Galinha: Primeiros resultados</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr><tr><td>24/08/2026 15:00 (previsto)</td><td>🇧🇷 Balança Comercial (semanal) — MDIC/Secex</td><td>Saldo ano (Focus): US$ 76,90 bi</td><td>Saldo comercial: superávit maior = mais dólar entrando, favorável ao real; menor ou déficit pressiona.</td></tr><tr><td>26/08/2026 12:00</td><td>Índice Nacional de Preços ao Consumidor Amplo 15</td><td>IPCA ano: 5,02%</td><td>Acima do esperado → pressão de alta em juros/dólar; abaixo → alívio.</td></tr><tr><td>26/08/2026 08:30 (previsto)</td><td>🇧🇷 Setor Externo — Transações Correntes e IDP (BCB)</td><td>Conta corr. ano: US$ -60,00 bi</td><td>Contas externas: déficit maior pressiona o real; IDP firme dá suporte.</td></tr><tr><td>28/08/2026 12:00</td><td>Índice de Preços ao Produtor - Indústrias Extrativas e de Transformação</td><td>-</td><td>Divulgação oficial — comparar com o esperado.</td></tr><tr><td>31/08/2026 15:00 (previsto)</td><td>🇧🇷 Balança Comercial (semanal) — MDIC/Secex</td><td>Saldo ano (Focus): US$ 76,90 bi</td><td>Saldo comercial: superávit maior = mais dólar entrando, favorável ao real; menor ou déficit pressiona.</td></tr><tr><td>01/09/2026 12:00</td><td>Sistema de Contas Nacionais Trimestrais</td><td>Conta corr. ano: US$ -60,00 bi</td><td>Contas externas: déficit maior pressiona o real; IDP firme dá suporte.</td></tr><tr><td>02/09/2026 12:00</td><td>Pesquisa Industrial Mensal: Produção Física - Brasil</td><td>-</td><td>Atividade setorial: sinaliza força da economia no trimestre.</td></tr></tbody></table></div>
 <p class="note">Compare o número divulgado com a Expectativa: acima = pressão de alta; abaixo = alívio. Eventos do BCB marcados "previsto" usam data estimada (confirme no site do Banco Central).</p>
 </div>
+<div class="card">
+<h2>Motor de juros — viés automático</h2>
+<div class="jmetrics"><div class="jm"><div class="l">Selic</div><div class="v">14,00%</div></div><div class="jm"><div class="l">Juro real</div><div class="v">~9,56%</div></div><div class="jm"><div class="l">Neutra ref.</div><div class="v">~8–11%</div></div><div class="jm"><div class="l">Ciclo</div><div class="v">▼ cortando</div></div><div class="jm"><div class="l">USD/BRL</div><div class="v">R$ 5,13</div></div></div>
+<p>Política <b>restritiva</b>: Selic acima da neutra — juro real alto atrai capital e tende a segurar o câmbio.</p>
+<div class="jgrid"><div class="jcell"><div class="jh">Dólar</div><span class="jchip sell">VENDIDO</span><p>Selic acima da neutra atrai capital e segura o dólar — vender nos repiques. Perdendo força com o ciclo de corte.</p></div><div class="jcell"><div class="jh">Índice</div><span class="jchip buy">COMPRADO</span><p>juro caindo tende a favorecer a bolsa; pese o risco global.</p></div><div class="jcell"><div class="jh">DI (juros)</div><span class="jchip buy">TAXA ↓</span><p>ciclo de corte puxa a curva para baixo. Choque fiscal/risco inverte (taxa ↑).</p></div></div>
+<p class="note">Calculado pela regra da taxa neutra sobre os dados ao vivo (Selic, ciclo projetado no Focus e câmbio). Leitura de cenário — não é recomendação de investimento.</p>
+</div>
+
+<div class="card">
+<h2>Como eu leio o mercado pelos juros</h2>
+<p><b>A régua é a taxa neutra</b> = juro real neutro (~5%) + meta de inflação (3%) ≈ ~8%
+nominal; ajustada pelo risco fiscal, trabalho ~11%. É o que diz se a política está apertada
+ou frouxa — e define o viés antes de olhar gráfico.</p>
+<div class="table-wrap"><table>
+<thead><tr><th>Cenário de juros</th><th>Dólar</th><th>Por quê</th></tr></thead>
+<tbody>
+<tr><td>Selic <b>acima</b> da neutra (restritivo)</td><td><span class="jchip sell">vendido</span></td><td>atrai capital estrangeiro; segura o câmbio</td></tr>
+<tr><td>Selic <b>abaixo</b> da neutra (expansão)</td><td><span class="jchip buy">comprado</span></td><td>capital sai e compra dólar</td></tr>
+<tr><td><b>Choque de risco</b> (fiscal/externo)</td><td><span class="jchip neu">DI: taxa ↑</span></td><td>o juro futuro é a 1ª porta de estrangeiros/institucionais</td></tr>
+</tbody>
+</table></div>
+<h3 class="sub">Direção e diferencial</h3>
+<p>Além do nível, vale a <b>direção</b> (cortando/subindo) e o <b>diferencial vs Fed</b>:
+enquanto a Selic fica bem acima do juro americano, o Brasil atrai recurso e segura o câmbio.
+Em ciclo de corte, o juro converge para a neutra e fica "menos restritivo" — o suporte do
+real diminui e o viés migra para neutro/comprado.</p>
+<h3 class="sub">O DI como termômetro do dólar</h3>
+<p>Não preciso operar juro: no regime de risco, <b>DI e dólar andam juntos</b> — taxa sobe,
+dólar sobe; taxa cai, dólar cai. Dois cuidados: confirme o gráfico em <b>taxa (% a.a.)</b>,
+não em PU (inverte); e veja o <b>porquê</b> — se o juro sobe por risco anda com o dólar, se
+sobe por carry (Selic atraindo capital) pode inverter. Uso o DI como <b>confirmação</b>:
+dólar subindo com DI subindo = convicção; DI parado = divergência, repique sem fôlego.</p>
+<h3 class="sub">O instrumento: DI futuro</h3>
+<p>É o juro futuro de 1 dia; a cotação é a taxa projetada (código DI1 + mês + ano, ex.:
+DI1F29 = jan/2029; contrato de R$ 100 mil no vencimento, preço = PU). Trabalho o <b>miolo da
+curva (~2–3 anos)</b>: a ponta curta é "morta" e a longa seca liquidez — o miolo precifica o
+resto do ciclo e o risco fiscal, com boa liquidez. É o jeito mais direcional e barato de
+traduzir a leitura de juros.</p>
+<h3 class="sub">Meu fluxo</h3>
+<p>1) leio o ciclo de juros (Selic vs neutra + Copom) &rarr; viés · 2) marco o range do ativo
+· 3) escolho o instrumento (Dólar, Índice ou DI) · 4) espero o preço no extremo do range
+alinhado ao viés · 5) executo com alarmes nas bordas.</p>
+</div>
+
 <footer>Não é recomendação de investimento — ferramenta de apoio à decisão.</footer>
 </div></body></html>
