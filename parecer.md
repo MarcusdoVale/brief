@@ -1,30 +1,30 @@
-**VEREDITO: vendedor nas ações brasileiras — força 6/10.** O que muda o placar: sinal de que o dinheiro estrangeiro parou de sair e alívio no risco fiscal/eleitoral.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O que muda o placar: o humor doméstico (risco Brasil e balanços) segue pesando mais do que o alívio vindo de fora.
 
-O mercado hoje é movido por dentro de casa, não por fora. Lá fora o cenário até ajudaria: a inflação ao produtor dos EUA (PPI, preços no atacado) veio fraca e reforça a aposta de que o Federal Reserve, o banco central americano, vai manter os juros parados — o que costuma ajudar países como o Brasil. Mesmo assim o Ibovespa cai pela oitava vez seguida, pressionado pelo chamado "risco Brasil": receio com as contas públicas e com o cenário eleitoral, que provoca saída de investidores estrangeiros. Isso derruba a bolsa e empurra o dólar para cima ao mesmo tempo.
+Hoje o exterior ajudou, mas o mercado brasileiro não acompanhou. Nos EUA, a inflação no atacado (PPI, os preços que as fábricas cobram, uma prévia da inflação lá fora) veio mais fraca que o esperado — isso abre espaço para o banco central americano (Fed) cortar juros, o que costuma ser bom para bolsas. Mesmo assim, o Ibovespa caiu de novo, na sétima queda seguida, puxado por preocupações internas e pela temporada de balanços das empresas. O dólar subiu, sinal de cautela com o Brasil.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PPI EUA (mês, jul) | 0,0% | +0,1% | +0,1% | Inflação no atacado fraca; tira pressão do Fed (bom para emergentes) |
-| Núcleo PPI EUA (mês) | +0,2% | +0,3% | — | Confirma alívio; reforça juros parados nos EUA |
-| PMC (comércio, jun) | sem dado | — | — | Saiu de manhã (09h); vendas do varejo |
+| Vendas no varejo Brasil (junho) | +0,5% no mês | ~+0,3% | +0,3% | Consumo resistente; acima do previsto no ano (+2,9%) |
+| PPI EUA (julho, mês) | 0,0% | +0,1% | — | Inflação mais fraca lá fora; ajuda a aposta de corte de juros nos EUA |
+| PPI EUA (núcleo, ano) | +4,2% | +4,2% | — | Em linha; sem susto |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 14h30 | Palestra de Galípolo (presidente do BC) | Pode mexer na aposta de juros no Brasil |
-| 09h15 / 09h40 | Falas de dirigentes do Fed (Hammack, Barkin) | Pistas sobre juros nos EUA |
+| 09h30 | PPI dos EUA (já saiu) | Move o dólar e a aposta de juros americanos |
+| 14h30 | Palestra de Galípolo, presidente do BC (já ocorreu) | Pistas sobre a Selic |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | ~167 mil pontos; oitava queda seguida, tendência fraca. Piso psicológico próximo dos 165 mil |
-| Dólar | ~R$ 5,19 em alta; fica firme enquanto durar a saída de estrangeiros |
-| Ações | Saneamento pressionado (SBSP3, CSMG3 pós-balanço); construção resiste (MDNE3) |
+| Ibovespa | ~167,5 mil pontos; mês no vermelho (-5,9%). Perder 167 mil abre mais espaço de baixa |
+| Dólar | ~R$ 5,16, em alta. Acima de R$ 5,20 reforça a cautela |
+| Setores | Atenção a ações com balanço no radar |
 
-**Resumo:** o externo joga a favor (inflação americana comportada, Fed sem pressa), mas o doméstico manda mais forte no curto prazo — risco fiscal e eleitoral com estrangeiro vendendo. Favorece o vendedor enquanto a bolsa não firmar acima dos 168 mil e o dólar não recuar. Um sinal de estabilização no câmbio ou fala mais calma de autoridades pode virar o humor.
+**Resumo:** o cenário externo favorece o comprador (inflação americana fraca), mas o interno favorece o vendedor (risco Brasil, sétima queda seguida, Selic a 14%). Enquanto o dólar subir e o Ibovespa não firmar acima de 168 mil, o viés segue de baixa. Amanhã, olho na agenda dos EUA e no fluxo de balanços.
 
-Atualizado às 16:12 — não é recomendação de investimento.
+Atualizado às 17:10 — não é recomendação de investimento.
