@@ -1,30 +1,32 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O que muda o placar: o humor doméstico (risco Brasil e balanços) segue pesando mais do que o alívio vindo de fora.
+**VEREDITO: comprador fraco (força 5/10) nas ações brasileiras.** O cenário externo ajudou (inflação americana comportada), mas o humor local segurou a bolsa; o placar vira se voltar entrada de dinheiro estrangeiro.
 
-Hoje o exterior ajudou, mas o mercado brasileiro não acompanhou. Nos EUA, a inflação no atacado (PPI, os preços que as fábricas cobram, uma prévia da inflação lá fora) veio mais fraca que o esperado — isso abre espaço para o banco central americano (Fed) cortar juros, o que costuma ser bom para bolsas. Mesmo assim, o Ibovespa caiu de novo, na sétima queda seguida, puxado por preocupações internas e pela temporada de balanços das empresas. O dólar subiu, sinal de cautela com o Brasil.
+O pregão fechou em leve queda mesmo com o exterior favorável. Lá fora, a inflação ao produtor dos EUA (PPI, os preços que as fábricas cobram, antes de chegar ao consumidor) veio mais fraca que o esperado, o que reforça a ideia de que o Fed, o banco central americano, não precisa apertar mais os juros — isso costuma ajudar o real e as bolsas. Aqui dentro, porém, pesou a saída de estrangeiros e a queda das ações de maior peso (Vale e Itaú), o que puxou o índice para baixo mesmo em dia de notícia boa fora.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Vendas no varejo Brasil (junho) | +0,5% no mês | ~+0,3% | +0,3% | Consumo resistente; acima do previsto no ano (+2,9%) |
-| PPI EUA (julho, mês) | 0,0% | +0,1% | — | Inflação mais fraca lá fora; ajuda a aposta de corte de juros nos EUA |
-| PPI EUA (núcleo, ano) | +4,2% | +4,2% | — | Em linha; sem susto |
+| Varejo Brasil (junho, mês) | +0,5% | +0,3% | sem dado | Consumo ainda resiste apesar dos juros altos |
+| PPI EUA (julho, mês) | 0,0% | +0,2% | — | Inflação de custos parou; alívio para os juros dos EUA |
+| PPI EUA (julho, 12 meses) | 4,7% | 4,9% | 5,5% | Desacelerou; ajuda o real |
+| CPI EUA (julho, divulgado ontem) | +0,1% mês / 3,4% ano | em linha | — | Inflação ao consumidor comportada |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h30 | PPI dos EUA (já saiu) | Move o dólar e a aposta de juros americanos |
-| 14h30 | Palestra de Galípolo, presidente do BC (já ocorreu) | Pistas sobre a Selic |
+| 09:30 | PPI EUA (já divulgado hoje de manhã) | Move dólar e juros americanos |
+
+Sem outros eventos de alto impacto restantes hoje.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | ~167,5 mil pontos; mês no vermelho (-5,9%). Perder 167 mil abre mais espaço de baixa |
-| Dólar | ~R$ 5,16, em alta. Acima de R$ 5,20 reforça a cautela |
-| Setores | Atenção a ações com balanço no radar |
+| Ibovespa | Fechou ~167.500 pts (-0,23%). Suporte na casa dos 166 mil; retomada precisa de estrangeiro comprando |
+| Dólar | ~R$ 5,18 (+0,29%). Fica de olho se passa de R$ 5,20 |
+| Setores | Vale (-1,6%) e Itaú (-1,5%) pesaram; Petrobras estável com petróleo firme |
 
-**Resumo:** o cenário externo favorece o comprador (inflação americana fraca), mas o interno favorece o vendedor (risco Brasil, sétima queda seguida, Selic a 14%). Enquanto o dólar subir e o Ibovespa não firmar acima de 168 mil, o viés segue de baixa. Amanhã, olho na agenda dos EUA e no fluxo de balanços.
+**Resumo:** Favorece a alta: inflação americana comportada (PPI e CPI abaixo/em linha) e varejo local forte, que mostram economia resistente sem pressão de juros lá fora. Favorece a baixa: saída de estrangeiros e fraqueza das blue chips que mais pesam no índice. Na frente, o Copom (que já cortou a Selic para 14,25%) segue avaliando o tamanho dos próximos cortes, e o mercado observa se o dinheiro estrangeiro volta.
 
-Atualizado às 17:10 — não é recomendação de investimento.
+Atualizado às 18:08 — não é recomendação de investimento.
