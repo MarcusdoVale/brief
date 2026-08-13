@@ -1,31 +1,29 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 6 de 10.** O que muda o placar: a fala do presidente do Banco Central e a continuidade (ou não) da saída de dinheiro estrangeiro da bolsa.
+**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O que muda o placar: uma virada no humor com o risco fiscal doméstico ou uma fala mais tranquila do Banco Central pode aliviar a pressão vendedora.
 
-O que mandou no mercado hoje foi o **mau humor doméstico**. A bolsa emenda a sétima queda seguida (acumula cerca de -5,9% desde 3 de agosto) e o dólar sobe, com investidores estrangeiros retirando dinheiro por cautela com o cenário local (incertezas políticas e eleitorais) e com as tensões no Oriente Médio. Lá fora o clima até ajudaria: a inflação ao produtor dos EUA (PPI) veio mais fraca que o esperado, o que reduz a pressão por juros altos. Mas o mercado ainda vê o Fed (o banco central americano) sem pressa e adiou a aposta de corte de outubro para dezembro, o que segura o dólar firme e pesa sobre a bolsa por aqui.
+O mercado brasileiro está mais fraco por razões de casa (o chamado "risco Brasil": preocupação com contas públicas e cenário fiscal), acumulando várias quedas seguidas no Ibovespa. Isso pesa mesmo com uma notícia boa vinda de fora: a inflação ao produtor dos EUA (PPI, os preços que as fábricas cobram, que costuma antecipar a inflação ao consumidor) veio mais fraca que o esperado, o que reforça a aposta de que o Federal Reserve (o banco central americano) pode cortar juros — em tese um alívio para bolsas emergentes e para o real. Por ora, o lado doméstico fala mais alto, e o dólar sobe.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PPI EUA (mês, jul) | 0,0% | +0,2% | — | Inflação no atacado mais fraca; alivia um pouco a pressão de juros |
-| PPI EUA (ano) | +4,7% | +4,9% | — | Abaixo do previsto; leve alívio no exterior |
-| CPI EUA (ano, jul — saiu ontem) | 3,4% | ~3,4% | — | Inflação ao consumidor em linha; desinflação gradual |
-| Vendas no varejo Brasil (jun) | sem dado | sem dado | — | Mede o ritmo da economia; divulgação da manhã |
+| PPI EUA (mês, julho) | 0,0% | +0,1% | -0,3% | Inflação de fábrica contida; reforça aposta de corte de juros do Fed |
+| PPI EUA (12 meses) | 4,7% | 4,9% | 5,5% | Pressão de preços cedendo nos EUA (cenário externo mais leve) |
+| Núcleo do PPI EUA (mês) | +0,2% | — | — | Parte "limpa" ainda sobe um pouco, mas dentro do esperado |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:30 | PPI dos EUA (já divulgado) | Inflação no atacado; mexe com juros e dólar |
-| A confirmar | Fala do presidente do Banco Central | Pode mudar a aposta de corte da Selic |
+| 09h30 (já saiu) | PPI e pedidos de auxílio-desemprego (EUA) | Mexem com a aposta de juros do Fed e com o dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Perto de 167,5 mil pontos; sétima queda seguida. Atenção se perder o patamar dos 167 mil |
-| Dólar | Cerca de R$ 5,16–5,17, em alta. Real fraco pressiona a bolsa |
-| Setores | Petróleo em queda pesa em Petrobras; Vale em baixa; bancos mistos |
+| Ibovespa | Ontem fechou ~167.500; sequência de quedas deixa o suporte curto sob teste. Cuidado com Vale e bancos (Itaú) puxando o índice |
+| Dólar | Rondando R$ 5,18–5,19; viés de alta enquanto durar o mau humor local |
+| Ações do dia | Sabesp cai forte após balanço; Embraer sobe com volume — movimentos ligados a resultados |
 
-**Resumo:** favorece o lado vendedor a sequência de quedas, a saída de estrangeiros e o dólar firme. Favorece uma recuperação o alívio da inflação americana e uma eventual fala mais leve do Banco Central. No radar imediato: o discurso do BC e o fluxo estrangeiro; sem eles virarem, a tendência de curto prazo segue de cautela.
+**Resumo:** favorece a compra um alívio no risco fiscal e a inflação americana mais baixa (que ajuda a aposta de corte de juros lá fora). Favorece a venda o humor doméstico ruim, a sequência de quedas e o dólar firme. Enquanto o placar não virar em casa, o viés segue vendedor. Fique atento a novas falas sobre o fiscal e à agenda dos EUA na sexta.
 
-Atualizado às 13:14 — não é recomendação de investimento.
+Atualizado às 14:12 — não é recomendação de investimento.
