@@ -1,33 +1,29 @@
-**VEREDITO: comprador (nas ações brasileiras), força 6 de 10.** O que muda o placar: se o dólar voltar a subir com o "risco Brasil" fiscal, o viés esfria; se a bolsa firmar acima dos 168 mil pontos, ganha força.
+**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar vira para comprador se o Ibovespa segurar os 167 mil pontos e o risco doméstico esfriar; se romper para baixo, a pressão continua.
 
-A manhã foi de alívio vindo dos EUA. O PPI (índice que mede a inflação no atacado americano, ou seja, os preços cobrados pelas fábricas e produtores) veio mais fraco que o esperado. Isso reforça a aposta de que o Fed (o banco central dos EUA) terá espaço para cortar juros mais à frente, o que ajuda as bolsas e tira um pouco de pressão do dólar. Aqui dentro, as vendas do varejo em junho vieram um pouco acima do esperado, sinal de que o consumo segue de pé. O Ibovespa tenta se recuperar após sete quedas seguidas, ainda pesado pela preocupação com as contas públicas do Brasil.
+O que manda hoje é o mercado interno. O Ibovespa cai pela oitava vez seguida, perto de 167,5 mil pontos, com investidores nervosos sobre as contas públicas e o cenário político ("risco Brasil"). O dólar sobe para cerca de R$ 5,16. Lá fora o clima até ajudaria: a inflação ao produtor dos EUA (PPI, os preços que as fábricas cobram) veio mais fraca que o esperado, o que reforça a aposta de que o Fed (o banco central americano) vai cortar os juros — algo bom para o real e para a bolsa. Mas hoje o medo de casa está falando mais alto.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PPI EUA (mês, jul) | 0,0% | +0,2% | +0,2% | Inflação no atacado dos EUA mais fraca — abre espaço para o Fed cortar juros (bom para a bolsa e alivia o dólar) |
-| PPI EUA (12 meses) | 4,7% | 4,9% | — | Confirma a desaceleração dos preços |
-| Pedidos de auxílio-desemprego EUA | 209 mil | 202 mil | 200 mil | Um pouco mais de gente pedindo seguro — mercado de trabalho esfriando de leve, reforça aposta de corte |
-| Vendas no varejo Brasil (mês, jun) | +0,5% | +0,3% | +0,1% | Consumo interno resiliente; +2,9% em 12 meses |
+| Varejo Brasil (junho, mês) | +0,5% | +0,3% | +0,1% | Consumo firme; economia resiliente |
+| PPI EUA (julho, mês) | 0,0% | +0,2% | −0,1% | Inflação americana esfria; ajuda o corte de juros do Fed |
+| PPI EUA (ano) | +4,7% | +4,9% | +5,5% | Desaceleração clara na inflação de fábrica |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:00 | Vendas no varejo (Brasil, jun) | Já saiu — mede a força do consumo |
-| 09:30 | PPI dos EUA (jul) | Já saiu — inflação no atacado, mexe com a aposta de juros do Fed |
-
-Sem outros eventos de alto impacto no restante do dia.
+| 09h30 | PPI dos EUA (já divulgado) | Mexe na aposta de corte de juros americano |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte perto de 166 mil; resistência em 168 mil. Firmar acima confirma a recuperação |
-| Dólar | Girando perto de R$ 5,17–5,18. Acima de R$ 5,20 liga o alerta (medo fiscal) |
-| Setores | Bancos e Vale pesam no índice; commodities acompanham o exterior |
+| Ibovespa | Suporte 167 mil; perder abre espaço para mais queda. Resistência ~169 mil |
+| Dólar | R$ 5,16; acima de R$ 5,18 mostra mais aversão a risco |
+| Setores | Petróleo (PETR4) e Vale pressionados; bancos mistos |
 
-**Resumo.** Favorece a alta: inflação americana fraca e aposta firme de corte de juros lá fora, mais consumo resiliente aqui. Favorece a queda: preocupação com as contas públicas do Brasil e o dólar ainda esticado. Cenário de recuperação técnica após muitas quedas — bom para operar comprado com stop curto, mas de olho no dólar.
+**Resumo:** favorece o vendedor a sequência de quedas e o nervosismo com as contas públicas. Favorece o comprador a inflação mais fraca nos EUA e o varejo forte no Brasil, que mantêm viva a aposta de corte da Selic (14,00% hoje, mercado espera 13,75% em setembro). O próximo gatilho é a leitura fiscal doméstica e novos sinais do Fed.
 
-Atualizado às 11:12 — não é recomendação de investimento.
+Atualizado às 12:08 — não é recomendação de investimento.
