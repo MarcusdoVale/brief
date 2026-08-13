@@ -1,29 +1,31 @@
-**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar vira para comprador se o Ibovespa segurar os 167 mil pontos e o risco doméstico esfriar; se romper para baixo, a pressão continua.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 6 de 10.** O que muda o placar: a fala do presidente do Banco Central e a continuidade (ou não) da saída de dinheiro estrangeiro da bolsa.
 
-O que manda hoje é o mercado interno. O Ibovespa cai pela oitava vez seguida, perto de 167,5 mil pontos, com investidores nervosos sobre as contas públicas e o cenário político ("risco Brasil"). O dólar sobe para cerca de R$ 5,16. Lá fora o clima até ajudaria: a inflação ao produtor dos EUA (PPI, os preços que as fábricas cobram) veio mais fraca que o esperado, o que reforça a aposta de que o Fed (o banco central americano) vai cortar os juros — algo bom para o real e para a bolsa. Mas hoje o medo de casa está falando mais alto.
+O que mandou no mercado hoje foi o **mau humor doméstico**. A bolsa emenda a sétima queda seguida (acumula cerca de -5,9% desde 3 de agosto) e o dólar sobe, com investidores estrangeiros retirando dinheiro por cautela com o cenário local (incertezas políticas e eleitorais) e com as tensões no Oriente Médio. Lá fora o clima até ajudaria: a inflação ao produtor dos EUA (PPI) veio mais fraca que o esperado, o que reduz a pressão por juros altos. Mas o mercado ainda vê o Fed (o banco central americano) sem pressa e adiou a aposta de corte de outubro para dezembro, o que segura o dólar firme e pesa sobre a bolsa por aqui.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Varejo Brasil (junho, mês) | +0,5% | +0,3% | +0,1% | Consumo firme; economia resiliente |
-| PPI EUA (julho, mês) | 0,0% | +0,2% | −0,1% | Inflação americana esfria; ajuda o corte de juros do Fed |
-| PPI EUA (ano) | +4,7% | +4,9% | +5,5% | Desaceleração clara na inflação de fábrica |
+| PPI EUA (mês, jul) | 0,0% | +0,2% | — | Inflação no atacado mais fraca; alivia um pouco a pressão de juros |
+| PPI EUA (ano) | +4,7% | +4,9% | — | Abaixo do previsto; leve alívio no exterior |
+| CPI EUA (ano, jul — saiu ontem) | 3,4% | ~3,4% | — | Inflação ao consumidor em linha; desinflação gradual |
+| Vendas no varejo Brasil (jun) | sem dado | sem dado | — | Mede o ritmo da economia; divulgação da manhã |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h30 | PPI dos EUA (já divulgado) | Mexe na aposta de corte de juros americano |
+| 09:30 | PPI dos EUA (já divulgado) | Inflação no atacado; mexe com juros e dólar |
+| A confirmar | Fala do presidente do Banco Central | Pode mudar a aposta de corte da Selic |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte 167 mil; perder abre espaço para mais queda. Resistência ~169 mil |
-| Dólar | R$ 5,16; acima de R$ 5,18 mostra mais aversão a risco |
-| Setores | Petróleo (PETR4) e Vale pressionados; bancos mistos |
+| Ibovespa | Perto de 167,5 mil pontos; sétima queda seguida. Atenção se perder o patamar dos 167 mil |
+| Dólar | Cerca de R$ 5,16–5,17, em alta. Real fraco pressiona a bolsa |
+| Setores | Petróleo em queda pesa em Petrobras; Vale em baixa; bancos mistos |
 
-**Resumo:** favorece o vendedor a sequência de quedas e o nervosismo com as contas públicas. Favorece o comprador a inflação mais fraca nos EUA e o varejo forte no Brasil, que mantêm viva a aposta de corte da Selic (14,00% hoje, mercado espera 13,75% em setembro). O próximo gatilho é a leitura fiscal doméstica e novos sinais do Fed.
+**Resumo:** favorece o lado vendedor a sequência de quedas, a saída de estrangeiros e o dólar firme. Favorece uma recuperação o alívio da inflação americana e uma eventual fala mais leve do Banco Central. No radar imediato: o discurso do BC e o fluxo estrangeiro; sem eles virarem, a tendência de curto prazo segue de cautela.
 
-Atualizado às 12:08 — não é recomendação de investimento.
+Atualizado às 13:14 — não é recomendação de investimento.
