@@ -1,28 +1,33 @@
-**VEREDITO: levemente comprador nas ações brasileiras — força 5 de 10.** O placar de hoje será definido pelo PPI dos EUA (inflação no atacado), que acabou de sair; se vier salgado, o dólar sobe e a bolsa perde fôlego.
+**VEREDITO: comprador (nas ações brasileiras), força 6 de 10.** O que muda o placar: se o dólar voltar a subir com o "risco Brasil" fiscal, o viés esfria; se a bolsa firmar acima dos 168 mil pontos, ganha força.
 
-O dia é de compasso de espera. O Ibovespa opera perto de 167.500 pontos, com leve queda no início do pregão, e o dólar fica estável ao redor de R$ 5,16. O mês de agosto ainda pesa (bolsa acumula cerca de -5,9%), mas o pano de fundo é favorável: o Banco Central cortou a Selic de 14,25% para 14% ao ano, o que reduz o custo do crédito e direciona o dinheiro para as ações. A referência externa hoje é a inflação ao produtor americana — um número comportado reforça a aposta de que o Federal Reserve (banco central dos EUA) não precisará subir juros, o que ajuda o real e a bolsa.
+A manhã foi de alívio vindo dos EUA. O PPI (índice que mede a inflação no atacado americano, ou seja, os preços cobrados pelas fábricas e produtores) veio mais fraco que o esperado. Isso reforça a aposta de que o Fed (o banco central dos EUA) terá espaço para cortar juros mais à frente, o que ajuda as bolsas e tira um pouco de pressão do dólar. Aqui dentro, as vendas do varejo em junho vieram um pouco acima do esperado, sinal de que o consumo segue de pé. O Ibovespa tenta se recuperar após sete quedas seguidas, ainda pesado pela preocupação com as contas públicas do Brasil.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Vendas no varejo (Brasil, PMC de junho) | +0,5% no mês | sem dado | +0,1% | Consumo firme; economia aquecida sustenta as empresas |
-| PPI EUA (inflação no atacado, julho) | ~09h30 (aguardar leitura) | +0,2% no mês | -0,3% | Acima do esperado = dólar firme e cautela; abaixo = alívio para a bolsa |
+| PPI EUA (mês, jul) | 0,0% | +0,2% | +0,2% | Inflação no atacado dos EUA mais fraca — abre espaço para o Fed cortar juros (bom para a bolsa e alivia o dólar) |
+| PPI EUA (12 meses) | 4,7% | 4,9% | — | Confirma a desaceleração dos preços |
+| Pedidos de auxílio-desemprego EUA | 209 mil | 202 mil | 200 mil | Um pouco mais de gente pedindo seguro — mercado de trabalho esfriando de leve, reforça aposta de corte |
+| Vendas no varejo Brasil (mês, jun) | +0,5% | +0,3% | +0,1% | Consumo interno resiliente; +2,9% em 12 meses |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~09h30 | PPI EUA (julho) | Mexe com a expectativa de juros do Fed e com o dólar |
+| 09:00 | Vendas no varejo (Brasil, jun) | Já saiu — mede a força do consumo |
+| 09:30 | PPI dos EUA (jul) | Já saiu — inflação no atacado, mexe com a aposta de juros do Fed |
+
+Sem outros eventos de alto impacto no restante do dia.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segurar os 167 mil pontos; perder aí abre espaço para mais queda |
-| Dólar | R$ 5,16 como pivô; acima de R$ 5,20 liga o alerta |
-| Setores | Bancos e consumo se beneficiam do juro em queda; exportadoras sofrem com dólar fraco |
+| Ibovespa | Suporte perto de 166 mil; resistência em 168 mil. Firmar acima confirma a recuperação |
+| Dólar | Girando perto de R$ 5,17–5,18. Acima de R$ 5,20 liga o alerta (medo fiscal) |
+| Setores | Bancos e Vale pesam no índice; commodities acompanham o exterior |
 
-**Resumo:** favorece a alta um PPI comportado somado à Selic mais baixa; favorece a queda um PPI acima do esperado que firme o dólar e o clima ruim de agosto. O próximo gatilho relevante é a sequência de dados de inflação e a leitura da ata do Copom.
+**Resumo.** Favorece a alta: inflação americana fraca e aposta firme de corte de juros lá fora, mais consumo resiliente aqui. Favorece a queda: preocupação com as contas públicas do Brasil e o dólar ainda esticado. Cenário de recuperação técnica após muitas quedas — bom para operar comprado com stop curto, mas de olho no dólar.
 
-Atualizado às 10:12 — não é recomendação de investimento.
+Atualizado às 11:12 — não é recomendação de investimento.
