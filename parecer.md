@@ -1,31 +1,28 @@
-**VEREDITO: VENDEDOR nas ações brasileiras — força 6/10.** O placar vira para comprador se o dólar recuar de R$ 5,17 e a bolsa segurar os 168 mil pontos com fôlego de recuperação.
+**VEREDITO: vendedor nas ações brasileiras — força 6/10.** O placar vira para o comprador se o PPI dos EUA (inflação no atacado) vier fraco e as vendas no varejo do Brasil surpreenderem para cima.
 
-O que mandou hoje foi o cenário interno: a Bolsa cai pelo 6º/7º pregão seguido, no pior nível desde janeiro, com o mercado preocupado com o quadro fiscal e eleitoral (o chamado "risco Brasil"). O dólar aproveitou esse clima de cautela e subiu para cerca de R$ 5,17. Do lado de fora veio um alívio: a inflação ao consumidor dos EUA (CPI) de julho veio fraca, o que reduz a pressão para juros altos por lá e ajudaria o real — mas não foi suficiente para virar o humor doméstico.
+O mercado brasileiro chega fraco nesta quinta. O Ibovespa fechou ontem em 167.491 pontos (queda de 0,23%), engatando a sexta/sétima baixa seguida, e o dólar subiu para perto de R$ 5,18–5,19. Pesam o clima de cautela com contas públicas ("risco Brasil") e um cenário externo desconfortável: a inflação americana ainda está resistente (IPC de julho a 3,4%), o que deixa o Fed (banco central dos EUA) sem pressa para cortar juros — há até quem fale em nova alta. Juros altos lá fora firmam o dólar e tiram atratividade da nossa bolsa. Hoje o foco é o PPI dos EUA (índice de preços ao produtor, uma prévia da inflação) e as vendas no varejo do Brasil.
 
-**O que saiu hoje (realizado x esperado)**
+**O que sai hoje (ainda não divulgado)**
 
-| Indicador | Saiu | Esperado | Anterior | O que significa |
+| Indicador | Horário (BRT) | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| CPI EUA (julho, mês) | +0,1% | +0,1% | queda | Inflação americana comportada |
-| CPI EUA (12 meses) | 3,4% | 3,4% | — | Abre um pouco de espaço para o Fed cortar juros (ajuda o real) |
-| Núcleo CPI EUA (ano) | 2,5% | sem dado | — | Recuou; tira parte da pressão por juros altos |
-| Serviços Brasil (junho) | divulgado 09h | sem dado | — | Mede a maior parte da economia |
-| Ata do Copom | — | — | — | Tom mais duro: BC alerta para inflação e deixa dúvida sobre novos cortes da Selic |
+| Vendas no varejo (Brasil, junho) | 09:00 | +0,3% no mês / +2,4% no ano | sem dado | Varejo fraco esfria a economia, mas dá mais espaço para corte de juros |
+| PPI EUA (julho) | 09:30 | sem dado | sem dado | Se vier alto, reforça juro alto lá fora e firma o dólar (ruim para a bolsa) |
 
-**Zona de notícia (alto impacto — fique atento à volatilidade)**
+**Zona de notícia (alto impacto — atenção à volatilidade)**
 
-| Horário (Brasília) | Evento | Por quê |
+| Horário (BRT) | Evento | Por quê |
 |---|---|---|
-| 09h30 (já saiu) | CPI dos EUA | Move dólar e juros globais; hoje veio benigno |
+| 09:00 | Vendas no varejo (Brasil) | Mede o consumo; mexe com a aposta de Selic |
+| 09:30 | PPI EUA (julho) | Antecede o CPI; move dólar, juros dos EUA e a bolsa |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte nos 168 mil; perder esse nível abre espaço para mais queda. Só melhora se recuperar com força |
-| Dólar | Resistência perto de R$ 5,18-5,20; recuo abaixo de R$ 5,15 alivia a bolsa |
-| Setores | Cuidado com bancos e estatais, mais sensíveis ao risco fiscal/eleitoral |
+| Ibovespa | Apoio em 167.000; só melhora acima de 170.000. Vale e bancos (BBAS3 com balanço) puxam o índice |
+| Dólar | Resistência perto de R$ 5,20; alívio se ceder de R$ 5,15 |
 
-**Resumo:** Contra a bolsa pesam a sequência de quedas, o dólar firme e a ata do Copom mais dura. A favor de um repique estão o CPI americano fraco e o mercado já muito esticado para baixo (candidato a alívio técnico). Sem gatilho novo, a tendência de curto prazo segue de baixa; um dólar em queda seria o primeiro sinal de virada.
+**Resumo:** o cenário favorece o vendedor enquanto a tendência de queda e o dólar em alta continuarem, com o exterior pressionando. Vira a favor do comprador se o PPI dos EUA vier abaixo do esperado e o varejo brasileiro surpreender. Opere leve na janela das 09:00–09:30, quando a volatilidade aumenta.
 
-Atualizado às 18:11 — não é recomendação de investimento.
+Atualizado às 08:14 — não é recomendação de investimento.
