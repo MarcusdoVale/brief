@@ -1,31 +1,31 @@
-**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O que muda o placar: alívio no risco fiscal/eleitoral doméstico ou queda mais forte do dólar reduzem a pressão de venda.
+**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar só melhora se o dólar recuar com firmeza e aparecer sinal concreto de alívio no lado fiscal; até lá, o viés segue negativo.
 
-O dia é comandado pelo Brasil, não pelo exterior. A bolsa cai pela oitava sessão seguida, pressionada por preocupação com as contas públicas e pelo clima eleitoral, que assusta o investidor estrangeiro. Os bancos puxam a queda — Banco do Brasil recua cerca de 4% com o receio de mais gastos e promessas de corte de imposto na campanha. O dólar sobe para perto de R$ 5,22. Lá fora o ambiente até ajudaria: os dados dos EUA vieram fracos e reforçam a aposta de que o Fed (banco central americano) vai cortar juros, mas o problema hoje é interno.
+O que mandou no pregão foi o Brasil, não o exterior. A bolsa emenda a oitava/nona queda seguida, pressionada por preocupações com as contas públicas (risco fiscal) e pelo ambiente político, enquanto o dólar volta a subir e ronda os R$ 5,19. Nomes de peso puxaram para baixo — Sabesp caiu cerca de 7% e Banco do Brasil perto de 4%. Lá fora o clima é de espera pelos dados americanos do dia, mas quem dita o tom por aqui é o próprio noticiário local.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Confiança do Consumidor EUA (Univ. Michigan, prévia de agosto) | 51,0 | 54,5 | 55,2 | Bem abaixo do esperado: consumidor americano pessimista. Dado fraco reforça a aposta de corte de juros do Fed (tende a ajudar o real e a bolsa) |
-| Vendas no Varejo EUA (julho) | sem dado | +0,2% no mês | +0,2% | Termômetro do consumo americano; saiu às 09:30 (Brasília) |
-| Produção Industrial EUA (julho) | sem dado | +0,2% no mês | +0,2% | Atividade das fábricas nos EUA; saiu às 10:15 (Brasília) |
+| Ibovespa (intradia) | ~167,1 mil pts (-0,2%) | — | — | 8ª/9ª queda seguida; peso do risco fiscal |
+| Dólar (intradia) | ~R$ 5,19 (subindo) | — | — | Real fraco reflete cautela com o Brasil |
+| Vendas no varejo EUA (jul, 09h30 BRT) | sem dado | sem dado | — | Varejo forte deixa o Fed sem pressa para cortar juros (firma o dólar) |
+| Confiança consumidor Michigan EUA (prévia, 11h BRT) | sem dado | sem dado | 55,2 (jul) | Mede o ânimo do consumidor americano; dado forte firma o dólar |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 11:00 | Confiança do Consumidor EUA (Michigan) — já divulgado | Mexe com a aposta de juros do Fed e com o dólar |
-
-Fora isso, sem grandes eventos de alto impacto no restante do dia. O risco maior é político-fiscal doméstico, que não tem horário marcado.
+| 09h30 | Vendas no varejo EUA (julho) | Move dólar e juros americanos; mexe no real |
+| 11h00 | Confiança/expectativa de inflação Michigan (prévia) | Termômetro do consumo e da inflação nos EUA |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Perdeu força; mínima da semana perto de 165.200 (menor nível desde janeiro). Abaixo disso, porta aberta para mais queda; reação só acima dos 167 mil |
-| Dólar | Rondando R$ 5,22, em alta; acompanhar se firma acima de R$ 5,25 |
-| Setores | Bancos e estatais no centro da pressão fiscal/eleitoral; Vale e ligadas a commodities sofrem com petróleo instável |
+| Ibovespa | Defesa dos 166 mil pontos; abaixo disso, a fraqueza se firma |
+| Dólar | R$ 5,20 como resistência; acima, mais pressão nas ações |
+| Setores | Estatais e bancos sob pressão pelo tema fiscal e político |
 
-**Resumo.** Favorece o vendedor: fiscal frouxo, ruído eleitoral, saída de estrangeiro, dólar em alta e oito quedas seguidas. Favorece o comprador: dados fracos nos EUA sustentam a aposta de corte de juros (aqui a Selic caiu para 14% e o mercado já vê nova redução) e a bolsa está muito esticada para baixo, o que pode gerar um repique técnico. Sem gatilho externo forte hoje, o humor deve seguir preso ao noticiário político local — favoreça operações mais curtas e defensivas.
+**Resumo:** o cenário local (fiscal + política) favorece o vendedor e mantém o dólar firme. Melhora depende de o real recuar e de os dados dos EUA virem fracos, o que reforçaria a aposta de corte de juros americano e ajudaria a bolsa. Enquanto a sequência de quedas não se romper, cautela na compra.
 
-Atualizado às 14:08 — não é recomendação de investimento.
+Atualizado às 15:08 — não é recomendação de investimento.
