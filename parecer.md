@@ -1,28 +1,28 @@
-**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar vira para comprador se aparecer notícia positiva no lado fiscal/político local ou se o dado dos EUA (vendas no varejo, 09h30) vier fraco e reforçar a aposta de corte de juros por lá.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O placar melhora se o varejo fraco dos EUA firmar a aposta de corte de juros lá fora e virar o humor; piora se a pressão fiscal doméstica continuar mandando.
 
-A bolsa brasileira vem apanhando por motivo interno, não externo. O Ibovespa fechou ontem em queda pela oitava sessão seguida (algo raro), aos 167.101 pontos, e o dólar subiu pela quarta vez seguida, perto de R$ 5,19. O curioso é que lá fora o dólar está mais fraco e Wall Street subiu — ou seja, a venda aqui é local, puxada por preocupações com contas públicas e política. Enquanto isso não melhorar, o real e a bolsa seguem na defensiva, mesmo com o mundo mais calmo.
+O que manda hoje é a briga entre dois lados. Lá fora, o dado ajuda: as vendas no varejo dos EUA vieram fracas (recuo, quando o mercado esperava leve alta), o que reforça a aposta de que o Fed (o banco central americano) vai cortar juros — isso costuma aliviar o dólar e ajudar o real. Mas, aqui dentro, notícias fiscais e políticas seguram os ativos brasileiros: o Ibovespa acumula a **oitava queda seguida** e o dólar sobe mesmo com o dólar mais fraco no exterior, sinal de que o problema é local (bancões e Sabesp sob pressão).
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Vendas no varejo EUA (julho) | sai 09h30 | +0,3% no mês | +0,2% | Mede o consumo americano. Se vier forte, o Fed (banco central dos EUA) fica sem pressa para cortar juros e o dólar tende a firmar (cautela). Se vier fraco, ajuda o real. |
-| Prévia da confiança do consumidor EUA (U. Michigan) | sai ~11h | sem dado | — | Termômetro do humor do consumidor americano; mexe pouco, mas fique atento. |
+| Vendas no varejo EUA (jul) | −0,6% | +0,2% | +0,2% | Consumidor americano recuou; reforça aposta de corte do Fed (ajuda o real) |
+| Confiança do consumidor Michigan (EUA, prévia ago) | sai 11h | 54,1 | 55,2 | Ainda por sair; mede o ânimo das famílias nos EUA |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h30 | Vendas no varejo dos EUA (julho) | Dado que move o dólar e a aposta de juros nos EUA. Momento de volatilidade logo na abertura. |
+| 09h30 | Vendas no varejo EUA (já saiu, fraco) | Move dólar e juros dos EUA |
+| 11h00 | Confiança e prévia de inflação Michigan (EUA) | Pode mexer com o dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | 167 mil é a região que vem sendo testada na queda; perder com força abre espaço para mais baixa. Recuperar os 168–169 mil aliviaria a sequência negativa. |
-| Dólar | Ronda R$ 5,19. Acima de R$ 5,20 mostra pressão vendedora seguindo; abaixo de R$ 5,15 sinaliza alívio. |
-| Setores | Cuidado com nomes sensíveis a juros e a risco político; exportadoras tendem a se segurar melhor com dólar alto. |
+| Ibovespa | Zona de 167 mil; oitava queda seguida — cuidado com repique fraco em bancos |
+| Dólar | Perto de R$ 5,19; sobe por fator local, de olho se cede com dólar fraco lá fora |
 
-**Resumo.** Favorece o lado vendedor: sequência de quedas, dólar subindo e ruído fiscal/político interno. Favorece uma virada compradora: dólar fraco no mundo, Wall Street firme e um varejo americano fraco às 09h30 (que reforçaria corte de juros nos EUA e ajudaria o real). O gatilho do dia é esse número das 09h30; sem melhora no humor local, qualquer alívio tende a ser de curta duração.
+**Resumo:** Favorece a alta um dólar mais fraco no mundo e a aposta crescente de corte de juros nos EUA. Favorece a queda o clima fiscal doméstico e o momento negativo do índice. Próximo gatilho: a confiança de Michigan às 11h e o noticiário fiscal em Brasília.
 
-Atualizado às 09:11 — não é recomendação de investimento.
+Atualizado às 10:12 — não é recomendação de investimento.
