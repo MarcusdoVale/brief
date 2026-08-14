@@ -1,28 +1,29 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O placar melhora se o varejo fraco dos EUA firmar a aposta de corte de juros lá fora e virar o humor; piora se a pressão fiscal doméstica continuar mandando.
+**VEREDITO: vendedor nas ações brasileiras — força 7 de 10.** O placar vira para o comprador se houver alívio na tensão comercial com os EUA (Lei de Reciprocidade) ou queda do petróleo; segue vendedor enquanto o estrangeiro sacar dinheiro da bolsa.
 
-O que manda hoje é a briga entre dois lados. Lá fora, o dado ajuda: as vendas no varejo dos EUA vieram fracas (recuo, quando o mercado esperava leve alta), o que reforça a aposta de que o Fed (o banco central americano) vai cortar juros — isso costuma aliviar o dólar e ajudar o real. Mas, aqui dentro, notícias fiscais e políticas seguram os ativos brasileiros: o Ibovespa acumula a **oitava queda seguida** e o dólar sobe mesmo com o dólar mais fraco no exterior, sinal de que o problema é local (bancões e Sabesp sob pressão).
+Manhã pesada. O Ibovespa cai para perto de 165,9 mil pontos e engata a 8ª sessão seguida de queda, com o investidor estrangeiro retirando dinheiro da bolsa por causa dos riscos fiscal e eleitoral. Somou-se o início da Lei de Reciprocidade (resposta do Brasil às tarifas dos EUA) e o petróleo em alta, com o impasse no Oriente Médio. O dólar sobe a R$ 5,19, refletindo essa cautela. Lá fora, as vendas no varejo dos EUA de julho vieram fracas (-0,6% no mês), o que ajuda um pouco a aposta de corte de juros do Fed (o banco central americano), mas não segurou o clima ruim aqui.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Vendas no varejo EUA (jul) | −0,6% | +0,2% | +0,2% | Consumidor americano recuou; reforça aposta de corte do Fed (ajuda o real) |
-| Confiança do consumidor Michigan (EUA, prévia ago) | sai 11h | 54,1 | 55,2 | Ainda por sair; mede o ânimo das famílias nos EUA |
+| Vendas no varejo EUA (julho, mês) | -0,6% | sem dado | +0,5% | Consumo americano esfriando; alivia pressão sobre o Fed |
+| Confiança do Consumidor Michigan (ago., prévia) | ~11h | 54,5 | 55,2 | Mede otimismo das famílias nos EUA; ainda não saiu |
+| Desemprego Brasil (contexto, tri. até junho) | 5,4% | — | 6,1% | Emprego forte, mas não é dado de hoje |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h30 | Vendas no varejo EUA (já saiu, fraco) | Move dólar e juros dos EUA |
-| 11h00 | Confiança e prévia de inflação Michigan (EUA) | Pode mexer com o dólar |
+| 11h00 | Confiança do Consumidor Michigan (EUA) + expectativas de inflação | Move o dólar; leitura fraca ajuda o real |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Zona de 167 mil; oitava queda seguida — cuidado com repique fraco em bancos |
-| Dólar | Perto de R$ 5,19; sobe por fator local, de olho se cede com dólar fraco lá fora |
+| Ibovespa | Defesa dos 165–166 mil; perder trava sinaliza mais queda |
+| Dólar | R$ 5,19; acima de R$ 5,20 acende alerta |
+| Setores | Petróleo/exportadoras no radar do barril; bancos sensíveis ao juro |
 
-**Resumo:** Favorece a alta um dólar mais fraco no mundo e a aposta crescente de corte de juros nos EUA. Favorece a queda o clima fiscal doméstico e o momento negativo do índice. Próximo gatilho: a confiança de Michigan às 11h e o noticiário fiscal em Brasília.
+**Resumo.** Favorece a queda: saída de estrangeiro, tensão comercial com os EUA, petróleo em alta e dólar firme. Favorece a recuperação: varejo americano fraco reforça aposta de corte de juros do Fed, e o mercado ainda vê ~60% de chance de a Selic cair para 13,75% em setembro. Sem dado brasileiro de peso hoje; olho na Michigan às 11h.
 
-Atualizado às 10:12 — não é recomendação de investimento.
+Atualizado às 11:12 — não é recomendação de investimento.
