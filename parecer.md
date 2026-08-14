@@ -1,29 +1,29 @@
-**VEREDITO: levemente vendedor nas ações brasileiras — força 5 de 10.** O que muda o placar: sinal de trégua no lado fiscal/eleitoral ou volta do dinheiro estrangeiro para a bolsa.
+**VEREDITO: vendedor nas ações brasileiras — força 6 de 10.** O placar vira para comprador se os juros futuros pararem de subir e o ruído fiscal/eleitoral perder força.
 
-Hoje quem mandou no mercado foi o Brasil, não o exterior. A bolsa caiu pela oitava sessão seguida por motivos locais: saída de investidores estrangeiros, preocupação com as contas do governo (gastos de campanha e promessas de corte de imposto) e uma pesquisa eleitoral no radar. Os bancos estatais puxaram para baixo (Banco do Brasil caiu cerca de 4%). Lá fora o ambiente até ajudava — a bolsa americana subiu e os dados fracos nos EUA reforçam a aposta de que o Fed (o banco central americano) vai cortar juros —, mas o Brasil não acompanhou.
+O que mandou hoje foi problema de casa, não lá fora. O Ibovespa caiu pela 8ª sessão seguida (raro em 20 anos), pressionado por medo com as contas públicas e barulho da campanha eleitoral. Isso derrubou papéis sensíveis à política, como Banco do Brasil (-4,2%) e Sabesp (-7,0%), e empurrou os juros futuros para cima — juro alto tira atratividade das ações. Lá fora o clima até ajudava: em Nova York as bolsas subiram e os dados dos EUA vieram fracos, o que reduz a pressão para o Fed (o banco central americano) manter juros altos. Mas o investidor estrangeiro seguiu saindo do Brasil.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Desemprego Brasil (PNAD, 2º tri) | 5,4% | ~5,4% | 5,8% (ano ant.) | Emprego forte e renda recorde; economia aquecida deixa o BC menos apressado para cortar a Selic |
-| Vendas no varejo EUA (julho) | -0,6% | leve alta | +0,2% | Consumo americano esfria; reforça aposta de corte de juros do Fed e ajuda o real |
-| Confiança do consumidor EUA (Michigan, prévia ago.) | 51,0 | acima | ~54 | Confiança em queda; mesma leitura de economia americana mais fraca |
+| Vendas no varejo EUA (jul, 09h30) | -0,6% | +0,1% | +0,2% | Consumo fraco; alivia pressão sobre o Fed |
+| Confiança do Consumidor Michigan EUA (11h) | 51,0 | 55,0 | 55,2 | Americano mais pessimista; reforça aposta de corte de juros nos EUA |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| — | Sem eventos de alto impacto restantes hoje | Varejo EUA (09:30) e Michigan (11:00) já saíram |
+| 09h30 | Vendas no varejo EUA | Move dólar e bolsa; já divulgado |
+| 11h00 | Confiança Michigan EUA | Termômetro do consumo americano; já divulgado |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | 167.100 pontos; oitava/nona queda seguida — atenção se perder força de novo ou ensaiar repique |
-| Dólar | R$ 5,19; segue firme com saída de estrangeiro e ruído fiscal |
-| Setores | Bancos estatais pressionados; cuidado com o tema eleitoral/fiscal |
+| Ibovespa | 167.100 pts; suporte psicológico nos 166.000, resistência volta dos 170.000 |
+| Dólar | R$ 5,19 no fechamento, mas bateu R$ 5,24 na tarde; acima de R$ 5,25 acende alerta |
+| Setores | Bancos e estatais (BB, Sabesp) sob pressão política; evitar exposição concentrada |
 
-**Resumo:** o cenário externo favorece o comprador (dados fracos nos EUA aumentam a chance de corte de juros lá fora e costumam ajudar o real). O que segura a bolsa é interno: medo com as contas públicas, ruído eleitoral e fuga de estrangeiros. Enquanto esse ruído local dominar, o viés é de cautela. Vira o jogo se o dinheiro de fora voltar ou surgir uma notícia fiscal positiva.
+**Resumo:** favorece o vendedor a sequência de quedas, a alta dos juros futuros e a saída de estrangeiros por medo fiscal e eleitoral. Favorece o comprador o exterior calmo, os dados fracos nos EUA e a aposta firme de corte da Selic (hoje em 14%) para 13,75% em setembro. Fique atento à ata e a novas falas sobre as contas públicas.
 
-Atualizado às 16:36 — não é recomendação de investimento.
+Atualizado às 17:09 — não é recomendação de investimento.
