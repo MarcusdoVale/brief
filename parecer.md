@@ -1,31 +1,32 @@
-**VEREDITO: vendedor nas ações brasileiras — força 7 de 10.** O placar vira se o ruído político/fiscal aliviar ou se o estrangeiro voltar a comprar.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se a Confiança do Consumidor dos EUA (11h) e o PIB americano vierem fortes: isso firma o dólar e tira o ânimo da bolsa.
 
-O que mandou no mercado hoje foi o Brasil, não os Estados Unidos. A bolsa caiu pela 8ª sessão seguida (algo visto pouquíssimas vezes na história do índice), pressionada por preocupação com as contas públicas, pesquisa eleitoral e saída de dinheiro estrangeiro. O dólar subiu de novo. Lá fora, o dado de varejo dos EUA veio fraco — o que até ajuda o real —, mas o clima local abafou esse alívio.
+O que mandou no mercado foi o bom humor com a mineradora Vale e os bancos, que sustentaram o Ibovespa perto das máximas históricas, mesmo com o dólar levemente mais firme. Por trás, pesa a expectativa de que o Banco Central siga cortando os juros (a Selic caiu para 14,00% no início de agosto e o mercado projeta 13,75% até o fim do ano), o que reduz o custo do crédito e direciona o dinheiro para as ações. Hoje é dia de olhar para fora: os EUA divulgam indicadores que podem mexer com o dólar.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Desemprego Brasil (Pnad, 2º tri) | 5,4% | sem dado | 6,1% (1º tri) | Mercado de trabalho aquecido mantém consumo e inflação firmes; dá menos espaço para o Banco Central cortar a Selic. |
-| Vendas no varejo EUA (julho) | −0,6% no mês | +0,1% | sem dado | Consumo americano perdeu força; reforça a aposta de corte de juros nos EUA e tende a ajudar o real, mas indica economia dos EUA esfriando. |
+| Ibovespa (fechamento anterior) | 171.907 (+0,51%) | — | — | Quarta alta seguida, perto do topo |
+| Dólar (fechamento anterior) | R$ 5,15 (+0,27%) | — | — | Real levemente mais fraco |
+| Confiança do Consumidor EUA (11h) | ainda não saiu | sem dado | 90,8 | Se vier forte, firma o dólar |
+| PIB EUA 2º tri (2ª leitura) | ainda não saiu | sem dado | — | Atividade americana; move o dólar |
+| CAGED julho (Brasil) | ainda não saiu | sem dado | — | Emprego formal no país |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h00 | Desemprego Brasil (Pnad) | Mexe com a expectativa de juros aqui. |
-| 09h30 | Vendas no varejo EUA | Mostra a força do consumo americano; move dólar e juros lá fora. |
-
-Pregão já encerrado. Sem novos eventos de alto impacto pela frente hoje.
+| 11h00 | Confiança do Consumidor EUA | Dado forte deixa o Fed sem pressa para cortar juros e firma o dólar |
+| ~09h30 | PIB EUA (2º trimestre) | Mede a força da economia americana; mexe com o dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | ~166.900 pts; sequência longa de quedas deixa o índice esticado para baixo, mas a tendência ainda é vendedora enquanto durar o ruído fiscal. |
-| Dólar | ~R$ 5,19; de olho em R$ 5,25 se a pressão continuar. |
-| Cuidados | Risco político/fiscal e saída de estrangeiros mandam mais que os dados econômicos no momento. |
+| Ibovespa | Suporte perto de 169.300; resistência na máxima de 173.100 |
+| Dólar | Faixa dos R$ 5,15; acima disso indica cautela externa |
+| Vale e bancos | Puxaram a alta; cuidado com realização de lucros |
 
-**Resumo:** favorece a queda o combo de risco fiscal, eleição e estrangeiro vendendo. Favorece um repique o varejo fraco nos EUA (que ajuda o real) e o próprio índice muito esticado após 8 quedas. O gatilho de virada é o humor com as contas públicas.
+**Resumo:** favorece a alta a aposta firme em mais corte de juros no Brasil e a força de Vale e bancos. Favorece a cautela um dado americano forte hoje, que firmaria o dólar. Amanhã sai o IPCA-15 (prévia da inflação), esperado em queda de 0,31% no mês — se confirmar, reforça o espaço para novos cortes.
 
-Atualizado às 18:12 — não é recomendação de investimento.
+Atualizado às 08:12 — não é recomendação de investimento.
