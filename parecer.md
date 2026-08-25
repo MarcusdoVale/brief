@@ -1,31 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se a Confiança do Consumidor dos EUA vier forte (firma o dólar e pesa) ou se o IPCA-15 de amanhã surpreender para cima.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar muda amanhã cedo com o IPCA-15 (a prévia da inflação): se vier a deflação esperada, reforça o corte de juros e favorece a bolsa.
 
-O que mandou hoje foi o exterior calmo e a força da Vale, que subiu com o minério de ferro e puxou o índice para a quarta alta seguida. A expectativa de que a prévia da inflação (IPCA-15) venha negativa amanhã reforça a aposta de mais um corte de juros em setembro, e juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações. O dólar subiu de leve, num movimento de ajuste, sem tensão.
+O que mandou no mercado hoje foi o bom humor com commodities e a expectativa de queda de juros. A Vale subiu forte (+2,80%) puxada pelo minério de ferro e sustentou o índice; do outro lado, a Braskem caiu 6,71% por causa de novidades na sua recuperação judicial. Lá fora, saiu a Confiança do Consumidor dos EUA mais fraca, o que segura o dólar por lá, mas o dólar ainda subiu um pouco frente ao real, acompanhando o movimento das outras moedas emergentes. A Selic segue em 14% ao ano e o mercado aposta em corte para 13,75% na reunião de setembro.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Ibovespa | +0,51% (171.907 pts) | — | — | 4ª alta seguida, puxada pela Vale (+2,80%) |
-| Dólar | R$ 5,15 (+0,27%) | — | — | Real cede um pouco, ajuste sem estresse |
-| Confiança do Consumidor EUA (ago) | ~11h BRT | sem dado | — | Se forte, deixa o Fed sem pressa e firma o dólar |
-| IPCA-15 (ago) | sai amanhã (26), ~09h | -0,31% mês / +4,34% ano | — | Deflação esperada (bônus de energia de Itaipu); apoia corte de juros |
+| Confiança do Consumidor EUA (Conference Board, ago) | 89,4 | 90,2 | 90,2 | Menor nível em 7 meses; consumidor americano mais pessimista com emprego. Dado fraco reforça a aposta de corte de juros nos EUA |
+| Ibovespa (fechamento) | 171.907 (+0,51%) | — | — | Bolsa estende a sequência de alta; Vale liderou |
+| Dólar (fechamento) | R$ 5,1531 (+0,27%) | — | — | Real cede um pouco, acompanhando outras moedas emergentes |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~11h | Confiança do Consumidor EUA (Conference Board) | Mede o ânimo do consumidor americano; move o dólar |
-| 09h e 17h | Discursos de Barkin (Fed) | Pistas sobre o rumo dos juros nos EUA |
+| Já divulgado (11h) | Confiança do Consumidor EUA | Termômetro do humor do consumidor americano; veio fraco |
+| Amanhã, ~09h | IPCA-15 de agosto (prévia da inflação) | Esperada deflação de -0,31% no mês, puxada pela energia mais barata. Se confirmar, abre mais espaço para corte da Selic (bom para a bolsa) |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Sustentar os 171 mil pts; topo perto de 172–173 mil |
-| Dólar | R$ 5,15 como pivô; acima de R$ 5,18 liga o alerta |
-| Setores | Vale e mineração no comando; cautela com Braskem (-6,71%, reestruturação) |
+| Ibovespa | Rodando perto de 171,9 mil pontos, em máximas. De olho na continuidade da alta e na realização de lucros |
+| Dólar | Faixa de R$ 5,15. Acima disso liga o alerta; queda depende de inflação baixa amanhã |
+| Vale e mineradoras | Sustentaram o dia; seguem sensíveis ao preço do minério na China |
+| Braskem | Sob pressão pela recuperação judicial; evite surpresas |
 
-**Resumo:** favorecem a compra o momentum positivo, a aposta firme em corte da Selic (hoje em 14%, com 13,75% esperado em setembro) e a deflação prevista no IPCA-15. Contra, um dado americano forte hoje ou uma inflação acima do esperado amanhã podem tirar força. Cenário construtivo, mas com o gatilho da prévia da inflação logo pela manhã.
+**Resumo:** Favorece o comprador o cenário de juros em queda no Brasil e o dado americano fraco, que ajuda os emergentes. Contra, a bolsa já vem esticada em máximas, o que aumenta o risco de realização de lucros, e o dólar segue firme. O gatilho de amanhã é o IPCA-15 às 09h: deflação confirmada favorece a bolsa; inflação acima do esperado tira força do corte de juros.
 
-Atualizado às 17:09 — não é recomendação de investimento.
+Atualizado às 18:11 — não é recomendação de investimento.
