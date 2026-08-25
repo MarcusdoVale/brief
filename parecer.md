@@ -1,32 +1,31 @@
-**VEREDITO: comprador moderado (nas ações brasileiras) — força 6 de 10.** O placar muda amanhã: sai o IPCA-15 (prévia da inflação) de manhã e, nos EUA, o PCE (índice de inflação preferido do Fed, o banco central americano).
+**VEREDITO: comprador de força 6 (nas ações brasileiras).** O placar vira se a bolsa não sustentar os 171 mil pontos ou se sair dado forte nos EUA que segure o corte de juros por lá.
 
-O clima segue positivo. A Bolsa engatou a quarta alta seguida, sustentada por Vale e bancos, e o dólar recua para perto de R$ 5,14, com o real ganhando força. Por trás disso está a aposta firme de que o Copom (comitê de juros do Banco Central) corta a Selic em 0,25 ponto no dia 16 de setembro, levando a taxa a 13,75% — juros mais baixos reduzem o custo do crédito e direcionam o dinheiro para as ações. Hoje o dia é de agenda leve; o mercado está mais posicionado para os dados fortes de amanhã e para Jackson Hole na sexta.
+O dia foi de otimismo moderado: o Ibovespa emendou a quarta alta seguida, puxado pela Vale (minério firme) e pelos bancos, e trabalha perto da máxima do ano. O que ajuda é a combinação de juros em queda no Brasil (o Copom cortou a Selic para 14% ao ano no início do mês) com um cenário externo mais calmo. O dólar, mesmo assim, subiu um pouco, o que mostra que o exterior ainda pede atenção. A grande referência de hoje veio dos EUA: a Confiança do Consumidor (Conference Board), divulgada às 11h de Brasília, veio fraca (51 ante 55 no mês anterior). Dado americano fraco reforça a aposta de que o Fed (o banco central dos EUA) vai cortar juros, o que costuma ajudar o real e as bolsas emergentes.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Ibovespa (intradia ~13h) | ~171,9 mil pts (+0,5%) | — | 171.907 | 4ª alta seguida; Vale e bancos puxando |
-| Dólar (intradia) | ~R$ 5,14 (−0,3%) | — | R$ 5,153 | Real mais forte, ambiente favorável |
-| Confiança do Consumidor EUA (ago) | sai ~11h | sem dado | — | Mede o ânimo do consumidor americano |
-| Arrecadação federal (jul, Brasil) | manhã | sem dado | — | Contas públicas; pouco impacto na Bolsa |
+| Confiança do Consumidor EUA (Conference Board, 11h) | 51,0 | sem dado | 55,2 | Consumidor americano mais cauteloso; reforça aposta de corte de juros nos EUA (ajuda o real) |
+| Ibovespa | 171.907 (+0,51%) | — | — | Quarta alta seguida, perto da máxima |
+| Dólar | R$ 5,1531 (+0,27%) | — | — | Real cede de leve; exterior ainda pede cuidado |
+
+Observação: IPCA-15 de agosto (prévia da inflação) só sai em setembro; hoje não é dia de PMI.
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~11h | Confiança do Consumidor EUA (Conference Board) | Termômetro do consumo americano; pode mexer com dólar |
-
-*Amanhã (26): IPCA-15 (~09h, esperado −0,31% no mês) e PCE dos EUA. Sexta (28): discurso de Kevin Warsh (novo presidente do Fed) em Jackson Hole.*
+| 11h | Confiança do Consumidor EUA (Conference Board) | Já saiu fraca; mede o humor do consumidor americano e mexe com a aposta de juros do Fed |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Máxima do dia ~173,1 mil; mínima ~169,3 mil. Acima de 172 mil mantém a força; perder 170 mil liga o alerta |
-| Dólar | Zona de R$ 5,14–5,16. Queda firme abaixo de R$ 5,13 ajuda a Bolsa |
-| Setores | Vale e bancos sustentam o índice; cuidado com casos isolados (Braskem em recuperação judicial) |
+| Ibovespa | Segurar os 171 mil pontos sustenta o movimento de alta; perder essa faixa liga o sinal amarelo |
+| Dólar | Acompanhar a região de R$ 5,15; acima disso mostra exterior mais tenso |
+| Setores | Vale e bancos lideraram; cuidado com casos específicos (Braskem caiu forte por notícia própria) |
 
-**Resumo:** favorece o comprador a sequência de altas, o real firme e a aposta de corte de juros mantida. Pesa contra a cautela antes de amanhã: se o IPCA-15 vier acima do esperado ou o PCE americano surpreender para cima, o Fed fica sem pressa para cortar juros e o dólar tende a subir, esfriando a Bolsa. Dia de posição leve e olho na abertura de amanhã.
+**Resumo:** favorece o comprador a queda dos juros no Brasil, o minério firme e o dado fraco nos EUA (que ajuda o real). Joga contra o dólar ainda resistente e a bolsa esticada perto da máxima, o que aumenta o risco de realização de lucros. Nos próximos dias, o mercado olha a agenda de emprego dos EUA e novas falas de dirigentes do Fed.
 
-Atualizado às 13:09 — não é recomendação de investimento.
+Atualizado às 14:09 — não é recomendação de investimento.
