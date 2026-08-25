@@ -1,30 +1,29 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O placar vira se a Confiança do Consumidor dos EUA (11h) vier muito acima do esperado ou se a inflação PCE de amanhã assustar.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se a Confiança do Consumidor dos EUA vier forte (firma o dólar e tira o ânimo) ou se o IPCA-15 de amanhã surpreender para cima.
 
-A bolsa vem de quatro altas seguidas e opera perto do recorde (por volta das 172 mil pontos), mas hoje anda de lado: sobe pouco, com a Vale e os bancos puxando para cima e a Petrobras segurando os ganhos. O dólar tem leve alta, a cerca de R$ 5,15. O clima é de cautela e pouca disposição para arriscar antes dos dois grandes eventos de amanhã nos EUA: o balanço da Nvidia (maior empresa de chips de inteligência artificial, que costuma mexer com o mundo todo) e o PCE, que é o índice de inflação preferido do Federal Reserve (o banco central americano). Dia sem indicador forte no Brasil.
+A bolsa vem de sequência de altas, ajudada por Vale e bancos e pela aposta firme de que o Banco Central corta os juros (Selic) de novo em setembro, para 13,75% ao ano — juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações. Hoje o dia é mais de acomodação: o petróleo abaixo de US$ 90 no exterior mexe com a Petrobras, e o mercado espera o IPCA-15 de amanhã. Sem dado de peso do Brasil já divulgado hoje; o foco externo é a Confiança do Consumidor dos EUA.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Confiança do Consumidor EUA (ago) | sai 11h | sem dado | 55,2 | Consumidor confiante deixa o Fed sem pressa para cortar juros (firma o dólar); fraco ajuda o real |
-| Vendas de casas novas EUA (jul) | sai 11h | sem dado | — | Impacto menor; mede o setor imobiliário americano |
-| Arrecadação / Tesouro (Brasil, jul) | manhã | sem dado | — | Contas públicas; impacto baixo no dia |
+| Nenhum dado relevante do Brasil divulgado até agora | — | — | — | Dia de agenda fraca no Brasil |
+| IPCA-15 ago (prévia da inflação) | sai amanhã 26/08, ~09h | -0,31% mês / 4,34% ano | — | Deflação por conta de bônus na conta de luz (Itaipu) |
+| Confiança do Consumidor EUA (ago) | sai hoje 11h | sem dado | — | Se vier forte, Fed sem pressa para cortar juros; dólar tende a subir |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 11h | Confiança do Consumidor dos EUA | Termômetro da economia americana; pode mexer com dólar e juros |
-| Amanhã | Inflação PCE (EUA) e balanço da Nvidia | Definem o humor da semana; mercado tende a ficar travado até lá |
+| 11h | Confiança do Consumidor EUA (Conference Board) | Termômetro do consumo americano; move dólar e bolsa |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte perto de 169 mil; resistência na máxima recente ~173 mil. De olho na Vale (minério) e nos bancos |
-| Dólar | Faixa de R$ 5,13 a R$ 5,16; alta firma se dado americano vier forte |
-| Cuidado | Braskem em recuperação extrajudicial e Petrobras pesando podem contaminar o humor |
+| Ibovespa | Rodando perto de 171.900 pts; vem de várias altas — cuidado com realização de lucro |
+| Dólar | Ao redor de R$ 5,15; sobe se o dado dos EUA vier forte |
+| Petrobras / Vale | Petróleo abaixo de US$ 90 pesa na Petrobras; Vale sustenta o índice |
 
-**Resumo:** favorece a alta o minério firme, os bancos e a sequência positiva da bolsa. Favorece a queda a cautela antes do PCE e da Nvidia amanhã, com o dólar um pouco mais alto. Cenário mais provável hoje: mercado de lado, com movimento maior só depois dos dados dos EUA. Para o daytrade, atenção redobrada às 11h e amanhã cedo.
+**Resumo:** favorecem a alta a aposta de corte da Selic em setembro e o bom humor recente com Vale e bancos. Jogam contra um dado americano forte (que firma o dólar) e o risco do IPCA-15 amanhã. Hoje tende a ser de ajuste, com atenção ao dado dos EUA às 11h.
 
-Atualizado às 11:09 — não é recomendação de investimento.
+Atualizado às 12:09 — não é recomendação de investimento.
