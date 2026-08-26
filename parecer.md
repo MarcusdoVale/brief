@@ -1,29 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 7 de 10.** O placar só perde força se a ata do Fed (às 15h) vier com tom mais duro (pressão para manter juros altos nos EUA) e firmar o dólar acima de R$ 5,18.
+**VEREDITO: comprador nas ações brasileiras — força 7 de 10.** O que muda o placar: uma virada no exterior (dado forte nos EUA firmando o dólar) ou realização de lucro depois de cinco altas seguidas.
 
-A manhã foi de alívio no Brasil. O IPCA-15 (a prévia da inflação oficial) de agosto registrou deflação de 0,40%, queda maior que a esperada, ajudada pelo barateamento da energia elétrica (bônus de Itaipu). Inflação mais fraca reduz o custo do crédito e direciona o dinheiro para as ações — bom para a bolsa. A leitura reforçou a aposta de mais um corte da Selic (juros) na próxima reunião do Copom, hoje precificada em -0,25 ponto, levando a taxa a 14% ao ano. Com isso, a bolsa engatou o quinto pregão seguido de alta, puxada por bancos e ações sensíveis a juros; o dólar sobe de leve, à espera da ata do Fed.
+O dia foi de bolsa em alta puxada pela prévia da inflação (IPCA-15), que veio melhor que o esperado e reforçou a aposta de um novo corte da Selic (nossa taxa básica de juros) em setembro. Juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações, por isso os papéis mais sensíveis a juros lideraram (bancos e varejo). A Petrobras andou na contramão, pressionada pela queda de quase 4% do petróleo.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 agosto (mês) | -0,40% | -0,31% | +0,06% | Deflação maior que a esperada; abre espaço para corte de juros (bom para a bolsa) |
-| Aposta de juros (Copom) | corte de 0,25 p.p. p/ 14% | — | — | Mercado mais confiante no corte; ajuda as ações |
+| IPCA-15 (prévia da inflação) | -0,40% | -0,30% | +0,06% | Inflação mais fraca que o previsto; abre espaço para corte de juros (bom para a bolsa) |
+| IPCA-15 em 12 meses | 4,24% | ~4,34% | 4,52% | Inflação anual desacelerando, dentro da meta |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h00 | IPCA-15 agosto (já saiu) | Move juros futuros e bolsa |
-| ~15h00 | EUA: ata da reunião do Fed | Mostra se os dirigentes pendem para manter ou cortar juros; move dólar e bolsas |
+| 09h30 | EUA: Bens Duráveis, PIB (2ª prévia), Renda e Gastos | Dado forte deixa o Fed sem pressa para cortar juros e firma o dólar (cautela); dado fraco ajuda o real |
+| Ao longo da semana | Discurso do presidente do Fed (Kevin Warsh) | Sinaliza o rumo dos juros americanos |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Perto de 176 mil pontos, 5ª alta seguida; puxado por bancos (BB +5%) e varejo (Magalu +9%). Atenção a realização de lucro |
-| Dólar | Em torno de R$ 5,16. Acima de R$ 5,18 liga o alerta; volta abaixo de R$ 5,14 favorece a bolsa |
-| Petróleo/Petrobras | Petróleo caiu ~4%; Petrobras pressionada. Cuidado com o setor |
+| Ibovespa | Rodando perto de 174,5 mil pontos (máximas); atenção a realização após 5 altas seguidas |
+| Dólar | Na casa de R$ 5,15; queda favorece a bolsa |
+| Setores | Bancos e varejo favorecidos por juros em queda; Petrobras sofre com petróleo em baixa |
 
-**Resumo:** A favor da bolsa: deflação no IPCA-15 e corte de juros mais perto. Contra: dólar firme, petróleo em queda pesando na Petrobras e o risco da ata do Fed à tarde mexer com o humor externo. Sem decisão de juros dos EUA hoje — apenas a ata, que traz pistas dos próximos passos.
+**Resumo:** Favorece o comprador a inflação fraca e a expectativa de corte da Selic (hoje em 14% ao ano). Contra, pesam a bolsa esticada perto das máximas e o risco de um dado americano forte firmar o dólar. Fique atento aos números dos EUA das 09h30.
 
-Atualizado às 13:11 — não é recomendação de investimento.
+Atualizado às 14:09 — não é recomendação de investimento.
