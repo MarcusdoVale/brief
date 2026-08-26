@@ -1,31 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira contra se o balanço da Nvidia (após o fechamento dos EUA) decepcionar ou se o mercado passar a temer que o Fed adie o corte de juros.
+**VEREDITO: comprador nas ações brasileiras — força 7/10.** O placar vira se o discurso de Kevin Warsh (Fed) em Jackson Hole, sexta, endurecer o tom sobre juros nos EUA.
 
-O dia foi dominado por uma boa notícia interna: a prévia da inflação veio bem mais fraca que o esperado, reforçando a aposta de mais um corte na Selic (a taxa básica de juros). Isso reduz o custo do crédito e direciona o dinheiro para as ações, e o Ibovespa engatou o sexto pregão positivo, perto dos 176 mil pontos, com dólar recuando para a casa dos R$ 5,12. O contrapeso vem de fora: a inflação americana (PCE) saiu um pouco acima do esperado, o que deixa o Fed sem pressa para cortar juros e sustenta o dólar lá fora.
+O dia foi de alívio no Brasil. A prévia da inflação (IPCA-15) veio mais fraca que o esperado, o que reforça a aposta de novo corte da Selic em setembro — isso reduz o custo do crédito e direciona o dinheiro para as ações, principalmente as sensíveis a juros. O Ibovespa emendou a 5ª alta seguida e o real se firmou. No exterior, a inflação americana (PCE) veio um pouco acima do previsto, o que deixa o Fed sem pressa para cortar juros — um ponto de cautela, mas hoje pesou menos que o cenário interno.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 (prévia da inflação) ago/26 | -0,40% | -0,30% | +0,06% | Inflação mais fraca; abre espaço para corte da Selic (bom para a bolsa) |
-| IPCA-15 em 12 meses | 4,24% | — | 4,52% | Segue desacelerando |
-| PCE EUA (inflação preferida do Fed) jul | +0,2% mês / 3,7% ano | 3,6% ano | 3,6% ano | Um pouco acima; Fed sem pressa para cortar (firma o dólar) |
-| Núcleo do PCE (12 meses) | 3,3% | 3,3% | 3,3% | Estável, ainda longe da meta de 2% |
+| IPCA-15 ago (prévia da inflação) | -0,40% | -0,30% | +0,06% | Inflação mais fraca; abre espaço para corte de juros (bom para a bolsa) |
+| IPCA-15 em 12 meses | 4,24% | — | 4,52% | Desacelerou; alívio na inflação |
+| PCE EUA jul (inflação preferida do Fed) | +0,2% mês / 3,7% ano | 3,6% ano | 3,6% ano | Um pouco acima; Fed sem pressa para cortar (cautela, firma o dólar) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:30 (já saiu) | PCE e PIB (2ª prévia) dos EUA | Inflação e crescimento americanos; movem dólar e juros |
-| Após o fechamento dos EUA (noite) | Balanço da Nvidia | Termômetro global de tecnologia; mexe com o humor de risco de amanhã |
+| 09h00 (já saiu) | IPCA-15 de agosto | Prévia da inflação; move juros e bolsa |
+| 09h30 (já saiu) | PCE de julho (EUA) | Inflação que o Fed mais observa |
+| Sexta 28/08 | Discurso de Warsh em Jackson Hole | Pode indicar o rumo dos juros nos EUA |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Zona dos 176 mil como resistência; suporte perto dos 174 mil |
-| Dólar | Faixa R$ 5,10–5,15; queda ajuda a bolsa |
-| Setores | Bancos favorecidos pelo corte de juros; Vale e Petrobras pressionadas por minério e petróleo em queda |
+| Ibovespa | Fechou +1,55%, aos 174.577 pts (5ª alta). Bancos e varejo puxaram: BB +5,2%, Magazine Luiza +9,1% |
+| Dólar | Recuou para ~R$ 5,15 (PTAX). Real firme com aposta de corte da Selic |
+| Petrobras/petróleo | Petro -1,8% com petróleo em queda de ~4%; cuidado com o setor |
 
-**Resumo:** favorecem a alta a inflação interna fraca e a aposta firme de corte da Selic; jogam contra o PCE americano acima do esperado e o risco do balanço da Nvidia hoje à noite, que pode ditar o tom do exterior amanhã. Cenário construtivo para as ações brasileiras, mas com gatilho externo relevante ainda pela frente.
+**Resumo:** O cenário interno favorece o comprador: inflação em queda e aposta firme de corte da Selic em setembro sustentam a bolsa, com destaque para bancos e varejo. Do lado externo, a inflação americana um pouco mais forte e Jackson Hole na sexta pedem cautela — um tom mais duro do Fed pode firmar o dólar e tirar força do movimento. Sem esse choque externo, a tendência de alta segue no comando.
 
-Atualizado às 17:14 — não é recomendação de investimento.
+Atualizado às 18:08 — não é recomendação de investimento.
