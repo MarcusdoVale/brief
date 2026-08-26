@@ -1,31 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar muda amanhã cedo com o IPCA-15 (a prévia da inflação): se vier a deflação esperada, reforça o corte de juros e favorece a bolsa.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o IPCA-15 das 09:00 vier mais forte que o esperado ou se o dado de crescimento dos EUA firmar o dólar.
 
-O que mandou no mercado hoje foi o bom humor com commodities e a expectativa de queda de juros. A Vale subiu forte (+2,80%) puxada pelo minério de ferro e sustentou o índice; do outro lado, a Braskem caiu 6,71% por causa de novidades na sua recuperação judicial. Lá fora, saiu a Confiança do Consumidor dos EUA mais fraca, o que segura o dólar por lá, mas o dólar ainda subiu um pouco frente ao real, acompanhando o movimento das outras moedas emergentes. A Selic segue em 14% ao ano e o mercado aposta em corte para 13,75% na reunião de setembro.
+O que manda no mercado agora é a aposta crescente em novos cortes de juros no Brasil. A bolsa emendou a 5ª alta seguida (Ibovespa a 174.577 pontos, +1,55%), puxada por ações sensíveis a juros — Banco do Brasil (+5,2%) e Magazine Luiza (+9,1%) — enquanto o dólar recuou a R$ 5,149. Juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações, por isso esses papéis sobem. O contrapeso é o petróleo em queda (~-4%), que pressiona a Petrobras (-1,8%).
 
-**O que saiu hoje (realizado x esperado)**
+**O que sai/saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Confiança do Consumidor EUA (Conference Board, ago) | 89,4 | 90,2 | 90,2 | Menor nível em 7 meses; consumidor americano mais pessimista com emprego. Dado fraco reforça a aposta de corte de juros nos EUA |
-| Ibovespa (fechamento) | 171.907 (+0,51%) | — | — | Bolsa estende a sequência de alta; Vale liderou |
-| Dólar (fechamento) | R$ 5,1531 (+0,27%) | — | — | Real cede um pouco, acompanhando outras moedas emergentes |
+| IPCA-15 ago (prévia da inflação) | sai 09:00 | leve deflação (~-0,05%) | +0,13% (jul) | Prévia fraca ou negativa abre mais espaço para corte de juros (bom para a bolsa) |
+| PIB EUA 2º tri (2ª leitura) | sai 09:30 BRT | sem dado | — | Crescimento americano forte deixa o banco central dos EUA sem pressa para cortar juros e firma o dólar (cautela) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Já divulgado (11h) | Confiança do Consumidor EUA | Termômetro do humor do consumidor americano; veio fraco |
-| Amanhã, ~09h | IPCA-15 de agosto (prévia da inflação) | Esperada deflação de -0,31% no mês, puxada pela energia mais barata. Se confirmar, abre mais espaço para corte da Selic (bom para a bolsa) |
+| 09:00 | IPCA-15 de agosto (IBGE) | Guia a aposta de corte da Selic; mexe com bolsa e dólar na hora |
+| 09:30 | PIB dos EUA (2º trimestre) | Dado forte firma o dólar e traz cautela; dado fraco ajuda o real |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rodando perto de 171,9 mil pontos, em máximas. De olho na continuidade da alta e na realização de lucros |
-| Dólar | Faixa de R$ 5,15. Acima disso liga o alerta; queda depende de inflação baixa amanhã |
-| Vale e mineradoras | Sustentaram o dia; seguem sensíveis ao preço do minério na China |
-| Braskem | Sob pressão pela recuperação judicial; evite surpresas |
+| Ibovespa | Vem de 5 altas seguidas (174,5 mil); atenção a realização de lucro perto de 175 mil |
+| Dólar | Girando em R$ 5,15; PIB dos EUA forte pode empurrar de volta acima disso |
+| Setores | Bancos e varejo favorecidos pelos juros em queda; Petrobras pressionada pelo petróleo fraco |
 
-**Resumo:** Favorece o comprador o cenário de juros em queda no Brasil e o dado americano fraco, que ajuda os emergentes. Contra, a bolsa já vem esticada em máximas, o que aumenta o risco de realização de lucros, e o dólar segue firme. O gatilho de amanhã é o IPCA-15 às 09h: deflação confirmada favorece a bolsa; inflação acima do esperado tira força do corte de juros.
+**Resume:** Favorece o comprador a combinação de inflação em desaceleração e aposta firme em corte de juros, que sustenta bancos e varejo. Pesa contra o petróleo fraco na Petrobras e o risco de o PIB dos EUA vir forte, firmando o dólar e trazendo cautela no cenário externo. As duas divulgações da manhã (09:00 e 09:30) definem o tom do dia.
 
-Atualizado às 18:11 — não é recomendação de investimento.
+Atualizado às 08:12 — não é recomendação de investimento.
