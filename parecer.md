@@ -1,31 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o balanço da Nvidia (após o fechamento nos EUA) decepcionar ou se o dólar romper para cima.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se a inflação dos EUA ou o balanço da Nvidia (à noite) assustarem o exterior.
 
-A bolsa sobe pela manhã porque a prévia da inflação no Brasil (IPCA-15) veio melhor que o esperado — deflação de 0,40% em agosto —, o que reforça a aposta de mais um corte da Selic (a taxa básica de juros) em setembro, de 14,25% para 14% ao ano. Juro menor reduz o custo do crédito e direciona o dinheiro para as ações. Do lado de fora, os EUA divulgaram o PCE (a medida de inflação preferida do banco central americano, o Fed): veio dentro do esperado no núcleo, mas um pouco acima no total, o que deixa o Fed sem pressa para cortar juros — motivo de cautela no cenário externo.
+A manhã foi positiva: o Ibovespa opera na 5ª alta seguida, perto dos 175,7 mil pontos, e o dólar cede para a casa de R$ 5,14. O que animou foi o IPCA-15 (a prévia da inflação oficial), que **caiu 0,40% em agosto**, mais do que o mercado esperava. Inflação mais baixa reforça a aposta de que o Banco Central corta a Selic (a taxa básica de juros) para 14% ao ano no próximo Copom — juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações. Sobem Vale e bancos; a Petrobras recua.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 (ago, prévia da inflação) | -0,40% | -0,35% | +0,06% | Inflação mais fraca; abre espaço para corte de juros (bom para a bolsa) |
-| PCE cheio EUA (jul, 12 meses) | 3,7% | 3,6% | — | Um pouco acima; Fed sem pressa para cortar (cautela) |
-| Núcleo PCE EUA (jul, 12 meses) | 3,3% | 3,3% | — | Em linha; sem susto adicional |
+| IPCA-15 (mês) | -0,40% | -0,30% | +0,06% | Inflação abaixo do previsto; abre espaço para corte de juros (bom para a bolsa) |
+| IPCA-15 (12 meses) | 4,24% | ~4,34% | 4,52% | Desacelera e alivia a pressão sobre o Banco Central |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h00 | IPCA-15 (Brasil) | Já saiu; mexe com a aposta de corte da Selic |
-| 09h30 | PCE de julho (EUA) | Já saiu; inflação preferida do Fed |
-| Após 17h30 | Balanço da Nvidia (EUA) | Move o humor global de tecnologia; pode respingar amanhã |
+| ~09:30 | Inflação PCE dos EUA (medida preferida do Fed) | Dado forte deixa o Fed sem pressa para cortar juros e firma o dólar (cautela) |
+| Após o fechamento em NY (~18h) | Balanço da Nvidia | Move o humor global com tecnologia; reação costuma respingar no Ibovespa amanhã |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rodando perto de 175,7 mil pontos, em alta; Vale, bancos e varejo puxando |
-| Dólar | Ao redor de R$ 5,14; queda favorece a bolsa, alta liga o alerta |
-| Petrobras (PETR4) | Na contramão, em queda; atenção ao petróleo |
+| Ibovespa | Perto de 175,7 mil; segue firme enquanto o exterior colaborar |
+| Dólar | Região de R$ 5,14; queda ajuda a bolsa |
+| Setores | Vale e bancos puxando; cuidado com Petrobras |
 
-**Resume:** favorece o comprador a inflação fraca no Brasil e a aposta firme de corte da Selic. Pesa contra o PCE um pouco acima do esperado e o balanço da Nvidia à noite, que pode mudar o humor externo. Enquanto o dólar cair e o Ibovespa seguir acima de 175 mil, a mão fica com os compradores.
+**Resumo:** a favor do comprador estão a inflação em queda e a aposta consolidada de corte da Selic. Contra jogam a inflação dos EUA de hoje e a Nvidia à noite, que podem trazer volatilidade e virar o humor externo. Cenário construtivo, mas sem exageros perto desses eventos.
 
-Atualizado às 15:08 — não é recomendação de investimento.
+Atualizado às 16:08 — não é recomendação de investimento.
