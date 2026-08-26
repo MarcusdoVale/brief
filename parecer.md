@@ -1,28 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o IPCA-15 vier pior que o esperado ou se a Nvidia decepcionar à noite e azedar o humor lá fora.
+**VEREDITO: comprador nas ações brasileiras — força 7 de 10.** O placar vira se a inflação (IPCA-15) vier acima do esperado ou se falas de dirigentes do Fed em Jackson Hole assustarem o mercado externo.
 
-O que manda no mercado agora é a expectativa de corte de juros. A inflação vem cedendo e o mercado aposta firme num novo corte da Selic (a taxa básica de juros, hoje em 14% ao ano) na reunião do Copom de 5 de setembro. Juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações — por isso os papéis mais sensíveis a juros, como bancos e varejo, lideraram os ganhos. O Ibovespa vem de cinco pregões seguidos de alta e o real está mais forte. Hoje o foco é a prévia da inflação no Brasil e, à noite, o balanço da Nvidia lá fora.
+A bolsa está em clara tendência de alta: o Ibovespa fechou ontem aos 174.577 pontos (+1,55%), a quinta alta seguida e nas máximas das últimas semanas, com o dólar recuando para cerca de R$ 5,15. O que sustenta o movimento é a expectativa de que a inflação continue desacelerando, o que abre espaço para o Banco Central seguir cortando a Selic (juros mais baixos reduzem o custo do crédito e direcionam o dinheiro para as ações). O Copom já cortou a Selic para 14,00% em agosto, o quarto corte seguido. Para hoje, o mercado indica uma leve realização de lucros na abertura, algo normal depois de tanta alta.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 (prévia da inflação de agosto) | sai ~09:00 | -0,30% | 0,06% | Deflação (preços caindo) reforça a aposta de corte de juros — bom para a bolsa |
+| IPCA-15 agosto (prévia da inflação) | deflação (preços em queda) | -0,30% no mês / 4,34% em 12 meses | +0,07% | Inflação fraca reforça a aposta de mais corte de juros — bom para a bolsa |
+| Confiança do Consumidor EUA (Conference Board) | 89,4 (~11h) | ~90 | 90,2 | Consumidor americano mais cauteloso; dado fraco ajuda a aposta de corte de juros lá |
+| Bens duráveis EUA (encomendas à indústria) | sai ~09h30 | sem dado | — | Mede a demanda por bens caros; mexe pouco no dia de hoje |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~09:00 | IPCA-15 de agosto (IBGE) | Prévia da inflação; mexe direto com a aposta de corte da Selic |
-| Após o fechamento dos EUA (~17h30) | Balanço da Nvidia | Move o humor global de risco; respinga aqui amanhã |
+| 09h00 | IPCA-15 de agosto (já divulgado) | Principal termômetro de inflação; guia o próximo passo da Selic |
+| ~11h00 | Confiança do Consumidor dos EUA | Move o humor externo e o dólar |
+| A partir de quinta | Simpósio de Jackson Hole (falas de dirigentes do Fed) | Qualquer sinal sobre juros nos EUA respinga no real e na bolsa |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rodando perto de 174.500 pts, vindo de 5 altas seguidas; cuidado com realização de lucro |
-| Dólar | Ao redor de R$ 5,15; real firme com a aposta de corte de juros |
-| Setores | Bancos e varejo puxam a alta; seguem sensíveis à leitura do IPCA-15 |
+| Ibovespa | Suporte perto de 172.000; acima de 174.500 mantém a força compradora. Setores sensíveis a juros (varejo, construtoras) puxam a alta |
+| Dólar | Piso em torno de R$ 5,10; alívio no dólar favorece a bolsa. Fique atento se voltar acima de R$ 5,20 |
+| Petrobras | Pressionada pela queda do petróleo; pode segurar o índice mesmo em dia de alta |
 
-**Resume:** favorece o comprador a inflação em queda e a aposta consolidada de corte da Selic em setembro. Joga contra a sequência longa de altas (que pede realização de lucro) e o risco externo com a Nvidia à noite. Sem dado macro relevante dos EUA hoje; o PCE (inflação americana) fica para sexta.
+**Resumo:** o cenário favorece o comprador — inflação em queda, juros caindo e dólar mais fraco formam um ambiente positivo para as ações. Contra o otimismo joga o excesso de altas seguidas (chance de realização) e a agenda externa: a partir de quinta, Jackson Hole pode trazer volatilidade. Estratégia do dia: aproveitar recuos, mas com cautela perto das máximas.
 
-Atualizado às 09:12 — não é recomendação de investimento.
+Atualizado às 10:12 — não é recomendação de investimento.
