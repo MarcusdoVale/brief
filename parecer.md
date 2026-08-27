@@ -1,31 +1,30 @@
-**VEREDITO: comprador nas ações brasileiras — força 7/10.** O placar vira se o discurso de Kevin Warsh (Fed) em Jackson Hole, sexta, endurecer o tom sobre juros nos EUA.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O que muda o placar: o tom do simpósio de Jackson Hole (EUA) e a leitura do emprego no Brasil ao longo do dia.
 
-O dia foi de alívio no Brasil. A prévia da inflação (IPCA-15) veio mais fraca que o esperado, o que reforça a aposta de novo corte da Selic em setembro — isso reduz o custo do crédito e direciona o dinheiro para as ações, principalmente as sensíveis a juros. O Ibovespa emendou a 5ª alta seguida e o real se firmou. No exterior, a inflação americana (PCE) veio um pouco acima do previsto, o que deixa o Fed sem pressa para cortar juros — um ponto de cautela, mas hoje pesou menos que o cenário interno.
+A prévia da inflação veio melhor do que o esperado e domina o humor. O IPCA-15 (prévia do IPCA, o índice oficial de inflação) teve **deflação de 0,40% em agosto**, puxada pela queda na conta de luz, e a inflação em 12 meses recuou para 4,24%. Preço mais baixo abre espaço para o Banco Central cortar a Selic (os juros básicos) mais à frente, o que reduz o custo do crédito e direciona o dinheiro para as ações — por isso a bolsa emenda a 6ª alta seguida. Do lado de fora, o dólar sobe de leve e o mercado aguarda o simpósio de Jackson Hole, encontro anual do Fed (o banco central americano), que começa hoje e mantém os investidores em compasso de espera.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IPCA-15 ago (prévia da inflação) | -0,40% | -0,30% | +0,06% | Inflação mais fraca; abre espaço para corte de juros (bom para a bolsa) |
-| IPCA-15 em 12 meses | 4,24% | — | 4,52% | Desacelerou; alívio na inflação |
-| PCE EUA jul (inflação preferida do Fed) | +0,2% mês / 3,7% ano | 3,6% ano | 3,6% ano | Um pouco acima; Fed sem pressa para cortar (cautela, firma o dólar) |
+| IPCA-15 de agosto | -0,40% | queda menor | +0,06% | Inflação mais fraca; ajuda a bolsa e o argumento de corte de juros |
+| PNAD desemprego | sai 09:00 | sem dado | 5,4% | Emprego forte segura o BC; muito fraco reforçaria aposta de corte |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h00 (já saiu) | IPCA-15 de agosto | Prévia da inflação; move juros e bolsa |
-| 09h30 (já saiu) | PCE de julho (EUA) | Inflação que o Fed mais observa |
-| Sexta 28/08 | Discurso de Warsh em Jackson Hole | Pode indicar o rumo dos juros nos EUA |
+| 09:00 | PNAD (taxa de desemprego) | Move real e juros futuros |
+| Ao longo do dia | Abertura de Jackson Hole (EUA) | Discurso-chave do novo presidente do Fed é só amanhã (28); hoje o mercado se posiciona |
+| 09:30 | Pedidos de auxílio-desemprego (EUA) | Termômetro semanal do emprego americano |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Fechou +1,55%, aos 174.577 pts (5ª alta). Bancos e varejo puxaram: BB +5,2%, Magazine Luiza +9,1% |
-| Dólar | Recuou para ~R$ 5,15 (PTAX). Real firme com aposta de corte da Selic |
-| Petrobras/petróleo | Petro -1,8% com petróleo em queda de ~4%; cuidado com o setor |
+| Ibovespa | Fechou em 174.586 pts (6ª alta seguida); atenção se perder força perto da máxima |
+| Dólar | Abriu perto de R$ 5,15; alta firme acende cautela externa |
+| Setores | Elétricas e consumo tendem a reagir bem ao alívio da inflação |
 
-**Resumo:** O cenário interno favorece o comprador: inflação em queda e aposta firme de corte da Selic em setembro sustentam a bolsa, com destaque para bancos e varejo. Do lado externo, a inflação americana um pouco mais forte e Jackson Hole na sexta pedem cautela — um tom mais duro do Fed pode firmar o dólar e tirar força do movimento. Sem esse choque externo, a tendência de alta segue no comando.
+**Resumo:** favorece o comprador a inflação em queda e o espaço maior para corte da Selic. Pesa contra a cautela antes de Jackson Hole e um dólar em leve alta. O que vem a seguir: a taxa de desemprego às 09:00 e o clima do simpósio ditam o giro do dia — o discurso de maior peso do Fed fica para amanhã.
 
-Atualizado às 18:08 — não é recomendação de investimento.
+Atualizado às 08:07 — não é recomendação de investimento.
