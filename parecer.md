@@ -1,29 +1,29 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 4 de 10.** O placar vira para cima se a inflação americana (PCE) sair fraca amanhã; vira para baixo se sair forte e firmar o dólar.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: se os dirigentes do Fed em Jackson Hole reforçarem tom duro (juros altos por mais tempo), o dólar firma e a bolsa perde fôlego.
 
-O que mandou no mercado hoje foi o exterior cauteloso. A inflação americana veio mais alta que o esperado nos últimos dados, o que reacendeu o receio de que o Federal Reserve (o banco central dos EUA) não terá pressa para cortar juros — isso deixa o investidor estrangeiro mais receoso com países emergentes e sustenta o dólar. Do lado do Brasil, a notícia foi boa: o desemprego caiu para 5,3%, o menor patamar da série para um mês de julho, sinal de economia aquecida e renda das famílias em alta. O mercado ficou praticamente de lado, esperando o dado de inflação dos EUA que sai amanhã.
+O mercado brasileiro está dividido entre uma boa notícia em casa e uma cautela lá fora. Aqui dentro, a inflação surpreendeu para baixo e abre mais espaço para o Banco Central continuar cortando os juros, o que direciona o dinheiro para as ações. Lá fora, a prévia da inflação dos EUA (o índice PCE, o preferido do Fed) veio mais alta que o esperado na quarta, o que deixa o banco central americano sem pressa para cortar juros e firma o dólar — daí a mistura de bolsa de lado e dólar em leve alta hoje.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Desemprego Brasil (PNAD, trim. até julho) | 5,3% | ~5,5% | 5,8% | Menor taxa da série para julho; economia aquecida, bom para consumo |
-| Pedidos de auxílio-desemprego EUA (semanal) | sem dado | sem dado | — | Baixo impacto; termômetro do emprego americano |
-| PCE (inflação EUA, julho) | sai amanhã 09:30 | núcleo ~+0,3% no mês | — | Dado que o Fed mais olha; define a aposta de corte de juros |
+| Ibovespa (fechamento) | 174.586 pts (+0,01%) | — | — | 6º pregão seguido de alta, mas praticamente de lado |
+| Dólar (fechamento) | R$ 5,151 (+0,22%) | — | R$ 5,140 | Leve alta, pressionado pelo exterior |
+| IPCA-15 agosto (saiu dia 26) | −0,40% | −0,30% | +0,06% | Prévia da inflação: deflação maior que a esperada; reforça a aposta de corte da Selic (bom para a bolsa) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Amanhã 09:30 | PCE (inflação EUA de julho) | Principal evento; mexe com dólar e juros. Hoje sem eventos de alto impacto. |
+| Ao longo do dia | Discursos de dirigentes do Fed (simpósio de Jackson Hole) | Falas sobre juros podem mexer com o dólar e o humor global |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Fechou de lado, ~174.600 pontos (sexto pregão de leve alta). Acima disso, segue firme; perda de 173 mil liga o alerta |
-| Dólar | Perto de R$ 5,15 (leve alta). Se romper R$ 5,17, pressiona a bolsa |
-| Setores | Cautela no varejo/consumo (Assaí e Renner caíram); Braskem despencou 14% por fatores próprios |
+| Ibovespa | Suporte perto de 173.000; resistência na região dos 175.000. Sexto dia de alta pede atenção a realização de lucros |
+| Dólar | Faixa de R$ 5,10–5,17; exterior duro empurra para o teto |
+| Setores | Bancos e consumo se beneficiam da aposta em corte de juros; exportadoras seguem o dólar |
 
-**Resumo:** Favorece a alta o cenário interno bom (desemprego baixo, economia girando) e a sequência de pregões positivos. Favorece a baixa o exterior indefinido, com a inflação americana firme adiando o corte de juros dos EUA e segurando o dólar. O jogo de amanhã é o PCE: dado fraco anima a bolsa e ajuda o real; dado forte pede cautela.
+**Resumo.** A favor da bolsa: inflação em casa mais fraca, que sustenta a aposta de novos cortes da Selic. Contra: inflação americana mais alta e Fed sem pressa, que firmam o dólar e pedem cautela no cenário externo. O próximo gatilho são as falas de Jackson Hole e a leitura de como o Banco Central vai seguir o ciclo de cortes.
 
-Atualizado às 17:08 — não é recomendação de investimento.
+Atualizado às 18:08 — não é recomendação de investimento.
