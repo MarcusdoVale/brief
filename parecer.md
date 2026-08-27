@@ -1,32 +1,30 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O placar vira para cima se o exterior aliviar em Jackson Hole; vira para baixo se o dólar acelerar acima de R$ 5,17.
+**VEREDITO: comprador fraco (força 5/10) nas ações brasileiras.** A bolsa está firme, mas o cenário lá fora pesa. O placar vira para vendedor se o dólar romper com força os R$ 5,17 ou se sair discurso duro de dirigentes do Fed (o banco central dos EUA) em Jackson Hole.
 
-O que mandou hoje foi a cautela vinda de fora. A bolsa vem de cinco a seis altas seguidas e agora perdeu força: negocia praticamente de lado, perto de 174.586 pontos, enquanto o dólar sobe para cerca de R$ 5,15. O motivo é que a inflação americana (o índice PCE, medida de preços preferida do banco central dos EUA) veio um pouco acima do esperado, o que deixa o Federal Reserve (o banco central americano) sem pressa para cortar juros — isso firma o dólar e pede mais cuidado. No lado bom, o Brasil trouxe dado de emprego forte e o mercado segue apostando em corte da Selic (a taxa básica de juros) em setembro, o que reduz o custo do crédito e direciona o dinheiro para as ações.
+O que mandou no mercado hoje foi o exterior. A inflação americana veio mais alta que o esperado nos últimos dados e reacendeu a conversa de que o Fed pode não cortar juros tão cedo — isso firma o dólar e deixa o investidor mais cauteloso com bolsa. Mesmo assim, o Ibovespa segue perto da máxima, na sexta alta seguida, sustentado por bancos e por nomes ligados a commodities. No Brasil, o destaque foi o mercado de trabalho: o desemprego caiu para o menor nível da série histórica, sinal de economia aquecida.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Desemprego Brasil (PNAD, trim. até julho) | 5,3% | ~5,4% | 5,8% | Mercado de trabalho aquecido; bom para consumo, mas pouco espaço para juros caírem rápido |
-| PCE EUA (cheio, divulgado 26/08) | 3,7% ao ano | 3,6% | 3,6% | Inflação americana um pouco acima do previsto; Fed sem pressa para cortar juros |
-| PCE núcleo EUA (26/08) | 3,3% ao ano | 3,3% | 3,3% | Em linha; alívio parcial |
-| Selic (aposta de setembro) | — | corte de 0,25 p.p. → 13,75% | 14,00% | Mercado ainda vê um corte; sustenta a bolsa |
+| Desemprego Brasil (trim. até julho) | 5,3% | ~5,5% | 5,8% | Recorde de baixa; economia forte, mas emprego cheio pressiona a inflação e deixa o Banco Central sem pressa para cortar a Selic |
+| PIB EUA 2º tri (2ª leitura, saiu ontem) | 1,5% | 1,5% | 1,6% (1º tri) | Crescimento americano desacelerando |
+| Pedidos de auxílio-desemprego EUA | sem dado | — | — | Sai 09h30 (Brasília); mede o emprego semanal nos EUA |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| A partir de hoje (27–29/08) | Início do Simpósio de Jackson Hole (encontro anual do Fed) | Falas de dirigentes podem mexer com o dólar |
-| Sexta, 28/08, manhã | Discurso do presidente do Fed, Kevin Warsh | Pode indicar o rumo dos juros nos EUA; alta volatilidade |
-| 09h30 | EUA: pedidos de auxílio-desemprego | Termômetro do emprego americano |
+| 09h30 | Pedidos de auxílio-desemprego (EUA) | Termômetro do emprego americano; move dólar |
+| a partir da tarde | Início do simpósio de Jackson Hole (Fed) | Discursos de dirigentes podem mexer com a aposta de juros nos EUA e com o dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Apoio perto de 173.000; resistência na máxima recente. Sem força para romper com o exterior tenso |
-| Dólar | R$ 5,15 no radar; acima de R$ 5,17 liga o alerta, abaixo de R$ 5,12 alivia |
-| Setores | Cuidado com nomes de consumo (Assaí caiu 6,6%, Renner 2,5%) e com Braskem (−14,4%). Bancos e Vale seguram o índice |
+| Ibovespa | Perto de 174,6 mil pontos; suporte na casa dos 173 mil, resistência acima da máxima recente |
+| Dólar | R$ 5,15; atenção acima de R$ 5,17 (pressão externa) e apoio perto de R$ 5,12 |
+| Setores | Bancos e commodities sustentam; cuidado com varejo (Assaí e Renner em queda) e Braskem, muito pressionada |
 
-**Resumo.** Favorece a alta: aposta de corte da Selic e emprego forte no Brasil. Favorece a baixa: inflação americana resistente, dólar firme e a espera pelo discurso de sexta em Jackson Hole. Para o daytrade, o dia pede mão leve: a direção deve vir mais do exterior do que de casa.
+**Resumo:** Favorece o comprador o emprego forte no Brasil e a bolsa em sequência de altas; favorece o vendedor o dólar firme e o receio de que o Fed segure os juros altos. O próximo gatilho vem de Jackson Hole e, amanhã, da inflação PCE dos EUA (a medida de preços preferida do Fed). Dia de operar com atenção à volatilidade externa.
 
-Atualizado às 12:08 — não é recomendação de investimento.
+Atualizado às 13:12 — não é recomendação de investimento.
