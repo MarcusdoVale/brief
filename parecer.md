@@ -1,30 +1,32 @@
-**VEREDITO: comprador com cautela nas ações brasileiras — força 5/10.** O placar muda com os pedidos de auxílio-desemprego dos EUA (09:30) e, na sexta, com o discurso do presidente do Fed em Jackson Hole.
+**VEREDITO: levemente vendedor nas ações brasileiras — força 4 de 10.** O placar vira para comprador se os dirigentes do Fed em Jackson Hole suavizarem o discurso; vira mais vendedor se o PIB dos EUA vier forte e o dólar romper R$ 5,17.
 
-O Ibovespa vinha de seis altas seguidas, mas ontem fechou praticamente de lado (perto de 174.600 pontos), e o dólar subiu para cerca de R$ 5,15. O que pesou foi lá fora: a inflação nos EUA medida pelo PCE (o índice preferido do Federal Reserve, o banco central americano) veio mais forte que o esperado, com o núcleo em 3,3% ao ano. Isso deixa o Fed sem pressa para cortar juros e tende a firmar o dólar — clima de cautela no exterior. Aqui dentro o cenário é melhor: a inflação mais fraca reforça a aposta de novos cortes da Selic, o que reduz o custo do crédito e direciona o dinheiro para as ações.
+O que mandou no mercado foi o exterior. A inflação americana veio mais quente que o esperado e reacendeu a conversa de que o Fed (o banco central dos EUA) pode até subir juros em vez de cortar, o que esfria o apetite por risco e firma o dólar. Aqui dentro o cenário é bom: o desemprego caiu para 5,3%, o menor da história para o período, mostrando mercado de trabalho forte sem disparar salários. O Ibovespa está perto da máxima, mas empacou depois de seis altas seguidas; hoje o peso vem de fora, com Jackson Hole (encontro de banqueiros centrais) e o relatório de emprego dos EUA amanhã travando quem quer comprar.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Desemprego Brasil (PNAD, trimestre até julho) | aguardando (~09:00) | sem dado | 5,4% | mercado de trabalho aquecido sustenta consumo, mas atrasa a queda dos juros |
-| Auxílio-desemprego EUA (semanal) | aguardando (09:30) | ~230 mil | 206 mil | número baixo = emprego forte, dólar firme e cautela |
+| Desemprego (PNAD, jul) | 5,3% | 5,3–5,4% | 5,8% | Emprego forte; renda sustenta consumo |
+| PIB EUA 2º tri (2ª leitura) | ~09:30 | sem dado | — | Se forte, Fed sem pressa p/ cortar |
+| Pedidos seguro-desemprego EUA | ~09:30 | sem dado | — | Termômetro do emprego americano |
+| Conta corrente Brasil (jul) | ~11:30 | déficit US$ 6,6 bi | — | Brasil depende de capital externo |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09:30 | Pedidos de auxílio-desemprego (EUA) | prévia da força do emprego americano; forte firma o dólar |
-| 10:00 | Abertura de Jackson Hole (Fed) | encontro de bancos centrais; o discurso decisivo é na sexta |
-| Sexta, 11:00 | Discurso de Kevin Warsh (presidente do Fed) | pode definir o rumo dos juros nos EUA — maior volatilidade da semana |
+| 09:30 | PIB EUA 2º tri + seguro-desemprego | Dado forte pressiona dólar e juros |
+| Ao longo do dia | Jackson Hole — falas de dirigentes do Fed | Podem endurecer ou suavizar o tom |
+| Amanhã (28) | Payroll EUA + fala de Warsh (Fed) | Maior evento da semana |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | ~174.600 pts; suporte em 173.000, resistência ~176.300 (máxima recente) |
-| Dólar | ~R$ 5,15; acima de R$ 5,17 acende alerta, cautela externa firma a moeda |
-| Setores | bancos e Petrobras sustentaram; consumo pressionado (Assaí, Renner); Braskem despencou |
+| Ibovespa | Suporte ~174.200; resistência ~176.300 |
+| Dólar | R$ 5,15; atenção se romper R$ 5,17 |
+| Setores | Consumo fraco (Assaí, Renner); Braskem despencou 14% |
 
-**Resumo.** Favorece o comprador: inflação local mais fraca e aposta de corte da Selic. Favorece o vendedor: inflação teimosa nos EUA, dólar firme e cautela antes de Jackson Hole. Com o discurso-chave só na sexta, hoje tende a ficar mais parado; jobless claims às 09:30 é o gatilho do dia.
+**Resumo:** Favorece a alta o emprego forte e a queda da Selic (juro básico, hoje em 14%), que reduz o custo do crédito e direciona o dinheiro para as ações. Favorece a baixa a inflação americana quente, o discurso mais duro de dirigentes do Fed e o dólar em alta. Com Jackson Hole hoje e o payroll amanhã, o dia pede cautela: melhor esperar a reação aos dados dos EUA antes de montar posição grande.
 
-Atualizado às 09:12 — não é recomendação de investimento.
+Atualizado às 10:12 — não é recomendação de investimento.
