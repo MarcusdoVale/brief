@@ -1,29 +1,31 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: se os dirigentes do Fed em Jackson Hole reforçarem tom duro (juros altos por mais tempo), o dólar firma e a bolsa perde fôlego.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o Ibovespa perder os 175.000 pontos (quebra da sequência de alta) ou se a leitura fiscal de hoje decepcionar.
 
-O mercado brasileiro está dividido entre uma boa notícia em casa e uma cautela lá fora. Aqui dentro, a inflação surpreendeu para baixo e abre mais espaço para o Banco Central continuar cortando os juros, o que direciona o dinheiro para as ações. Lá fora, a prévia da inflação dos EUA (o índice PCE, o preferido do Fed) veio mais alta que o esperado na quarta, o que deixa o banco central americano sem pressa para cortar juros e firma o dólar — daí a mistura de bolsa de lado e dólar em leve alta hoje.
+Antes da abertura (bolsa abre às 10h), o cenário segue favorável a quem está comprado. O Ibovespa fechou ontem a **175.135 pontos**, na sétima alta seguida, e o dólar em **R$ 5,162**. O que sustenta o movimento é a inflação em queda no Brasil, que reforça a aposta de mais um corte da Selic (a taxa básica de juros) na reunião do Copom de 16 de setembro. Juro mais baixo reduz o custo do crédito e direciona o dinheiro para as ações. Hoje o humor depende da leitura fiscal (dívida e contas do governo) e do exterior, ainda cauteloso.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Ibovespa (fechamento) | 174.586 pts (+0,01%) | — | — | 6º pregão seguido de alta, mas praticamente de lado |
-| Dólar (fechamento) | R$ 5,151 (+0,22%) | — | R$ 5,140 | Leve alta, pressionado pelo exterior |
-| IPCA-15 agosto (saiu dia 26) | −0,40% | −0,30% | +0,06% | Prévia da inflação: deflação maior que a esperada; reforça a aposta de corte da Selic (bom para a bolsa) |
+| IGP-M de agosto (índice de preços que reajusta aluguéis) | -0,22% | ~-0,36% (prévia) | -1,16% | Preços caindo de novo confirma inflação em desaceleração — abre espaço para corte de juros (bom para a bolsa) |
+| Caged de julho (empregos formais) | sem dado (sai hoje) | sem dado | — | Emprego forte esquenta a economia; fraco reforça corte de juros |
+| Resultado primário do governo (contas públicas) | sem dado (sai hoje) | sem dado | — | Rombo maior que o esperado assusta e pressiona o dólar |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Ao longo do dia | Discursos de dirigentes do Fed (simpósio de Jackson Hole) | Falas sobre juros podem mexer com o dólar e o humor global |
+| Manhã | Resultado fiscal e Caged (Brasil) | Mexem com o risco-país e com o dólar |
+| 11h | Confiança do Consumidor dos EUA (leitura final, U. Michigan) | Prévia veio fraca (51); consumidor pessimista reforça aposta de corte de juros lá fora |
+| Dia todo | Simpósio de Jackson Hole (banqueiros centrais) | Falas podem mexer com o dólar global |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte perto de 173.000; resistência na região dos 175.000. Sexto dia de alta pede atenção a realização de lucros |
-| Dólar | Faixa de R$ 5,10–5,17; exterior duro empurra para o teto |
-| Setores | Bancos e consumo se beneficiam da aposta em corte de juros; exportadoras seguem o dólar |
+| Ibovespa | Piso 175.000 (segura a sequência de alta); acima disso, comprador no controle. Perder esse nível é sinal de fôlego acabando |
+| Dólar | Ao redor de R$ 5,16; leitura fiscal ruim pode empurrar para cima |
+| Setores | Empresas endividadas e construtoras se beneficiam do juro menor; atenção a bancos e commodities pelo exterior |
 
-**Resumo.** A favor da bolsa: inflação em casa mais fraca, que sustenta a aposta de novos cortes da Selic. Contra: inflação americana mais alta e Fed sem pressa, que firmam o dólar e pedem cautela no cenário externo. O próximo gatilho são as falas de Jackson Hole e a leitura de como o Banco Central vai seguir o ciclo de cortes.
+**Resumo:** favorece o comprador a inflação em queda e a aposta firme de corte da Selic em setembro. Contra, pesa o exterior cauteloso — a inflação americana (PCE) veio um pouco mais forte na quarta e deixa o Fed sem pressa para cortar juros, o que firma o dólar. O gatilho do dia é a leitura fiscal: contas ruins podem interromper a sequência de alta.
 
-Atualizado às 18:08 — não é recomendação de investimento.
+Atualizado às 08:09 — não é recomendação de investimento.
