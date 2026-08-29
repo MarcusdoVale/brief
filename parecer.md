@@ -1,31 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o Ibovespa perder os 175.000 pontos (quebra da sequência de alta) ou se a leitura fiscal de hoje decepcionar.
+**VEREDITO: vendedor nas ações brasileiras — força 5 de 10.** O placar vira para comprador se o dólar recuar dos R$ 5,20 e a bolsa segurar os 174 mil pontos.
 
-Antes da abertura (bolsa abre às 10h), o cenário segue favorável a quem está comprado. O Ibovespa fechou ontem a **175.135 pontos**, na sétima alta seguida, e o dólar em **R$ 5,162**. O que sustenta o movimento é a inflação em queda no Brasil, que reforça a aposta de mais um corte da Selic (a taxa básica de juros) na reunião do Copom de 16 de setembro. Juro mais baixo reduz o custo do crédito e direciona o dinheiro para as ações. Hoje o humor depende da leitura fiscal (dívida e contas do governo) e do exterior, ainda cauteloso.
+O dia é de cautela externa. Kevin Warsh, novo presidente do Federal Reserve (o banco central dos EUA), falou hoje de manhã no encontro de Jackson Hole e adotou tom mais duro: disse que a inflação americana ainda está alta e chegou a admitir que pode ser preciso **subir os juros**, não cortar. O mercado esperava sinais de corte em setembro, então foi uma surpresa ruim. Isso firma o dólar lá fora, pressiona o real e tira o fôlego da bolsa, que vinha de sete altas seguidas e opera perto da máxima histórica — terreno propício a realização de lucros. No Brasil, o IGP-M de agosto veio negativo (deflação), o que ajuda a inflação, mas hoje pesa menos que o exterior.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IGP-M de agosto (índice de preços que reajusta aluguéis) | -0,22% | ~-0,36% (prévia) | -1,16% | Preços caindo de novo confirma inflação em desaceleração — abre espaço para corte de juros (bom para a bolsa) |
-| Caged de julho (empregos formais) | sem dado (sai hoje) | sem dado | — | Emprego forte esquenta a economia; fraco reforça corte de juros |
-| Resultado primário do governo (contas públicas) | sem dado (sai hoje) | sem dado | — | Rombo maior que o esperado assusta e pressiona o dólar |
+| IGP-M (ago, FGV) | -0,22% | sem dado | -1,16% | Preços no atacado ainda caem; alívio para a inflação |
+| CAGED emprego formal (jul) | 14h30 | sem dado | +100 mil | Mede a força do emprego; sai à tarde |
+| Discurso Warsh (Fed) | tom duro | — | — | Reduz a aposta de corte de juros nos EUA; firma o dólar |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Manhã | Resultado fiscal e Caged (Brasil) | Mexem com o risco-país e com o dólar |
-| 11h | Confiança do Consumidor dos EUA (leitura final, U. Michigan) | Prévia veio fraca (51); consumidor pessimista reforça aposta de corte de juros lá fora |
-| Dia todo | Simpósio de Jackson Hole (banqueiros centrais) | Falas podem mexer com o dólar global |
+| ~11h (já ocorreu) | Discurso de Warsh em Jackson Hole | Move dólar e bolsa no mundo todo |
+| 14h30 | CAGED (emprego formal de julho) | Emprego forte ajuda o real e o consumo |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Piso 175.000 (segura a sequência de alta); acima disso, comprador no controle. Perder esse nível é sinal de fôlego acabando |
-| Dólar | Ao redor de R$ 5,16; leitura fiscal ruim pode empurrar para cima |
-| Setores | Empresas endividadas e construtoras se beneficiam do juro menor; atenção a bancos e commodities pelo exterior |
+| Ibovespa | Suporte 174 mil; resistência na máxima ~175,5 mil. Vale e bancos puxando para baixo |
+| Dólar | ~R$ 5,21 (alta de ~1%). Acima de R$ 5,25 aumenta a cautela; abaixo de R$ 5,20 alivia |
 
-**Resumo:** favorece o comprador a inflação em queda e a aposta firme de corte da Selic em setembro. Contra, pesa o exterior cauteloso — a inflação americana (PCE) veio um pouco mais forte na quarta e deixa o Fed sem pressa para cortar juros, o que firma o dólar. O gatilho do dia é a leitura fiscal: contas ruins podem interromper a sequência de alta.
+**Resumo:** Favorece o vendedor o tom duro do Fed, o dólar em alta e a bolsa esticada após sete pregões de ganho. Favorece o comprador a deflação do IGP-M e um Copom que ainda pode cortar a Selic em setembro (hoje em 14%). Fique de olho no CAGED às 14h30 e no comportamento do dólar; se ele recuar, a bolsa tende a se firmar.
 
-Atualizado às 08:09 — não é recomendação de investimento.
+Atualizado às 13:12 — não é recomendação de investimento.
