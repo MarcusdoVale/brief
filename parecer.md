@@ -1,29 +1,27 @@
-**VEREDITO: vendedor nas ações brasileiras — força 5 de 10.** O placar vira para comprador se o dólar recuar dos R$ 5,20 e a bolsa segurar os 174 mil pontos.
+**VEREDITO: neutro — força 5/10. Mercado fechado (sábado). O placar de segunda depende do PMI industrial do Brasil e do humor externo antes do payroll de sexta.**
 
-O dia é de cautela externa. Kevin Warsh, novo presidente do Federal Reserve (o banco central dos EUA), falou hoje de manhã no encontro de Jackson Hole e adotou tom mais duro: disse que a inflação americana ainda está alta e chegou a admitir que pode ser preciso **subir os juros**, não cortar. O mercado esperava sinais de corte em setembro, então foi uma surpresa ruim. Isso firma o dólar lá fora, pressiona o real e tira o fôlego da bolsa, que vinha de sete altas seguidas e opera perto da máxima histórica — terreno propício a realização de lucros. No Brasil, o IGP-M de agosto veio negativo (deflação), o que ajuda a inflação, mas hoje pesa menos que o exterior.
+A B3 não abre no fim de semana, então não há preço novo hoje. Na sexta (28/08) a bolsa fechou no positivo pela sétima sessão seguida, puxada pela Petrobras (PETR4 subiu cerca de 3% após decisão na Justiça sobre a taxa de exportação de petróleo). O dólar rondou os R$ 5,16–5,20. O tom da semana foi de bolsa firme com o investidor de olho na aposta de corte da Selic (juros básicos) e na agenda cheia dos EUA que vem pela frente.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| IGP-M (ago, FGV) | -0,22% | sem dado | -1,16% | Preços no atacado ainda caem; alívio para a inflação |
-| CAGED emprego formal (jul) | 14h30 | sem dado | +100 mil | Mede a força do emprego; sai à tarde |
-| Discurso Warsh (Fed) | tom duro | — | — | Reduz a aposta de corte de juros nos EUA; firma o dólar |
+| — | Mercado fechado | — | — | Sábado, sem pregão e sem divulgação de dados |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~11h (já ocorreu) | Discurso de Warsh em Jackson Hole | Move dólar e bolsa no mundo todo |
-| 14h30 | CAGED (emprego formal de julho) | Emprego forte ajuda o real e o consumo |
+| — | Sem eventos de alto impacto hoje (sábado) | Fique atento à semana: seg 01/09 PMI industrial (Brasil ~10h, EUA ~10h45 e ISM ~11h); qua 03/09 ADP, prévia do emprego privado dos EUA (~09h15); qui 04/09 ISM de Serviços (~11h), que mostra a maior parte da economia americana; sex 05/09 payroll, o relatório de emprego dos EUA (~09h30) — o dado mais forte da semana |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte 174 mil; resistência na máxima ~175,5 mil. Vale e bancos puxando para baixo |
-| Dólar | ~R$ 5,21 (alta de ~1%). Acima de R$ 5,25 aumenta a cautela; abaixo de R$ 5,20 alivia |
+| Ibovespa | Fechou sexta em ~175.660 pontos, em máxima. Sequência de 7 altas pode gerar realização de lucros na segunda; observe se segura acima dos 174 mil |
+| Dólar | Faixa de R$ 5,16–5,20. Dado americano forte na semana (emprego, ISM) tende a firmar o dólar; dado fraco ajuda o real |
+| Petrobras/petróleo | Motor da alta de sexta por questão judicial; acompanhe o petróleo e novos capítulos da taxa de exportação |
 
-**Resumo:** Favorece o vendedor o tom duro do Fed, o dólar em alta e a bolsa esticada após sete pregões de ganho. Favorece o comprador a deflação do IGP-M e um Copom que ainda pode cortar a Selic em setembro (hoje em 14%). Fique de olho no CAGED às 14h30 e no comportamento do dólar; se ele recuar, a bolsa tende a se firmar.
+**Resumo:** favorece a bolsa a expectativa de corte de juros no Brasil e o exterior calmo; joga contra uma sequência longa de altas (risco de realização) e a agenda pesada dos EUA, que começa segunda com os PMIs e termina sexta no payroll. Emprego americano forte reduz a pressa do Fed (banco central dos EUA) em cortar juros e firma o dólar — cautela; emprego fraco reforça a aposta de corte e ajuda a bolsa. Semana de decisão externa: comece leve e espere os dados.
 
-Atualizado às 13:12 — não é recomendação de investimento.
+Atualizado às 05:47 — não é recomendação de investimento.
