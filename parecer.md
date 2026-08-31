@@ -1,29 +1,31 @@
-**VEREDITO: comprador, força 6 de 10 (nas ações brasileiras).** O que muda o placar: a bateria de dados da semana — PIB do Brasil amanhã cedo e emprego dos EUA (payroll) na sexta.
+**VEREDITO: comprador nas ações brasileiras — força 7 de 10.** O placar vira se o exterior azedar ou se pesquisas eleitorais trouxerem surpresa; hoje o vento está a favor.
 
-A bolsa entra no último pregão do mês em alta (Ibovespa perto dos 180 mil pontos no futuro), na contramão da cautela lá fora, e o dólar recua para cerca de R$ 5,17. O motor é a expectativa de corte de juros: a prévia da inflação veio abaixo do esperado e consolidou a aposta de que o Copom (comitê que define a Selic, a taxa básica de juros) começa a cortar já na próxima semana. Juro menor reduz o custo do crédito e direciona o dinheiro para as ações. Hoje o destaque doméstico foi fiscal: a dívida pública e o resultado das contas do governo em julho.
+A bolsa entra no último pregão do mês em forte alta, subindo cerca de 1,45% aos 178,2 mil pontos, com o dólar recuando para perto de R$ 5,17. Puxam o índice a disparada do petróleo (que favorece a Petrobras) e o apetite por risco lá fora, com o índice do dólar no mundo (DXY) em queda. O ambiente ajuda o real e as ações. No pano de fundo, o mercado acompanha as pesquisas eleitorais e uma semana cheia de indicadores.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Dívida bruta (% do PIB, julho) | 82,5% | sem dado | — | Dívida ainda alta; mantém cautela com o fiscal |
-| Superávit primário do setor público (julho) | R$ 1,36 bi | sem dado | — | Contas no azul no mês; leve alívio |
-| Selic (atual) | 14,00% | — | 14,00% | Mercado projeta corte na próxima semana |
+| Boletim Focus (Selic fim de 2026) | 13,75% | — | 13,75% | Mercado mantém aposta de mais um corte de juros em setembro (bom para a bolsa) |
+| Focus (IPCA 2026, a inflação do ano) | 5,03% | — | 5,03% | Inflação projetada estável, sem novo susto |
+| PMI de Chicago (EUA, atividade industrial) — ~10h45 | aguardando | 57,8 | 57,6 | Acima de 50 = indústria crescendo; se vier forte, deixa o Fed sem pressa para cortar juros |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| — | Sem eventos de alto impacto hoje | Dia de dado fiscal doméstico; a semana carrega o peso (PIB Brasil amanhã ~09h; ISM industrial EUA amanhã 11h; payroll sexta 09h30) |
+| ~10h45 | PMI de Chicago (EUA) | Move o dólar e o humor externo |
+
+Dia doméstico esvaziado; a semana esquenta amanhã com o PIB do Brasil (2º tri) e, na sexta, o payroll (emprego dos EUA).
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Perto dos 180 mil (futuro); segue firme se mantiver o embalo do corte de juros |
-| Dólar | R$ 5,17; queda ajuda a bolsa, mas atenção ao cenário eleitoral apertado |
-| Setores | Bancos, varejo e construção reagem mais ao corte de juros |
+| Ibovespa | Rompeu 178 mil; enquanto segurar acima dos 176 mil, viés comprador. Perda desse piso pede cautela |
+| Dólar | R$ 5,17 com o real forte; de olho na faixa R$ 5,15–5,20 |
+| Setores | Petrobras e bancos liderando; Natura salta ~8% após troca de comando |
 
-**Resumo.** A favor do comprador: dólar em queda, inflação comportada e aposta de corte da Selic firme. Contra: dívida ainda alta, disputa eleitoral apertada e uma semana pesada de dados que pode trazer volatilidade. Amanhã cedo o PIB do 2º trimestre (FGV prévia: +0,3%) dá o próximo tom; se vier fraco, esfria o crescimento mas reforça o espaço para cortar juros.
+**Resumo:** Favorecem a alta o petróleo em disparada, o dólar fraco no mundo e a expectativa firme de corte da Selic. Contra jogam o ruído eleitoral e a agenda pesada dos EUA na semana (payroll na sexta), que podem trazer realização de lucros. Hoje o cenário pende para o comprador, mas sem exageros perto de resistência.
 
-Atualizado às 12:09 — não é recomendação de investimento.
+Atualizado às 13:09 — não é recomendação de investimento.
