@@ -1,31 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 7 de 10.** O placar vira se o exterior azedar ou se pesquisas eleitorais trouxerem surpresa; hoje o vento está a favor.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se as pesquisas eleitorais mudarem de tom ou se o dólar voltar a subir forte.
 
-A bolsa entra no último pregão do mês em forte alta, subindo cerca de 1,45% aos 178,2 mil pontos, com o dólar recuando para perto de R$ 5,17. Puxam o índice a disparada do petróleo (que favorece a Petrobras) e o apetite por risco lá fora, com o índice do dólar no mundo (DXY) em queda. O ambiente ajuda o real e as ações. No pano de fundo, o mercado acompanha as pesquisas eleitorais e uma semana cheia de indicadores.
+O que manda hoje é interno: novas pesquisas mostram disputa mais acirrada para outubro, e isso animou a bolsa. Some-se a alta do petróleo (bom para a Petrobras) e um ambiente externo mais calmo. Lá fora, um dado fraco de indústria nos EUA reforçou a aposta de que o banco central americano (Fed) vai cortar juros, o que ajuda o real e as bolsas. O Ibovespa opera perto de 178,5 mil pontos, em alta de cerca de 1%, e o dólar recua na casa de R$ 5,19.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Boletim Focus (Selic fim de 2026) | 13,75% | — | 13,75% | Mercado mantém aposta de mais um corte de juros em setembro (bom para a bolsa) |
-| Focus (IPCA 2026, a inflação do ano) | 5,03% | — | 5,03% | Inflação projetada estável, sem novo susto |
-| PMI de Chicago (EUA, atividade industrial) — ~10h45 | aguardando | 57,8 | 57,6 | Acima de 50 = indústria crescendo; se vier forte, deixa o Fed sem pressa para cortar juros |
+| Boletim Focus (Brasil) | IPCA 2026: 5,01% · Selic: 13,75% · PIB: 1,92% | — | IPCA 5,02% · PIB 1,95% | Mercado vê inflação e crescimento um pouco menores; juros parados por ora |
+| Chicago PMI (EUA, prévia da indústria) | 47,1 | 58,0 | 57,6 | Abaixo de 50 = indústria encolhendo; dado fraco dá mais espaço para o Fed cortar juros (ajuda bolsa e real) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~10h45 | PMI de Chicago (EUA) | Move o dólar e o humor externo |
+| Manhã (já saiu) | Boletim Focus | Mostra para onde o mercado vê juros e inflação |
+| ~10h45 (já saiu) | Chicago PMI (EUA) | Prévia da indústria americana; veio fraco |
 
-Dia doméstico esvaziado; a semana esquenta amanhã com o PIB do Brasil (2º tri) e, na sexta, o payroll (emprego dos EUA).
+Amanhã (1º) pesa mais: PIB do Brasil no 2º trimestre e PMI industrial (Brasil e EUA). Na sexta sai o payroll (emprego dos EUA).
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rompeu 178 mil; enquanto segurar acima dos 176 mil, viés comprador. Perda desse piso pede cautela |
-| Dólar | R$ 5,17 com o real forte; de olho na faixa R$ 5,15–5,20 |
-| Setores | Petrobras e bancos liderando; Natura salta ~8% após troca de comando |
+| Ibovespa | Segura acima de 178 mil = compradores no controle; perder 176 mil pede cautela |
+| Dólar | Abaixo de R$ 5,20 favorece a bolsa; acima de R$ 5,25 liga o alerta |
+| Setores | Petrobras e bancos puxando; fique atento ao ruído eleitoral |
 
-**Resumo:** Favorecem a alta o petróleo em disparada, o dólar fraco no mundo e a expectativa firme de corte da Selic. Contra jogam o ruído eleitoral e a agenda pesada dos EUA na semana (payroll na sexta), que podem trazer realização de lucros. Hoje o cenário pende para o comprador, mas sem exageros perto de resistência.
+**Resumo:** favorecem a compra a disputa eleitoral acirrada, o petróleo em alta e o dado fraco nos EUA (mais chance de corte de juros por lá). Contra, pesam o dólar ainda perto de R$ 5,20 e os grandes números de amanhã (PIB) e sexta (payroll), que podem mexer com tudo. Dia de viés comprador, mas sem exageros antes desses eventos.
 
-Atualizado às 13:09 — não é recomendação de investimento.
+Atualizado às 14:09 — não é recomendação de investimento.
