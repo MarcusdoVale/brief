@@ -1,31 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se as pesquisas eleitorais mudarem de tom ou se o dólar voltar a subir forte.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O que muda o placar: a semana pesada de dados nos EUA (ISM amanhã, emprego privado ADP na quarta e payroll na sexta) — número americano forte esfria o otimismo e firma o dólar.
 
-O que manda hoje é interno: novas pesquisas mostram disputa mais acirrada para outubro, e isso animou a bolsa. Some-se a alta do petróleo (bom para a Petrobras) e um ambiente externo mais calmo. Lá fora, um dado fraco de indústria nos EUA reforçou a aposta de que o banco central americano (Fed) vai cortar juros, o que ajuda o real e as bolsas. O Ibovespa opera perto de 178,5 mil pontos, em alta de cerca de 1%, e o dólar recua na casa de R$ 5,19.
+O dia começou favorável para a bolsa. O Boletim Focus (pesquisa semanal do Banco Central com economistas) baixou a projeção de inflação de 2026 para 5,03% e manteve a expectativa de mais um corte de juros ainda neste ano, com a Selic terminando 2026 em 13,75% (hoje está em 14,25%). Menos inflação e juro caindo reduzem o custo do crédito e direcionam o dinheiro para as ações. Com isso, o Ibovespa opera perto dos 177 mil pontos (alta de cerca de 0,8%), puxado por Petrobras, Vale e bancos, e o dólar recua para a casa de R$ 5,18. O mercado divide a atenção entre esse cenário interno positivo e a cautela lá fora.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Boletim Focus (Brasil) | IPCA 2026: 5,01% · Selic: 13,75% · PIB: 1,92% | — | IPCA 5,02% · PIB 1,95% | Mercado vê inflação e crescimento um pouco menores; juros parados por ora |
-| Chicago PMI (EUA, prévia da indústria) | 47,1 | 58,0 | 57,6 | Abaixo de 50 = indústria encolhendo; dado fraco dá mais espaço para o Fed cortar juros (ajuda bolsa e real) |
+| Focus – IPCA 2026 | 5,03% | — | 5,08% | Inflação projetada cede um pouco (bom para a bolsa) |
+| Focus – Selic fim 2026 | 13,75% | 13,75% | 13,75% | Mercado segue vendo mais um corte de juros no ano |
+| Dados fiscais julho (Brasil) | divulgado 8h30 | — | — | Dívida e resultado do governo; peso menor no dia |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Manhã (já saiu) | Boletim Focus | Mostra para onde o mercado vê juros e inflação |
-| ~10h45 (já saiu) | Chicago PMI (EUA) | Prévia da indústria americana; veio fraco |
-
-Amanhã (1º) pesa mais: PIB do Brasil no 2º trimestre e PMI industrial (Brasil e EUA). Na sexta sai o payroll (emprego dos EUA).
+| — | Sem eventos de alto impacto hoje | Focus já saiu (8h25); agenda forte só a partir de amanhã |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segura acima de 178 mil = compradores no controle; perder 176 mil pede cautela |
-| Dólar | Abaixo de R$ 5,20 favorece a bolsa; acima de R$ 5,25 liga o alerta |
-| Setores | Petrobras e bancos puxando; fique atento ao ruído eleitoral |
+| Ibovespa | Apoio nos 175 mil; resistência acima dos 177–178 mil |
+| Dólar | Faixa de R$ 5,15 a R$ 5,22; abaixo de 5,15 favorece a bolsa |
+| Setores | Petrobras, Vale e bancos sustentam o índice; cuidado com viradas no exterior |
 
-**Resumo:** favorecem a compra a disputa eleitoral acirrada, o petróleo em alta e o dado fraco nos EUA (mais chance de corte de juros por lá). Contra, pesam o dólar ainda perto de R$ 5,20 e os grandes números de amanhã (PIB) e sexta (payroll), que podem mexer com tudo. Dia de viés comprador, mas sem exageros antes desses eventos.
+**Resumo:** favorece o comprador o Focus melhor e o dólar em queda; joga contra a semana carregada nos EUA — ISM industrial amanhã (11h) e payroll na sexta (09h30). Dado americano forte deixa o Fed sem pressa para cortar juros e pressiona o real. Amanhã ainda sai o PIB do Brasil do 2º trimestre. Hoje o ambiente é calmo e positivo; a volatilidade volta a partir de terça.
 
-Atualizado às 14:09 — não é recomendação de investimento.
+Atualizado às 15:09 — não é recomendação de investimento.
