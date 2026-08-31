@@ -1,29 +1,30 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O que muda o placar: a semana pesada de dados nos EUA (ISM amanhã, emprego privado ADP na quarta e payroll na sexta) — número americano forte esfria o otimismo e firma o dólar.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: se a tensão entre EUA e Irã piorar e o petróleo continuar subindo, o humor vira para vendedor rápido.
 
-O dia começou favorável para a bolsa. O Boletim Focus (pesquisa semanal do Banco Central com economistas) baixou a projeção de inflação de 2026 para 5,03% e manteve a expectativa de mais um corte de juros ainda neste ano, com a Selic terminando 2026 em 13,75% (hoje está em 14,25%). Menos inflação e juro caindo reduzem o custo do crédito e direcionam o dinheiro para as ações. Com isso, o Ibovespa opera perto dos 177 mil pontos (alta de cerca de 0,8%), puxado por Petrobras, Vale e bancos, e o dólar recua para a casa de R$ 5,18. O mercado divide a atenção entre esse cenário interno positivo e a cautela lá fora.
+Hoje o mercado foi puxado por fora. Os EUA voltaram a atacar alvos do Irã perto do Estreito de Ormuz (rota-chave do petróleo), o barril do Brent disparou mais de 5% e as bolsas em Nova York abriram no vermelho. Mesmo assim, a bolsa brasileira segurou a alta perto dos 177 mil pontos e o dólar recuou na abertura, ajudada pela volta do dinheiro estrangeiro e pela expectativa de que o Banco Central comece a cortar a Selic (a taxa básica de juros) — o que reduz o custo do crédito e direciona o dinheiro para as ações. Por aqui, o foco também está nas pesquisas eleitorais e no envio do Orçamento de 2027 (PLOA) ao Congresso.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Focus – IPCA 2026 | 5,03% | — | 5,08% | Inflação projetada cede um pouco (bom para a bolsa) |
-| Focus – Selic fim 2026 | 13,75% | 13,75% | 13,75% | Mercado segue vendo mais um corte de juros no ano |
-| Dados fiscais julho (Brasil) | divulgado 8h30 | — | — | Dívida e resultado do governo; peso menor no dia |
+| Boletim Focus (Brasil) | divulgado | — | — | Projeções do mercado para juros, inflação, câmbio e PIB |
+| Chicago PMI (EUA, 10h45) | sem dado | 57,8 | 57,6 | Acima de 50 = indústria da região crescendo; leitura firme deixa o Fed sem pressa para cortar juros |
+| PIB do Brasil (2º tri) | só amanhã (09h) | sem dado | — | Mede o tamanho da economia; sai terça-feira |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| — | Sem eventos de alto impacto hoje | Focus já saiu (8h25); agenda forte só a partir de amanhã |
+| Ao longo do dia | Escalada EUA–Irã / Estreito de Ormuz | Petróleo em alta forte mexe com câmbio, Petrobras e o humor global |
+| 10h45 | Chicago PMI (EUA) | Prévia da atividade industrial americana |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Apoio nos 175 mil; resistência acima dos 177–178 mil |
-| Dólar | Faixa de R$ 5,15 a R$ 5,22; abaixo de 5,15 favorece a bolsa |
-| Setores | Petrobras, Vale e bancos sustentam o índice; cuidado com viradas no exterior |
+| Ibovespa | Resistência perto de 178 mil; suporte na região de 175 mil |
+| Dólar | Faixa de R$ 5,15 a R$ 5,25; petróleo em alta pode pressionar |
+| Setores | Petrobras e petroleiras favorecidas pelo petróleo; cautela em quem depende de importados |
 
-**Resumo:** favorece o comprador o Focus melhor e o dólar em queda; joga contra a semana carregada nos EUA — ISM industrial amanhã (11h) e payroll na sexta (09h30). Dado americano forte deixa o Fed sem pressa para cortar juros e pressiona o real. Amanhã ainda sai o PIB do Brasil do 2º trimestre. Hoje o ambiente é calmo e positivo; a volatilidade volta a partir de terça.
+**Resumo:** Favorece o comprador o fluxo estrangeiro e a aposta de corte da Selic; favorece o vendedor a piora entre EUA e Irã e o petróleo em disparada. Amanhã sai o PIB do Brasil (09h) e o PMI industrial; na sexta vem o payroll dos EUA (relatório de emprego). Dia de proteger posição em caso de manchete geopolítica.
 
-Atualizado às 15:09 — não é recomendação de investimento.
+Atualizado às 16:09 — não é recomendação de investimento.
