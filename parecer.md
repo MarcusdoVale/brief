@@ -1,30 +1,30 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: se a tensão entre EUA e Irã piorar e o petróleo continuar subindo, o humor vira para vendedor rápido.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O que muda o placar: os dados de amanhã (PIB do Brasil e emprego/indústria dos EUA) podem esfriar ou reforçar esse humor.
 
-Hoje o mercado foi puxado por fora. Os EUA voltaram a atacar alvos do Irã perto do Estreito de Ormuz (rota-chave do petróleo), o barril do Brent disparou mais de 5% e as bolsas em Nova York abriram no vermelho. Mesmo assim, a bolsa brasileira segurou a alta perto dos 177 mil pontos e o dólar recuou na abertura, ajudada pela volta do dinheiro estrangeiro e pela expectativa de que o Banco Central comece a cortar a Selic (a taxa básica de juros) — o que reduz o custo do crédito e direciona o dinheiro para as ações. Por aqui, o foco também está nas pesquisas eleitorais e no envio do Orçamento de 2027 (PLOA) ao Congresso.
+O dia foi de compra na bolsa. O Ibovespa subiu mais de 1% e passou dos 178 mil pontos, puxado por Petrobras (PETR4, +3%), bancos (até +2%) e Vale (VALE3, +1%), enquanto o dólar recuou para a faixa de R$ 5,17. Os juros futuros caíram: o mercado está mais convicto de um novo corte da Selic (a taxa básica de juros) na reunião do Copom de 16 de setembro — seria o 5º corte seguido, levando a Selic para 13,75%. Juros em queda reduzem o custo do crédito e direcionam o dinheiro para as ações, o que ajudou o dia.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Boletim Focus (Brasil) | divulgado | — | — | Projeções do mercado para juros, inflação, câmbio e PIB |
-| Chicago PMI (EUA, 10h45) | sem dado | 57,8 | 57,6 | Acima de 50 = indústria da região crescendo; leitura firme deixa o Fed sem pressa para cortar juros |
-| PIB do Brasil (2º tri) | só amanhã (09h) | sem dado | — | Mede o tamanho da economia; sai terça-feira |
+| Ibovespa | +1% (~178 mil pts) | — | — | Compra firme, bancos e commodities |
+| Dólar comercial | ~R$ 5,17 | — | ~R$ 5,20 | Real mais forte, aposta em corte de juros |
+
+Segunda-feira sem grandes indicadores no Brasil. A semana pesada começa amanhã.
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Ao longo do dia | Escalada EUA–Irã / Estreito de Ormuz | Petróleo em alta forte mexe com câmbio, Petrobras e o humor global |
-| 10h45 | Chicago PMI (EUA) | Prévia da atividade industrial americana |
+| Sem eventos de alto impacto hoje | — | Amanhã (01/09): PIB do Brasil 2º tri, PMI industrial Brasil, PMI industrial EUA (10h45), ISM industrial EUA (11h) e JOLTS (vagas de emprego). Sexta tem o payroll. |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Resistência perto de 178 mil; suporte na região de 175 mil |
-| Dólar | Faixa de R$ 5,15 a R$ 5,25; petróleo em alta pode pressionar |
-| Setores | Petrobras e petroleiras favorecidas pelo petróleo; cautela em quem depende de importados |
+| Ibovespa | 178 mil como resistência recente; sustentar acima é sinal comprador |
+| Dólar | R$ 5,15–5,20; abaixo de 5,15 favorece a bolsa |
+| Setores | Bancos e commodities lideraram; dado americano forte amanhã pode virar o humor |
 
-**Resumo:** Favorece o comprador o fluxo estrangeiro e a aposta de corte da Selic; favorece o vendedor a piora entre EUA e Irã e o petróleo em disparada. Amanhã sai o PIB do Brasil (09h) e o PMI industrial; na sexta vem o payroll dos EUA (relatório de emprego). Dia de proteger posição em caso de manchete geopolítica.
+**Resumo:** Favorece a compra a aposta crescente em corte da Selic, os juros futuros em queda e a força de bancos e Vale. Contra, o risco de amanhã: se o PIB brasileiro decepcionar ou o ISM/emprego dos EUA vier forte, o Fed fica sem pressa para cortar juros, o dólar tende a firmar e o humor esfria. Hoje o placar pende para o comprador, mas com cautela pela agenda cheia à frente.
 
-Atualizado às 16:09 — não é recomendação de investimento.
+Atualizado às 17:12 — não é recomendação de investimento.
