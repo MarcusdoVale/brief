@@ -1,33 +1,35 @@
-**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O placar muda com o PIB do 2º trimestre (12h) e com os dados de dívida pública (11h30): crescimento fraco reforça a aposta de corte de juros (bom para a bolsa), mas piora na dívida ou dólar firme pesam contra.
+**VEREDITO: comprador fraco nas ações brasileiras — força 5 de 10.** O que muda o placar: se o exterior piorar (futuros dos EUA e tensão no Oriente Médio), o vendedor assume; se a bolsa segurar os 175 mil pontos, o comprador volta a mandar.
 
-Manhã de agenda cheia no Brasil, com pouca coisa fechada ainda. O Ibovespa vem de oito altas seguidas e fechou sexta perto de 175.665 pontos, a cerca de 11% da máxima do ano — ou seja, esticado e no primeiro teste real do fôlego. O dólar fechou a R$ 5,19 e abre mais firme (indicação perto de R$ 5,21), pressionado pelo exterior: a fala dura do presidente do Federal Reserve (o banco central dos EUA) em Jackson Hole elevou a aposta de juros altos lá fora e enfraqueceu o real. A Selic (juro básico) está em 14% e o mercado ainda projeta 13,75% no fim de 2026.
+A bolsa chega hoje esticada, depois de uma sequência forte de altas (fechou perto de 175.665 pontos) e com o dólar recuando para cerca de R$ 5,19. O Boletim Focus, divulgado às 8h25, veio de leve alívio: o mercado baixou a projeção de inflação (IPCA) de 2026 de 5,02% para 5,01% e cortou a estimativa de crescimento (PIB) de 1,95% para 1,92% — economia mais fraca reforça o argumento de que há espaço para reduzir a Selic mais à frente (bom para as ações). Do lado de fora, o clima é de cautela: os futuros dos EUA operam em baixa e o petróleo sobe mais de 2% após novo confronto entre EUA e Irã no Estreito de Ormuz — isso ajuda a Petrobras, mas liga o alerta de risco no cenário global.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PIB 2º tri (trimestral) | sai 12h | 0,2% | 1,1% | Economia esfriando rápido; abre espaço para corte de juros |
-| Dívida bruta/PIB (jul) | sai 11h30 | 82% | 81,9% | Piora da dívida assusta e joga contra a bolsa |
-| Resultado primário (jul) | sai 11h30 | sem dado | -55,3 bi | Termômetro fiscal sob juro alto |
-| Focus (BC) | sai 11h30 | — | Selic 13,75%/2026 | Ver se cortaram projeção de juros |
+| Focus – IPCA 2026 | 5,01% | — | 5,02% | Inflação esperada cede de leve; alívio pequeno |
+| Focus – Selic 2026 | 13,75% | — | 13,75% | Sem mudança; corte fica para depois |
+| Focus – PIB 2026 | 1,92% | — | 1,95% | Crescimento mais fraco; dá mais espaço para corte de juros |
+| Focus – Dólar 2026 | R$ 5,20 | — | R$ 5,20 | Expectativa de câmbio estável |
+| Contas públicas (jul) | sem dado | sem dado | — | Resultado fiscal do governo sai ~8h30 |
+| PMI de Chicago (EUA) | a sair | sem dado | — | Prévia da indústria americana, ~10h45 (Brasília) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 11h30 | Dívida pública e primário (jul) | Move dólar e juros futuros antes de NY abrir |
-| 12h00 | PIB 2º tri | Define o tom do dia; mexe em bancos, varejo e construção |
+| ~10h45 | PMI de Chicago (EUA) | Termômetro da indústria dos EUA; pode mexer com dólar |
 
-Na semana ainda vêm PMI industrial (amanhã, 1º dia útil), ADP dos EUA (quarta ~09h15) e o payroll dos EUA (sexta, 09h30).
+Dia sem evento de altíssimo impacto (3 estrelas). A semana, porém, é pesada nos EUA: ISM industrial (terça), ADP – prévia do emprego privado (quarta, ~09h15) e o relatório oficial de emprego, o payroll (sexta, ~09h30). Dado americano forte deixa o banco central dos EUA (Fed) sem pressa para cortar juros e tende a firmar o dólar.
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | 175,7 mil é o piso recente; rally esticado, cuidado com realização |
-| Dólar | R$ 5,19 de apoio; dívida acima de 82% pode levar a R$ 5,21+ |
-| Setores | Materiais/mineração firmes (Vale, Suzano); consumo e elétricas fracos |
+| Ibovespa | Suporte na casa dos 175 mil / 174 mil pontos; resistência nas máximas recentes. Rally esticado pede cautela com realização de lucros |
+| Dólar | Região de R$ 5,19–5,20; alta do dólar lá fora pode pressionar |
+| Petrobras / petróleo | Brent acima de US$ 90 com a tensão EUA-Irã; favorece o setor, mas é gatilho de volatilidade |
+| Setores sensíveis a juros | Varejo e construção seguem o humor sobre corte da Selic |
 
-**Resumo:** favorecem os compradores um PIB fraco que reforce corte de juros e o bom humor das commodities. Jogam contra a dívida em alta, o dólar firme e a pressão externa vinda do Fed, além da bolsa já muito esticada. O gatilho do dia é a hora entre 11h30 e 12h; até lá, o mercado tende a esperar.
+**Resumo:** favorece o comprador o momentum recente, o dólar em queda e o Focus levemente melhor. Favorece o vendedor o exterior tenso (futuros dos EUA em baixa, conflito no Oriente Médio) e a bolsa esticada perto das máximas. O que vem a seguir manda no humor: o PIB do 2º trimestre (terça) no Brasil e a bateria de dados de emprego dos EUA ao longo da semana. Sem gatilho externo forte hoje, tende a ser um pregão de ajuste fino.
 
-Atualizado às 08:12 — não é recomendação de investimento.
+Atualizado às 09:10 — não é recomendação de investimento.
