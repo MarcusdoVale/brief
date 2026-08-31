@@ -1,31 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o dado de emprego dos EUA (payroll, na sexta) vier forte e travar a aposta de corte de juros por lá.
+**VEREDITO: comprador, força 6 de 10 (nas ações brasileiras).** O que muda o placar: a bateria de dados da semana — PIB do Brasil amanhã cedo e emprego dos EUA (payroll) na sexta.
 
-O que mandou no mercado foi o clima positivo lá fora e a leve melhora nas contas de casa. O Ibovespa opera perto dos 180 mil pontos e o dólar cede para cerca de R$ 5,17, com investidores animados. O Boletim Focus de hoje trouxe pequena queda na inflação e no PIB esperados para 2026 e manteve a taxa básica de juros (Selic) e o dólar projetados. Nada que assuste: é um começo de semana mais calmo, antes dos números pesados que vêm a seguir (PIB do Brasil amanhã e emprego dos EUA na sexta).
+A bolsa entra no último pregão do mês em alta (Ibovespa perto dos 180 mil pontos no futuro), na contramão da cautela lá fora, e o dólar recua para cerca de R$ 5,17. O motor é a expectativa de corte de juros: a prévia da inflação veio abaixo do esperado e consolidou a aposta de que o Copom (comitê que define a Selic, a taxa básica de juros) começa a cortar já na próxima semana. Juro menor reduz o custo do crédito e direciona o dinheiro para as ações. Hoje o destaque doméstico foi fiscal: a dívida pública e o resultado das contas do governo em julho.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Focus – IPCA 2026 (inflação esperada) | 5,01% | — | 5,02% | Leve alívio na inflação; bom para a bolsa |
-| Focus – Selic 2026 (juros) | 13,75% | — | 13,75% | Estável; mercado sem pressa de mudar a aposta |
-| Focus – PIB 2026 (crescimento) | 1,92% | — | 1,95% | Economia um pouco mais fraca à frente |
-| Contas do governo (resultado primário jul.) | divulgado 8h30 | sem dado | — | Mede se o governo gastou mais do que arrecadou |
-| PMI de Chicago – EUA (Ago) | 10h45 | 57,8 | 57,6 | Prévia da indústria americana; acima de 50 = crescendo |
+| Dívida bruta (% do PIB, julho) | 82,5% | sem dado | — | Dívida ainda alta; mantém cautela com o fiscal |
+| Superávit primário do setor público (julho) | R$ 1,36 bi | sem dado | — | Contas no azul no mês; leve alívio |
+| Selic (atual) | 14,00% | — | 14,00% | Mercado projeta corte na próxima semana |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 10h45 | PMI de Chicago (EUA, Ago) | Termômetro regional da indústria americana; mexe com o dólar |
+| — | Sem eventos de alto impacto hoje | Dia de dado fiscal doméstico; a semana carrega o peso (PIB Brasil amanhã ~09h; ISM industrial EUA amanhã 11h; payroll sexta 09h30) |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segura acima dos 180 mil? Zona de topo recente; cuidado com realização de lucro |
-| Dólar | R$ 5,17 no radar; se furar para baixo, ajuda a bolsa |
-| Semana | Amanhã sai o PIB do Brasil; quarta o ADP (prévia do emprego dos EUA); sexta o payroll — dias de maior balanço |
+| Ibovespa | Perto dos 180 mil (futuro); segue firme se mantiver o embalo do corte de juros |
+| Dólar | R$ 5,17; queda ajuda a bolsa, mas atenção ao cenário eleitoral apertado |
+| Setores | Bancos, varejo e construção reagem mais ao corte de juros |
 
-**Resumo:** favorece o comprador o exterior calmo, o dólar em queda e a inflação esperada cedendo de leve. Joga contra o fato de o índice estar em zona de topo e a semana carregar dados fortes dos EUA que podem firmar o dólar. Hoje é dia de posição leve; o placar de verdade se decide de quarta a sexta.
+**Resumo.** A favor do comprador: dólar em queda, inflação comportada e aposta de corte da Selic firme. Contra: dívida ainda alta, disputa eleitoral apertada e uma semana pesada de dados que pode trazer volatilidade. Amanhã cedo o PIB do 2º trimestre (FGV prévia: +0,3%) dá o próximo tom; se vier fraco, esfria o crescimento mas reforça o espaço para cortar juros.
 
-Atualizado às 11:12 — não é recomendação de investimento.
+Atualizado às 12:09 — não é recomendação de investimento.
