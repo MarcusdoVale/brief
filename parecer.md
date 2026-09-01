@@ -1,31 +1,32 @@
-**VEREDITO: comprador nas ações brasileiras — força 6/10.** O placar vira se o dado de emprego dos EUA (ISM industrial, 11h) vier muito forte, o que firma o dólar e tira o ânimo da bolsa.
+**VEREDITO: comprador nas ações brasileiras — força 6/10.** O placar muda às 11h, quando saem dois dados fortes dos EUA (ISM industrial e vagas de emprego JOLTS): se vierem acima do esperado, o dólar tende a subir e a bolsa perde fôlego.
 
-O mercado chega hoje embalado: o Ibovespa fechou ontem em alta de 1,0%, aos 177.419 pontos, perto das máximas, e o dólar recuou para perto de R$ 5,18 (real um pouco mais forte). O clima é positivo puxado por bancos e empresas de matéria-prima. Hoje o foco é interno de manhã (PIB do 2º trimestre e a prévia da indústria) e externo à tarde (a saúde da indústria americana), num dia cheio de números que costuma mexer com o mercado.
+O dia começou positivo. O PIB (a soma de tudo que o país produz) do 2º trimestre cresceu 0,5%, acima dos 0,4% esperados, puxado pela agropecuária — sinal de economia ainda em pé, o que ajuda o humor com as ações. O Ibovespa vem de sequência de altas e opera perto dos 177 mil pontos; o dólar está firme na casa de R$ 5,18, com o real levemente valorizado. Petrobras e os grandes bancos lideram os ganhos.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PIB Brasil 2º tri (IBGE, ~09h) | sem dado | +0,4% no trimestre / ~1,8% no ano | +1,4% no tri | Mede o crescimento da economia; se vier fraco, reforça espaço para corte de juros |
-| PMI Indústria Brasil (S&P Global, ~10h) | sem dado | sem dado | 50,8 | Acima de 50 = indústria crescendo; abaixo = encolhendo |
-| ISM Indústria EUA (11h) | sem dado | 55,2 | 55,6 | Termômetro da indústria americana; forte deixa o Fed sem pressa para cortar juros e firma o dólar (cautela) |
+| PIB Brasil 2º tri (trimestre) | +0,5% | +0,4% | +1,1% | Cresce, mas em ritmo menor. Bom, sem forçar juros para cima |
+| PMI industrial Brasil (agosto) | aguardando (~10h) | sem dado | ~50 | Acima de 50 = indústria crescendo |
+| ISM industrial EUA (agosto) | sai 11h | 55,2 | 55,6 | Acima do esperado deixa o Fed sem pressa para cortar juros (dólar firme) |
+| Vagas de emprego EUA – JOLTS (julho) | sai 11h | 7,3 mi | 7,36 mi | Emprego forte = Fed sem pressa (dólar firme) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| ~09h | PIB Brasil 2º tri | Define o ritmo da economia e a aposta de corte da Selic |
-| ~10h | PMI Indústria Brasil | Primeiro retrato da indústria no mês |
-| 11h | ISM Indústria EUA | Move dólar e bolsas lá fora; contamina o Brasil |
+| 10h45 | PMI industrial final EUA (S&P Global) | Confirma a força da indústria americana |
+| 11h00 | ISM industrial EUA | Move dólar e bolsa; mede a indústria dos EUA |
+| 11h00 | Vagas de emprego EUA (JOLTS) | Termômetro do mercado de trabalho americano |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Perto de máximas (~177 mil). Segurar acima dos 176 mil mantém o tom comprador; perder isso pede cautela |
-| Dólar | Suporte perto de R$ 5,16 e resistência em R$ 5,20. ISM forte tende a empurrar para cima |
-| Setores | Bancos e commodities lideram; varejo segue atrás |
+| Ibovespa | Região de 177 mil pontos; acima disso mantém a tendência de alta, perda de força se recuar com dado forte dos EUA |
+| Dólar | R$ 5,18; se romper R$ 5,20 para cima, ligue o sinal de cautela |
+| Setores | Petrobras e bancos puxando; comércio e consumo mais fracos |
 
-**Resumo:** favorece a compra o mercado nas máximas, o real firme e a expectativa de corte da Selic (o Copom cortou para 14,00% em agosto, mas dividiu opiniões sobre setembro). Pesa contra um ISM americano acima do esperado, que firma o dólar e esfria a bolsa. Dia de muitos dados: espere volatilidade entre 09h e 11h.
+**Resumo:** A favor do comprador: PIB acima do esperado, real firme e Selic (juro básico) em queda (14,00%, com aposta de mais um corte pequeno até o fim do ano). Contra: os dois dados dos EUA às 11h; se o emprego e a indústria americanos vierem fortes, o dólar sobe e a bolsa pode devolver ganhos. Próximo evento grande do Brasil: reunião de juros do Copom em 16/09.
 
-Atualizado às 09:11 — não é recomendação de investimento.
+Atualizado às 10:12 — não é recomendação de investimento.
