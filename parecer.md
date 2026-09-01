@@ -1,32 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6/10.** O placar muda às 11h, quando saem dois dados fortes dos EUA (ISM industrial e vagas de emprego JOLTS): se vierem acima do esperado, o dólar tende a subir e a bolsa perde fôlego.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar pode virar com o ISM Industrial dos EUA (11h): se vier muito forte, aumenta a cautela lá fora e pressiona o dólar para cima.
 
-O dia começou positivo. O PIB (a soma de tudo que o país produz) do 2º trimestre cresceu 0,5%, acima dos 0,4% esperados, puxado pela agropecuária — sinal de economia ainda em pé, o que ajuda o humor com as ações. O Ibovespa vem de sequência de altas e opera perto dos 177 mil pontos; o dólar está firme na casa de R$ 5,18, com o real levemente valorizado. Petrobras e os grandes bancos lideram os ganhos.
+O dia começou positivo. A bolsa sobe cerca de **1%**, perto dos **177.400 pontos**, puxada por **Petrobras (+2,6%)** e pelos **bancos**, enquanto o dólar recua para perto de **R$ 5,18** (real mais forte). Dois dados internos ajudaram: o **PIB do 2º trimestre** veio um pouco acima do esperado, mas confirmando desaceleração; e o **PMI da indústria** (termômetro do setor) veio fraco — o que esfria o crescimento, porém abre mais espaço para o Banco Central cortar os juros à frente, algo que costuma favorecer as ações.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PIB Brasil 2º tri (trimestre) | +0,5% | +0,4% | +1,1% | Cresce, mas em ritmo menor. Bom, sem forçar juros para cima |
-| PMI industrial Brasil (agosto) | aguardando (~10h) | sem dado | ~50 | Acima de 50 = indústria crescendo |
-| ISM industrial EUA (agosto) | sai 11h | 55,2 | 55,6 | Acima do esperado deixa o Fed sem pressa para cortar juros (dólar firme) |
-| Vagas de emprego EUA – JOLTS (julho) | sai 11h | 7,3 mi | 7,36 mi | Emprego forte = Fed sem pressa (dólar firme) |
+| PIB Brasil (2º tri) | +0,5% | +0,3% a +0,5% | +1,1% | Cresceu acima do piso, mas perdeu ritmo |
+| PMI Indústria Brasil (ago) | 46,3 | sem dado | 47,5 | Abaixo de 50 = indústria encolhendo; pior em 40 meses |
+| ISM Indústria EUA (ago) | sai 11h | ~55,0 | 55,6 | Acima de 50 = crescendo; se forte, Fed sem pressa de cortar (dólar firme) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 10h45 | PMI industrial final EUA (S&P Global) | Confirma a força da indústria americana |
-| 11h00 | ISM industrial EUA | Move dólar e bolsa; mede a indústria dos EUA |
-| 11h00 | Vagas de emprego EUA (JOLTS) | Termômetro do mercado de trabalho americano |
+| 11h00 | ISM Industrial dos EUA | Move o dólar e o humor externo; número forte pesa sobre a bolsa |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Região de 177 mil pontos; acima disso mantém a tendência de alta, perda de força se recuar com dado forte dos EUA |
-| Dólar | R$ 5,18; se romper R$ 5,20 para cima, ligue o sinal de cautela |
-| Setores | Petrobras e bancos puxando; comércio e consumo mais fracos |
+| Ibovespa | Segura acima de 177 mil = viés comprador; perder isso pede cautela |
+| Dólar | Piso perto de R$ 5,17–5,18; volta acima de R$ 5,20 liga o alerta |
+| Setores | Petrobras e bancos sustentam o índice; acompanhar se mantêm a força |
 
-**Resumo:** A favor do comprador: PIB acima do esperado, real firme e Selic (juro básico) em queda (14,00%, com aposta de mais um corte pequeno até o fim do ano). Contra: os dois dados dos EUA às 11h; se o emprego e a indústria americanos vierem fortes, o dólar sobe e a bolsa pode devolver ganhos. Próximo evento grande do Brasil: reunião de juros do Copom em 16/09.
+**Resumo:** favorece o comprador o quadro interno — real forte, blue chips em alta e PMI fraco que reforça a aposta de corte de juros. Contra, o risco vem de fora: um ISM americano acima do esperado às 11h dá fôlego ao dólar e pode tirar gás da bolsa. Fique atento a esse dado antes de aumentar posição.
 
-Atualizado às 10:12 — não é recomendação de investimento.
+Atualizado às 11:09 — não é recomendação de investimento.
