@@ -1,30 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar melhora com PIB acima do esperado e dólar em queda; muda se o emprego dos EUA (ADP quarta, payroll sexta) vier forte e firmar o dólar.
+**VEREDITO: comprador moderado nas ações brasileiras — força 6 de 10.** O placar muda com o ADP (09h15) e o Livro Bege (15h): número de emprego forte nos EUA firma o dólar e pesa; número fraco reforça a aposta de corte de juros por lá e ajuda a bolsa.
 
-O dia foi de bolsa em alta (Ibovespa perto dos 179 mil pontos, avanço de cerca de 1%), puxada por Petrobras, petróleo e pelo PIB do 2º trimestre, que cresceu 0,5% e superou levemente a projeção de 0,4%. O dólar recuou para a casa de R$ 5,18. O ambiente ajudou as ações: PIB resiliente, mas com indústria fraca, mantém viva a aposta de corte da Selic mais à frente, o que reduz o custo do crédito e direciona o dinheiro para as ações.
+O Ibovespa vem embalado — fechou ontem aos 179.722 pontos (+1,30%), a 10ª alta seguida, e testa a resistência dos 181 mil. O real ganhou força (dólar a R$ 5,156) com o exterior calmo e a expectativa de corte da Selic em setembro. O ponto de atenção é que a bolsa está esticada perto do topo e o dia tem eventos externos de peso ainda por sair, o que pede cautela para não comprar no repique.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PIB Brasil 2º tri | +0,5% | +0,4% | +1,1% | Economia cresce, mas desacelera; levemente positivo |
-| PMI Industrial Brasil (ago) | 46,3 | sem dado | 47,5 | Abaixo de 50 = indústria encolhendo; menor nível desde abr/2023 |
-| ISM Industrial EUA (ago) | 54,6 | ~55,0 | 55,6 | Acima de 50 = indústria americana forte; Fed sem pressa para cortar juros (cautela no dólar) |
+| PMI Industrial Brasil (ago, saiu 01/09) | 46,3 | sem dado | 47,5 | Abaixo de 50 = indústria encolhendo; menor nível desde abr/2023. Esfria o crescimento, mas dá mais espaço para corte de juros |
+| Produção Industrial julho (IBGE, 09h) | ainda não saiu | sem dado | — | Mede a força da indústria; sai às 09h |
+| ADP emprego privado EUA (ago, 09h15) | ainda não saiu | ~47 mil | +44 mil | Prévia do emprego americano; forte deixa o Fed sem pressa para cortar juros (firma o dólar) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| Quarta, 09h15 | ADP — prévia do emprego privado nos EUA | Antecipa o payroll; mexe com dólar e juros |
-| Quarta, 15h | Livro Bege (Fed) | Panorama da economia americana |
-| Sexta, 09h30 | Payroll (emprego dos EUA) | Dado que mais move o mercado na semana |
+| 09h00 | Produção Industrial Brasil (julho) | Mede a atividade doméstica após PIB mais fraco |
+| 09h15 | ADP emprego privado EUA (agosto) | Prévia do payroll de sexta; move dólar e juros |
+| 15h00 | Livro Bege do Fed | Retrato da economia americana região a região |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Segura acima dos 179 mil; de olho em Petrobras e Vale |
-| Dólar | Piso perto de R$ 5,16; sobe se emprego dos EUA vier forte |
+| Ibovespa | Resistência em 181.060; suporte perto de 178 mil. Índice esticado após 10 altas |
+| Dólar | Rodando na casa de R$ 5,15; ADP forte pode empurrar de volta a R$ 5,20 |
+| Setores | Bancos e commodities lideram; petróleo no radar por tensão externa |
 
-**Resumo:** favorece o comprador o PIB acima do esperado, o dólar em queda e a aposta de corte da Selic. Contra, o ISM industrial americano forte deixa o Fed sem pressa para cortar juros e pode firmar o dólar. Os gatilhos da semana são o ADP (quarta) e o payroll (sexta); dado fraco lá fora ajuda o real e a bolsa.
+**Resumo:** favorece o comprador o momento positivo, o real firme e a aposta de corte da Selic (para 13,75% em setembro). Joga contra a bolsa esticada no topo e o risco de dado americano forte no ADP e no Livro Bege, que firmariam o dólar. Curto prazo depende dos números das 09h e das 15h.
 
-Atualizado às 18:08 — não é recomendação de investimento.
+Atualizado às 08:08 — não é recomendação de investimento.
