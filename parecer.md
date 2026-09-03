@@ -1,31 +1,31 @@
-**VEREDITO: comprador nas ações brasileiras — força 6/10.** O que muda o placar: o payroll (relatório de emprego) dos EUA amanhã (09h30) e sinais de realização de lucro depois de 5 altas seguidas.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o payroll dos EUA (amanhã, sexta, 09h30) vier forte e esfriar a aposta de corte de juros lá fora.
 
-O mercado está animado por dentro de casa: a aposta em corte de juros no Copom da próxima semana (16/09) segue firme e direciona o dinheiro para as ações. O Ibovespa dispara cerca de **+3%**, aos ~185 mil pontos (5ª alta seguida), com o dólar em queda, perto de R$ 5,09. O cenário externo, porém, pede cautela: os dados de serviços dos EUA vieram fortes hoje, o que deixa o Fed (banco central americano) sem pressa para cortar juros e tende a firmar o dólar lá fora.
+O que mandou hoje foi o cenário local: a bolsa segue perto das máximas (Ibovespa rondando 186 mil pontos, alta modesta no dia após saltar 3% ontem) e o dólar recua para cerca de R$ 5,10, com o real firme. O combustível é a combinação de otimismo com o quadro eleitoral, inflação mais fraca nas últimas leituras e a expectativa de que o Copom possa cortar a Selic. Lá fora, o dado de serviços dos EUA veio forte, o que pesa como cautela porque deixa o banco central americano (Fed) sem pressa para baixar os juros e tende a segurar o dólar.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PMI Serviços Brasil (ago) | 50,5 | sem dado | 49,7 | Acima de 50: serviços voltaram a crescer |
-| PMI Composto Brasil (ago) | 49,1 | sem dado | 48,8 | Ainda abaixo de 50: economia fraca (dá espaço a corte de juros) |
-| ISM Serviços EUA (ago) | 55,4 | 54,3 | 54,1 | Bem forte: economia americana aquecida, cautela |
-| PMI Serviços EUA S&P (ago) | 56,5 | 55,5 | 54,6 | Confirma força dos EUA |
+| PMI Serviços Brasil (S&P, ago) | 50,5 | sem dado | 49,7 | Acima de 50: serviços voltaram a crescer, porém de forma frágil |
+| PMI Composto Brasil (ago) | 49,1 | sem dado | 48,8 | Abaixo de 50: economia ainda encolhe no conjunto — dá mais espaço para corte de juros |
+| ISM Serviços EUA (ago) | 55,4 | 54,3 | 54,1 | Bem acima de 50 e do esperado: economia americana firme, Fed sem pressa (cautela p/ o dólar) |
+| ADP – emprego privado EUA (ontem) | 38 mil | 46,5 mil | — | Fraco: reforça a aposta de corte de juros nos EUA, ajuda o real |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| já saiu (11h) | ISM Serviços EUA | Veio acima do esperado; firma o dólar lá fora |
-| amanhã 09h30 | Payroll (emprego) EUA | Principal dado da semana; mexe muito com o mercado |
+| 11h (já saiu) | ISM Serviços EUA | Mostra a maior parte da economia americana; veio forte |
+| Amanhã 09h30 | Payroll EUA (emprego, ago) | Evento-chave da semana: define o rumo dos juros nos EUA e do dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte ~183 mil; resistência ~186 mil. Alta forte pede cuidado com realização |
-| Dólar | Perto de R$ 5,09; dado americano forte pode segurar a queda |
-| Setores | Bancos e Vale puxaram a alta; sensíveis a juros |
+| Ibovespa | Zona de 185–187 mil (máximas). Perda de fôlego pode virar realização de lucros antes do payroll |
+| Dólar | Piso perto de R$ 5,08–5,10; dado forte nos EUA pode devolver o dólar acima de R$ 5,15 |
+| Setores | Bancos e Petrobras puxando; sensíveis a juros e ao humor externo |
 
-**Resumo:** favorece a alta a aposta consolidada de corte da Selic e o dólar em queda. Contra pesam os dados fortes dos EUA (Fed sem pressa) e o risco de realização de lucro após a sequência de ganhos. O payroll de amanhã é o divisor de águas: número fraco reforça o corte de juros americano e ajuda o real; número forte firma o dólar e esfria a bolsa.
+**Resumo.** Favorece o comprador: bolsa em máximas, real firme e aposta viva de corte da Selic. Favorece cautela: serviços fortes nos EUA e o payroll de amanhã, que pode esfriar o corte de juros americano e pressionar o dólar. Até lá, tendência boa, mas com risco de realização de lucros perto do topo.
 
-Atualizado às 12:12 — não é recomendação de investimento.
+Atualizado às 13:08 — não é recomendação de investimento.
