@@ -1,30 +1,32 @@
-**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o mercado realizar lucro depois de 10 altas seguidas, ou se o dólar voltar a subir.
+**VEREDITO: comprador nas ações brasileiras — força 6 de 10.** O placar vira se o ISM de Serviços dos EUA (11h) vier forte, firmando o dólar, ou se houver realização de lucro após 11 altas seguidas.
 
-O clima segue favorável às ações. A bolsa vem de dez pregões seguidos de alta, perto do recorde, com o dólar cedendo pela segunda vez. O que ajuda hoje é o dado fraco de emprego nos EUA: a prévia do setor privado (ADP) veio bem abaixo do esperado, o que reforça a aposta de que o banco central americano (Fed) vai cortar juros — isso enfraquece o dólar no mundo e favorece o real e a bolsa. No Brasil, a indústria cresceu pouco em julho, o que esfria a economia mas abre mais espaço para o Copom cortar a Selic à frente. O ponto de atenção é que a alta já está esticada: qualquer notícia ruim pode disparar realização de lucro.
+A bolsa vem de uma sequência forte: o Ibovespa fechou ontem (02/09) aos 185.205 pontos, alta de 3,05% e 11ª sessão positiva seguida, com o dólar a R$ 5,10 (queda de 0,91%). O que puxa é a combinação de otimismo com o cenário eleitoral (pesquisa Quaest animou os investidores) e entrada de dinheiro estrangeiro. Ajuda também o exterior: o ADP, prévia do emprego privado dos EUA divulgada ontem, veio fraco (38 mil vagas contra cerca de 47 mil esperadas), o que reforça a aposta de corte de juros pelo Federal Reserve (o banco central americano) e tende a ajudar o real. Hoje o mercado abre já muito esticado, então cabe atenção a uma pausa/correção.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| Produção industrial Brasil (jul, mês) | +0,2% | +0,8% | negativo | Indústria fraca; reforça espaço para corte de juros |
-| ADP emprego privado EUA (ago) | 38 mil | 47 mil | 44 mil | Emprego fraco nos EUA; firma aposta de corte do Fed (ajuda o real) |
-| Beige Book do Fed | 15h00 | — | — | Relatório de atividade; pode mexer com o dólar |
+| ADP – emprego privado EUA (ago, saiu ontem) | 38 mil | ~47 mil | sem dado | Emprego fraco reforça aposta de corte de juros nos EUA; ajuda o real |
+| PMI Serviços Brasil (S&P Global, ago) | 11h | sem dado | 49,7 | Abaixo de 50 = setor encolhendo; fraqueza abre espaço para corte da Selic |
+| PMI Composto EUA (ago, final) | ~10h45 | sem dado | 56,0 | Acima de 50 = economia americana crescendo |
+| ISM Serviços EUA (ago) | 11h | sem dado | sem dado | Mede a maior parte da economia dos EUA; forte firma o dólar (cautela) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 09h15 (já saiu) | ADP emprego privado EUA | Prévia do payroll de sexta; veio fraco |
-| 15h00 | Beige Book do Fed | Fotografia da economia americana antes da decisão de juros |
+| ~10h00 | PMI Serviços/Composto Brasil | Mede o fôlego da economia e o espaço para corte da Selic |
+| 11h00 | ISM Serviços EUA | Move o dólar e o humor global; principal evento do dia |
+| Amanhã 09h30 | Payroll EUA (emprego oficial) | Grande evento da semana; pode mexer forte no dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Rodando perto de 179–180 mil pontos (região de recorde). Cuidado com realização após 10 altas |
-| Dólar | Em torno de R$ 5,15, em queda. Perder R$ 5,14 anima; voltar acima de R$ 5,20 liga o alerta |
-| Setores | Petrobras, Vale e bancos puxando; petróleo firme ajuda |
+| Ibovespa | Perto de 185 mil, em topo histórico; após 11 altas, risco de realização — vigie perda de força |
+| Dólar | Em torno de R$ 5,10; ISM forte pode devolver o dólar acima desse nível |
+| Setores | Bancos, Petrobras e Vale lideraram o movimento; sensíveis a fluxo estrangeiro e petróleo |
 
-**Resumo:** favorece o comprador o dólar em queda e os dados fracos lá fora (EUA), que empurram a aposta de corte de juros aqui e nos EUA. Contra, pesa uma bolsa muito esticada e vulnerável a realização de lucro. Amanhã sai o ISM de Serviços dos EUA (~11h), que costuma mexer bastante com o mercado.
+**Resumo:** favorecem o comprador o fluxo estrangeiro, o otimismo eleitoral e o emprego fraco nos EUA (que ajuda a aposta de corte de juros lá fora e o real). Jogam contra a bolsa muito esticada após 11 altas e o risco de o ISM de Serviços vir forte, firmando o dólar. O grande teste é o payroll de amanhã. A Selic está em 14,00% ao ano e o mercado se divide entre novo corte e pausa em setembro.
 
-Atualizado às 13:12 — não é recomendação de investimento.
+Atualizado às 05:01 — não é recomendação de investimento.
