@@ -1,30 +1,29 @@
-**VEREDITO: comprador nas ações brasileiras — força 6/10.** O placar vira para vendedor se o ISM de Serviços dos EUA (11h) vier bem acima do esperado, firmando o dólar e esfriando o clima.
+**VEREDITO: comprador — força 6 de 10.** O placar muda pela força do dado americano de hoje (ISM de Serviços forte), que aumenta a cautela lá fora e pode segurar o real; do lado de casa, o clima segue positivo.
 
-A bolsa vem de uma sequência forte: fechou ontem aos 185.205 pontos (+3,05%), na 11ª alta seguida, com Vale, bancos e Petrobras puxando. O real segue firme, com o dólar perto de R$ 5,10. O que sustenta o movimento é a aposta consolidada de que o Copom corta a Selic (a taxa básica de juros) em 0,25 ponto em setembro — o Focus já reduziu a projeção de fim de ano para 13,75%. Juros menores reduzem o custo do crédito e direcionam o dinheiro para as ações. Hoje o mercado abre de olho na agenda cheia dos EUA.
+A bolsa brasileira vem embalada: ontem o Ibovespa saltou cerca de 3% e passou dos 185 mil pontos, com o dólar recuando para perto de R$ 5,11. O que puxou foi o alívio no exterior (trégua entre EUA e Irã) somado ao ânimo interno com a pesquisa eleitoral (Quaest) e a expectativa de que o Banco Central ainda tem espaço para cortar os juros. O ponto de atenção é o exterior: o setor de serviços dos EUA veio mais forte que o esperado, o que deixa o Federal Reserve (o banco central americano) sem pressa para cortar juros por lá e tende a firmar o dólar — um freio para a nossa bolsa.
 
 **O que saiu hoje (realizado x esperado)**
 
 | Indicador | Saiu | Esperado | Anterior | O que significa |
 |---|---|---|---|---|
-| PMI Serviços Brasil (ago, S&P Global) | 49,7 | sem dado | 51,3 | Abaixo de 50 = setor encolhendo. Atividade fraca esfria o crescimento, mas abre mais espaço para corte de juros |
-| Pedidos de auxílio-desemprego EUA (semanal) | ~205 mil | 205 mil | 203 mil | Dado de baixo impacto; mercado de trabalho segue firme |
+| PMI de Serviços Brasil (S&P Global, ago.) | 50,5 | sem dado | 49,7 | Prévia da atividade de serviços; acima de 50 = setor voltou a crescer, mas de forma fraca. Atividade morna dá mais espaço para corte de juros |
+| ISM de Serviços EUA (ago.) | 55,4 | 54,3 | 54,1 | Mede o maior pedaço da economia americana; veio forte, acima do esperado. Deixa o Fed sem pressa para cortar juros e firma o dólar (cautela) |
 
 **Zona de notícia (alto impacto — fique atento à volatilidade)**
 
 | Horário (Brasília) | Evento | Por quê |
 |---|---|---|
-| 10h45 | PMI Serviços/Composto EUA (final, S&P Global) — esperado 54,5/56,0 | Termômetro da economia americana |
-| 11h | ISM de Serviços EUA — esperado 54,2 (ant. 54,1) | Mostra a maior parte da economia dos EUA e move mercado. Acima do esperado deixa o Fed sem pressa para cortar juros e firma o dólar (cautela) |
-| Amanhã 09h30 | Payroll EUA (emprego de agosto) | Principal dado da semana; define o tom do dólar |
+| 11h00 (já saiu) | ISM de Serviços EUA | Move mercado global; veio forte |
+| Amanhã 09h30 | Payroll EUA (emprego de agosto) | Principal dado de emprego americano; dita o ritmo de juros do Fed e o rumo do dólar |
 
 **Onde ficar de olho**
 
 | Ativo | Referência |
 |---|---|
-| Ibovespa | Suporte perto de 183 mil; resistência na máxima de 186 mil. Sequência esticada pede cuidado com realização de lucros |
-| Dólar | Região de R$ 5,10. ISM forte pode empurrar de volta aos R$ 5,15 |
-| Setores | Vale e bancos lideram; commodities e crédito seguem no radar |
+| Ibovespa | Região dos 185 mil pontos após a alta forte de ontem; cuidado com realização de lucros |
+| Dólar | Perto de R$ 5,11; dado americano forte pode empurrar de volta para cima |
+| Setores | Bancos e consumo sensíveis à aposta de corte de juros; exportadoras acompanham o dólar |
 
-**Resumo:** favorece o comprador a aposta firme de corte da Selic e o real forte. Favorece o vendedor um ISM de Serviços dos EUA acima do esperado (dólar firma, cautela) e a bolsa já muito esticada após 11 altas. O grande teste vem amanhã com o payroll.
+**Resumo:** A favor do comprador estão o bom humor interno e a expectativa de queda de juros no Brasil. Contra, o dado americano forte de hoje, que reforça a cautela lá fora e pode dar fôlego ao dólar. O gatilho de amanhã é o relatório de emprego dos EUA (payroll): número fraco ajuda a bolsa e o real; número forte pede cautela.
 
-Atualizado às 10:20 — não é recomendação de investimento.
+Atualizado às 11:16 — não é recomendação de investimento.
