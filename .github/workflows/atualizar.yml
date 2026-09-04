@@ -1,18 +1,20 @@
 name: Atualizar Brief
 
-# Roda na nuvem do GitHub (de graca). Nao depende do seu PC.
+# DESCONTINUADO em 04/09/2026: a atualizacao automatica foi desligada.
+# Os gatilhos automaticos (agenda de 30 min e push do parecer) estao
+# comentados abaixo. Para religar, basta descomentar os dois blocos.
 on:
-  schedule:
-    # A cada 30 min, de segunda a sexta, ~horario de mercado (UTC).
-    # 11h-22h UTC = ~8h-19h de Brasilia.
-    - cron: '*/30 11-22 * * 1-5'
-  push:
-    # Republica na hora quando o parecer muda.
-    paths:
-      - 'parecer.md'
-      - 'gerar_site.py'
-      - 'focus_brief.py'
-  workflow_dispatch: {}   # botao "Run workflow" manual
+  # schedule:
+  #   # A cada 30 min, de segunda a sexta, ~horario de mercado (UTC).
+  #   # 11h-22h UTC = ~8h-19h de Brasilia.
+  #   - cron: '*/30 11-22 * * 1-5'
+  # push:
+  #   # Republica na hora quando o parecer muda.
+  #   paths:
+  #     - 'parecer.md'
+  #     - 'gerar_site.py'
+  #     - 'focus_brief.py'
+  workflow_dispatch: {}   # so roda no botao "Run workflow", manualmente
 
 permissions:
   contents: write
