@@ -496,6 +496,11 @@ def main():
     except Exception:
         sgs = []
 
+    # Sem Focus e sem SGS (BCB fora do ar) a pagina sairia vazia: mantem a atual.
+    if not focus and not sgs:
+        print("Aviso: Banco Central indisponivel; index.html mantido sem alteracao.")
+        return
+
     variacao, prev_fmt = {}, None
     try:
         con = fb.hist_conectar()
