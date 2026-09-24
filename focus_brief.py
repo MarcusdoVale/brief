@@ -39,16 +39,24 @@ IBGE_CAL_URL = "https://servicodados.ibge.gov.br/api/v3/calendario/"
 AGENDA_DIAS = 21  # janela: proximos N dias
 REFRESH_SEG = 1800  # auto-refresh do HTML (segundos). 1800 = 30 min.
 
-# COPOM (decisao de Selic) — datas OFICIAIS 2026. Atualize 1x/ano.
+# COPOM (decisao de Selic) — datas OFICIAIS 2026 e 2027. Atualize 1x/ano.
 COPOM_2026 = [
     "2026-01-28", "2026-03-18", "2026-04-29", "2026-06-17",
     "2026-08-05", "2026-09-16", "2026-11-04", "2026-12-09",
 ]
+COPOM_2027 = [
+    "2027-01-27", "2027-03-17", "2027-04-28", "2027-06-16",
+    "2027-08-04", "2027-09-22", "2027-10-27", "2027-12-08",
+]
 
-# FOMC (decisao de juros dos EUA) — datas OFICIAIS 2026 (2o dia da reuniao).
+# FOMC (decisao de juros dos EUA) — datas OFICIAIS 2026 e 2027 (2o dia da reuniao).
 FOMC_2026 = [
     "2026-01-28", "2026-03-18", "2026-04-29", "2026-06-17",
     "2026-07-29", "2026-09-16", "2026-10-28", "2026-12-09",
+]
+FOMC_2027 = [
+    "2027-01-27", "2027-03-17", "2027-04-28", "2027-06-09",
+    "2027-07-28", "2027-09-15", "2027-10-27", "2027-12-08",
 ]
 
 # Series do BCB (SGS) para valores REALIZADOS — API gratis, sem chave.
@@ -364,7 +372,7 @@ def pegar_agenda(dias=AGENDA_DIAS):
     except Exception as e:
         _log("ERRO releases comex: %r" % e)
 
-    for ds in COPOM_2026:
+    for ds in COPOM_2026 + COPOM_2027:
         try:
             d = dt.datetime.strptime(ds, "%Y-%m-%d").date()
         except ValueError:
@@ -373,7 +381,7 @@ def pegar_agenda(dias=AGENDA_DIAS):
             eventos.append({"date": d, "quando": d.strftime("%d/%m/%Y"),
                             "evento": "🇧🇷 Decisão de juros — Copom (Selic)", "fonte": "BCB"})
 
-    for ds in FOMC_2026:
+    for ds in FOMC_2026 + FOMC_2027:
         try:
             d = dt.datetime.strptime(ds, "%Y-%m-%d").date()
         except ValueError:
